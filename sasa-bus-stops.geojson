@@ -13151,7 +13151,6 @@
       "type": "Feature",
       "properties": {
         
-        "amenity": "vending_machine",
         "highway": "bus_stop",
         "name": "Trauttmansdorff - Giardino Botanico",
         "name:de": "Trauttmansdorff",
@@ -13161,7 +13160,6 @@
         "route_ref:sasa": "4;146",
         "shelter": "yes",
         "source": "open.sasabz.it",
-        "vending": "public_transport_tickets"
       },
       "geometry": {
         "type": "Point",
@@ -15890,7 +15888,6 @@
       "type": "Feature",
       "properties": {
         
-        "amenity": "vending_machine",
         "highway": "bus_stop",
         "name": "Marlingerstr. 2 - via Marlengo 2",
         "name:de": "Marlingerstr. 2",
@@ -15900,7 +15897,6 @@
         "route_ref:sasa": "6;146",
         "shelter": "yes",
         "source": "open.sasabz.it",
-        "vending": "public_transport_tickets"
       },
       "geometry": {
         "type": "Point",
@@ -16074,7 +16070,6 @@
       "type": "Feature",
       "properties": {
         
-        "amenity": "vending_machine",
         "highway": "bus_stop",
         "name": "Krankenhaus - Ospedale",
         "name:de": "Krankenhaus",
@@ -16084,7 +16079,6 @@
         "route_ref:sasa": "4;146",
         "shelter": "yes",
         "source": "open.sasabz.it",
-        "vending": "public_transport_tickets"
       },
       "geometry": {
         "type": "Point",
