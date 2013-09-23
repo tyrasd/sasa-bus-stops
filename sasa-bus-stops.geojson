@@ -13159,7 +13159,7 @@
         "ref:sasa": "BOTAN",
         "route_ref:sasa": "4;146",
         "shelter": "yes",
-        "source": "open.sasabz.it",
+        "source": "open.sasabz.it"
       },
       "geometry": {
         "type": "Point",
@@ -15896,7 +15896,7 @@
         "ref:sasa": "MARLE2",
         "route_ref:sasa": "6;146",
         "shelter": "yes",
-        "source": "open.sasabz.it",
+        "source": "open.sasabz.it"
       },
       "geometry": {
         "type": "Point",
@@ -16078,7 +16078,7 @@
         "ref:sasa": "OSPED",
         "route_ref:sasa": "4;146",
         "shelter": "yes",
-        "source": "open.sasabz.it",
+        "source": "open.sasabz.it"
       },
       "geometry": {
         "type": "Point",
