@@ -1,0 +1,56 @@
+rm tmp.db
+# sqlite3
+sqlite3 tmp.db
+
+create table paline(id integer, name varchar(255), lon float, lat float, height integer, lines varchar(255));
+
+.separator ";"
+.import paline.csv paline
+.import paline_old.csv old_paline
+
+update paline set lon=(select op.lon from old_paline op where op.id=paline.id);
+update paline set lat=(select op.lat from old_paline op where op.id=paline.id);
+
+create table fermate (id integer, i1 integer, denom varchar(255), coordx float, coordy float, coordz float, i2 integer, i3 varchar(10), i4 varchar(10), i5 varchar(10), i6 varchar(10), i7 varchar(10), i8 varchar(10), i9 varchar(10), i10 varchar(10), comune varchar(255), i11 integer, i12 varchar(10), i13 varchar(10), i14 varchar(10), i15 varchar(10), code varchar(20), denom2 varchar(255), i16 varchar(10), fahrkarten varchar(255), fahrkarten2 varchar(255), i17 varchar(10), i18 varchar(10), area_tariff varchar(10), area_tariff_name varchar(20), area_tariff_id integer, type varchar(40), i19 varchar(20), i20 varchar(10), i21 varchar(10), i22 varchar(10), i23 varchar(10));
+
+.import fermate.csv fermate
+
+delete from fermate where id="Numero esterno";
+
+
+.separator ";"
+.output "out.txt"
+
+select
+  "bus_stop",
+  trim(name),
+  rtrim(trim(rtrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  ltrim(trim(ltrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  rtrim(trim(rtrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ(),`'")),"- ")||" - "||ltrim(trim(ltrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  ltrim(trim(ltrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- ")||" - "||rtrim(trim(rtrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  ltrim(trim(ltrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- ")==rtrim(trim(rtrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  rtrim(trim(rtrim(name,"1234567890. abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ()/,`'")),"- "),
+  '"'||replace(replace(trim(replace(replace(replace(replace(lines," / ",";"),"VARIANTI",""),"TRASF",""),"TRAS_DIP",""),";")," ME","")," BZ","")||'"',
+  type,
+  replace(fahrkarten2,"FAHRKARTENAUTOMAT","public_transport_tickets"),
+  code,
+  lat,
+  lon
+from paline left join fermate on paline.id = fermate.id
+order by paline.id;
+
+
+# bash
+echo "highway;ori_name;name:it;name:de;name_it_de;name_de_it;names_equal;name_equal_value;route_ref:sasa;ausstattung;vending;ref:sasa;lat;lon" > out.csv
+cat out.txt >> out.csv
+
+# JOSM
+remove vending=public_transport_tickets
+ausstattung=Sitzbank: add bench=yes
+ausstattung=Schutzdach/Dach: add shelter=yes
+ausstattung=Steher: nix
+ausstattung=anderes: manuell :(
+fix names (ori_name für einsprachiges, name:de für name_equal=1, name_it_de in BZ,Leifer,Branzoll,Pfatten, name_de_it sonst).
+ü in Bozen Süd fixen
+
+http://www.provinz.bz.it/lpa/285.asp?aktuelles_action=4&aktuelles_article_id=432423
