@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-48757' action='modify' visible='true' lat='46.5919442' lon='11.1478594'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Voellan 4 - Foiana 4' />
+    <tag k='name:de' v='Voellan 4' />
+    <tag k='name:it' v='Foiana 4' />
+    <tag k='route_ref' v='14;CITY LA' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48755' action='modify' visible='true' lat='46.6161972' lon='11.1455778'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde Lana - Lana Comune' />
+    <tag k='name:de' v='Gemeinde Lana' />
+    <tag k='name:it' v='Lana Comune' />
+    <tag k='route_ref' v='BZ-ME;11;14;CITY LA' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48753' action='modify' visible='true' lat='46.6163469' lon='11.1454881'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde Lana - Lana Comune' />
+    <tag k='name:de' v='Gemeinde Lana' />
+    <tag k='name:it' v='Lana Comune' />
+    <tag k='route_ref' v='BZ-ME;11;14;CITY LA;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48751' action='modify' visible='true' lat='46.5921897' lon='11.1477869'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Voellan 4 - Foiana 4' />
+    <tag k='name:de' v='Voellan 4' />
+    <tag k='name:it' v='Foiana 4' />
+    <tag k='route_ref' v='14;CITY LA' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48749' action='modify' visible='true' lat='46.6186658' lon='11.1419633'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lana Busbahnhof - Lana Autostazione' />
+    <tag k='name:de' v='Lana Busbahnhof' />
+    <tag k='name:it' v='Lana Autostazione' />
+    <tag k='route_ref' v='BZ-ME;248;11;14;CITY LA;NIGHTSH' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48747' action='modify' visible='true' lat='46.6181067' lon='11.14172'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lana Busbahnhof - Lana Autostazione' />
+    <tag k='name:de' v='Lana Busbahnhof' />
+    <tag k='name:it' v='Lana Autostazione' />
+    <tag k='route_ref' v='BZ-ME;248;11;14;CITY LA' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+</osm>

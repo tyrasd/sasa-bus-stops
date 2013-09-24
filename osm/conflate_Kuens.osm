@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-48745' action='modify' visible='true' lat='46.6954872' lon='11.1740192'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kuens, Kuenserhof - Caines, Kuenserhof' />
+    <tag k='name:de' v='Kuens, Kuenserhof' />
+    <tag k='name:it' v='Caines, Kuenserhof' />
+    <tag k='route_ref' v='VERNURIO' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48743' action='modify' visible='true' lat='46.6957603' lon='11.1744933'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw. Kuenserhof - Bivio Kuenserhof' />
+    <tag k='name:de' v='Abzw. Kuenserhof' />
+    <tag k='name:it' v='Bivio Kuenserhof' />
+    <tag k='route_ref' v='VERNURIO' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48741' action='modify' visible='true' lat='46.695475' lon='11.1742058'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kuens, Kuenserhof - Caines, Kuenserhof' />
+    <tag k='name:de' v='Kuens, Kuenserhof' />
+    <tag k='name:it' v='Caines, Kuenserhof' />
+    <tag k='route_ref' v='VERNURIO' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+</osm>

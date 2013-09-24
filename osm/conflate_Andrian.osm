@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-48297' action='modify' visible='true' lat='46.5200872' lon='11.2327731'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Andrian Rathaus - Andriano Municipio' />
+    <tag k='name:de' v='Andrian Rathaus' />
+    <tag k='name:it' v='Andriano Municipio' />
+    <tag k='route_ref' v='NALLES' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-48295' action='modify' visible='true' lat='46.5196831' lon='11.2331194'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Andrian Rathaus - Andriano Municipio' />
+    <tag k='name:de' v='Andrian Rathaus' />
+    <tag k='name:it' v='Andriano Municipio' />
+    <tag k='route_ref' v='NALLES' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+</osm>

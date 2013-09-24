@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-49069' action='modify' visible='true' lat='46.6897089' lon='11.1876314'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schenna Dorf - Scena Paese' />
+    <tag k='name:de' v='Schenna Dorf' />
+    <tag k='name:it' v='Scena Paese' />
+    <tag k='route_ref' v='NIGHTSH' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+</osm>

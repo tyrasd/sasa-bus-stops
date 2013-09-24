@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-49151' action='modify' visible='true' lat='46.5636417' lon='11.1695456'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
+    <tag k='name:de' v='Tisens Gemeinde' />
+    <tag k='name:it' v='Tesimo Comune' />
+    <tag k='route_ref' v='248' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-49149' action='modify' visible='true' lat='46.5682486' lon='11.1676956'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
+    <tag k='name:de' v='Tisens (Tisog)' />
+    <tag k='name:it' v='Tesimo (Tisog)' />
+    <tag k='route_ref' v='248' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-49147' action='modify' visible='true' lat='46.5635628' lon='11.1694439'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
+    <tag k='name:de' v='Tisens Gemeinde' />
+    <tag k='name:it' v='Tesimo Comune' />
+    <tag k='route_ref' v='248' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-49145' action='modify' visible='true' lat='46.5679128' lon='11.1681447'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
+    <tag k='name:de' v='Tisens (Tisog)' />
+    <tag k='name:it' v='Tesimo (Tisog)' />
+    <tag k='route_ref' v='248' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-49143' action='modify' visible='true' lat='46.5541575' lon='11.179445'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Prissian Dorf - Prissiano Paese' />
+    <tag k='name:de' v='Prissian Dorf' />
+    <tag k='name:it' v='Prissiano Paese' />
+    <tag k='route_ref' v='248' />
+    <tag k='shelter' v='yes' />
+    <tag k='source' v='open.sasabz.it' />
+  </node>
+</osm>
