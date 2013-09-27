@@ -1,174 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49141' action='modify' visible='true' lat='46.6828011' lon='11.16128'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
-    <tag k='name:de' v='Segenbuehlweg 2' />
-    <tag k='name:it' v='via Benedetto 2' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49139' action='modify' visible='true' lat='46.7001275' lon='11.1541639'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
-    <tag k='name:de' v='Haslachstr. 4' />
-    <tag k='name:it' v='via Aslago 4' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49137' action='modify' visible='true' lat='46.6965119' lon='11.1527778'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Seilbahn Hochmut - Funivia Muta' />
-    <tag k='name:de' v='Seilbahn Hochmut' />
-    <tag k='name:it' v='Funivia Muta' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49135' action='modify' visible='true' lat='46.6915728' lon='11.1544122'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
-    <tag k='name:de' v='Haslachstr. 1' />
-    <tag k='name:it' v='via Aslago 1' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49133' action='modify' visible='true' lat='46.6874436' lon='11.1569647'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dorf Tirol 2 - Tirolo Paese 2' />
-    <tag k='name:de' v='Dorf Tirol 2' />
-    <tag k='name:it' v='Tirolo Paese 2' />
-    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49131' action='modify' visible='true' lat='46.6916531' lon='11.1547303'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
-    <tag k='name:de' v='Haslachstr. 1' />
-    <tag k='name:it' v='via Aslago 1' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49129' action='modify' visible='true' lat='46.6830822' lon='11.1613539'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
-    <tag k='name:de' v='Segenbuehlweg' />
-    <tag k='name:it' v='via Monte Benedetto' />
-    <tag k='route_ref' v='TIROLO;VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49127' action='modify' visible='true' lat='46.6947892' lon='11.1543658'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
-    <tag k='name:de' v='Haslachstr. 2' />
-    <tag k='name:it' v='via Aslago 2' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49125' action='modify' visible='true' lat='46.6978278' lon='11.1524317'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
-    <tag k='name:de' v='Haslachstr. 3' />
-    <tag k='name:it' v='via Aslago 3' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49123' action='modify' visible='true' lat='46.6826889' lon='11.1613458'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
-    <tag k='name:de' v='Segenbuehlweg 2' />
-    <tag k='name:it' v='via Benedetto 2' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49121' action='modify' visible='true' lat='46.6977619' lon='11.1524842'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
-    <tag k='name:de' v='Haslachstr. 3' />
-    <tag k='name:it' v='via Aslago 3' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49119' visible='true' lat='46.68615' lon='11.1586542'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Minigolf' />
-    <tag k='name:de' v='Minigolf' />
-    <tag k='name:it' v='Minigolf' />
-    <tag k='route_ref' v='TIROLO;CROCE T;VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49117' action='modify' visible='true' lat='46.7002306' lon='11.1542244'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
-    <tag k='name:de' v='Haslachstr. 4' />
-    <tag k='name:it' v='via Aslago 4' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49115' action='modify' visible='true' lat='46.6898469' lon='11.1555092'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dorf Tirol 1 - Tirolo Paese 1' />
-    <tag k='name:de' v='Dorf Tirol 1' />
-    <tag k='name:it' v='Tirolo Paese 1' />
-    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49113' action='modify' visible='true' lat='46.6896033' lon='11.1553517'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dorf Tirol 1 - Tirolo Paese 1' />
-    <tag k='name:de' v='Dorf Tirol 1' />
-    <tag k='name:it' v='Tirolo Paese 1' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49111' action='modify' visible='true' lat='46.6964906' lon='11.1528756'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Seilbahn Hochmut - Funivia Muta' />
-    <tag k='name:de' v='Seilbahn Hochmut' />
-    <tag k='name:it' v='Funivia Muta' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49109' action='modify' visible='true' lat='46.6830094' lon='11.1613333'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
-    <tag k='name:de' v='Segenbuehlweg' />
-    <tag k='name:it' v='via Monte Benedetto' />
-    <tag k='route_ref' v='TIROLO;ZEN-FIN;VERNURIO' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49107' visible='true' lat='46.6859875' lon='11.1587367'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Minigolf' />
-    <tag k='name:de' v='Minigolf' />
-    <tag k='name:it' v='Minigolf' />
-    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49105' action='modify' visible='true' lat='46.6947308' lon='11.1543253'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
-    <tag k='name:de' v='Haslachstr. 2' />
-    <tag k='name:it' v='via Aslago 2' />
-    <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49103' action='modify' visible='true' lat='46.7022169' lon='11.1579678'>
+  <node id='-4105' action='modify' visible='true' lat='46.7022169' lon='11.1579678'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Tiroler Kreuz - Tirolo Croce' />
     <tag k='name:de' v='Tiroler Kreuz' />
     <tag k='name:it' v='Tirolo Croce' />
     <tag k='route_ref' v='CROCE T' />
-    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-4103' action='modify' visible='true' lat='46.6947308' lon='11.1543253'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
+    <tag k='name:de' v='Haslachstr. 2' />
+    <tag k='name:it' v='via Aslago 2' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4101' action='modify' visible='true' lat='46.6859875' lon='11.1587367'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Minigolf' />
+    <tag k='name:de' v='Minigolf' />
+    <tag k='name:it' v='Minigolf' />
+    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
+  </node>
+  <node id='-4099' action='modify' visible='true' lat='46.6830094' lon='11.1613333'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
+    <tag k='name:de' v='Segenbuehlweg' />
+    <tag k='name:it' v='via Monte Benedetto' />
+    <tag k='route_ref' v='TIROLO;ZEN-FIN;VERNURIO' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4097' action='modify' visible='true' lat='46.6964906' lon='11.1528756'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seilbahn Hochmut - Funivia Muta' />
+    <tag k='name:de' v='Seilbahn Hochmut' />
+    <tag k='name:it' v='Funivia Muta' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4095' action='modify' visible='true' lat='46.6896033' lon='11.1553517'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorf Tirol 1 - Tirolo Paese 1' />
+    <tag k='name:de' v='Dorf Tirol 1' />
+    <tag k='name:it' v='Tirolo Paese 1' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4093' action='modify' visible='true' lat='46.6898469' lon='11.1555092'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorf Tirol 1 - Tirolo Paese 1' />
+    <tag k='name:de' v='Dorf Tirol 1' />
+    <tag k='name:it' v='Tirolo Paese 1' />
+    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
+  </node>
+  <node id='-4091' action='modify' visible='true' lat='46.7002306' lon='11.1542244'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
+    <tag k='name:de' v='Haslachstr. 4' />
+    <tag k='name:it' v='via Aslago 4' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4089' action='modify' visible='true' lat='46.68615' lon='11.1586542'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Minigolf' />
+    <tag k='name:de' v='Minigolf' />
+    <tag k='name:it' v='Minigolf' />
+    <tag k='route_ref' v='TIROLO;CROCE T;VERNURIO' />
+  </node>
+  <node id='-4087' action='modify' visible='true' lat='46.6977619' lon='11.1524842'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
+    <tag k='name:de' v='Haslachstr. 3' />
+    <tag k='name:it' v='via Aslago 3' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4085' action='modify' visible='true' lat='46.6826889' lon='11.1613458'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
+    <tag k='name:de' v='Segenbuehlweg 2' />
+    <tag k='name:it' v='via Benedetto 2' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4083' action='modify' visible='true' lat='46.6978278' lon='11.1524317'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
+    <tag k='name:de' v='Haslachstr. 3' />
+    <tag k='name:it' v='via Aslago 3' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4081' action='modify' visible='true' lat='46.6947892' lon='11.1543658'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
+    <tag k='name:de' v='Haslachstr. 2' />
+    <tag k='name:it' v='via Aslago 2' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4079' action='modify' visible='true' lat='46.6830822' lon='11.1613539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
+    <tag k='name:de' v='Segenbuehlweg' />
+    <tag k='name:it' v='via Monte Benedetto' />
+    <tag k='route_ref' v='TIROLO;VERNURIO' />
+  </node>
+  <node id='-4077' action='modify' visible='true' lat='46.6916531' lon='11.1547303'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
+    <tag k='name:de' v='Haslachstr. 1' />
+    <tag k='name:it' v='via Aslago 1' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4075' action='modify' visible='true' lat='46.6874436' lon='11.1569647'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorf Tirol 2 - Tirolo Paese 2' />
+    <tag k='name:de' v='Dorf Tirol 2' />
+    <tag k='name:it' v='Tirolo Paese 2' />
+    <tag k='route_ref' v='TIROLO;CROCE T;ZEN-FIN;VERNURIO' />
+  </node>
+  <node id='-4073' action='modify' visible='true' lat='46.6915728' lon='11.1544122'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
+    <tag k='name:de' v='Haslachstr. 1' />
+    <tag k='name:it' v='via Aslago 1' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4071' action='modify' visible='true' lat='46.6965119' lon='11.1527778'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seilbahn Hochmut - Funivia Muta' />
+    <tag k='name:de' v='Seilbahn Hochmut' />
+    <tag k='name:it' v='Funivia Muta' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4069' action='modify' visible='true' lat='46.7001275' lon='11.1541639'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
+    <tag k='name:de' v='Haslachstr. 4' />
+    <tag k='name:it' v='via Aslago 4' />
+    <tag k='route_ref' v='CROCE T' />
+  </node>
+  <node id='-4067' action='modify' visible='true' lat='46.6828011' lon='11.16128'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
+    <tag k='name:de' v='Segenbuehlweg 2' />
+    <tag k='name:it' v='via Benedetto 2' />
+    <tag k='route_ref' v='CROCE T' />
   </node>
 </osm>

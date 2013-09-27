@@ -1,98 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-16074' visible='true' lat='46.6086206' lon='11.1826744'>
+  <node id='-3665' action='modify' visible='true' lat='46.6101353' lon='11.1921625'>
+    <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Bahnhof - Postal Stazione' />
-    <tag k='name:de' v='Burgstall Bahnhof' />
-    <tag k='name:it' v='Postal Stazione' />
-    <tag k='route_ref' v='2;11;CITY LA' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Burgstall 3 - Postal 3' />
+    <tag k='name:de' v='Burgstall 3' />
+    <tag k='name:it' v='Postal 3' />
+    <tag k='route_ref' v='2' />
   </node>
-  <node id='-16073' action='modify' visible='true' lat='46.5996319' lon='11.1992586'>
+  <node id='-3663' action='modify' visible='true' lat='46.6100703' lon='11.192265'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
-    <tag k='name:de' v='Burgstall Seilb. Voeran' />
-    <tag k='name:it' v='Postal Fun. Verano' />
+    <tag k='name' v='Burgstall 3 - Postal 3' />
+    <tag k='name:de' v='Burgstall 3' />
+    <tag k='name:it' v='Postal 3' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-3661' action='modify' visible='true' lat='46.6049767' lon='11.1961342'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Burgstall Prantlweg - Postal via Prantl' />
+    <tag k='name:de' v='Burgstall Prantlweg' />
+    <tag k='name:it' v='Postal via Prantl' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-16071' action='modify' visible='true' lat='46.6082222' lon='11.1927511'>
+  <node id='-3659' action='modify' visible='true' lat='46.6083586' lon='11.1928161'>
+    <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Burgstall Dorf - Postal Paese' />
     <tag k='name:de' v='Burgstall Dorf' />
     <tag k='name:it' v='Postal Paese' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-16069' action='modify' visible='true' lat='46.6126942' lon='11.1907919'>
+  <node id='-3657' action='modify' visible='true' lat='46.6051219' lon='11.1957675'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall 2 - Postal 2' />
-    <tag k='name:de' v='Burgstall 2' />
-    <tag k='name:it' v='Postal 2' />
-    <tag k='route_ref' v='BZ-ME;2' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-16067' action='modify' visible='true' lat='46.6008675' lon='11.1990022'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
-    <tag k='name:de' v='Burgstall Seilb. Voeran' />
-    <tag k='name:it' v='Postal Fun. Verano' />
+    <tag k='name' v='Burgstall Prantlweg - Postal via Prantl' />
+    <tag k='name:de' v='Burgstall Prantlweg' />
+    <tag k='name:it' v='Postal via Prantl' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-16065' action='modify' visible='true' lat='46.6130178' lon='11.1902783'>
+  <node id='-3655' action='modify' visible='true' lat='46.6130178' lon='11.1902783'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Burgstall 2 - Postal 2' />
     <tag k='name:de' v='Burgstall 2' />
     <tag k='name:it' v='Postal 2' />
     <tag k='route_ref' v='BZ-ME;2;NIGHTSH' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-16063' action='modify' visible='true' lat='46.6051219' lon='11.1957675'>
+  <node id='-3653' action='modify' visible='true' lat='46.6008675' lon='11.1990022'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Prantlweg - Postal via Prantl' />
-    <tag k='name:de' v='Burgstall Prantlweg' />
-    <tag k='name:it' v='Postal via Prantl' />
+    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
+    <tag k='name:de' v='Burgstall Seilb. Voeran' />
+    <tag k='name:it' v='Postal Fun. Verano' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-16061' action='modify' visible='true' lat='46.6083586' lon='11.1928161'>
-    <tag k='bench' v='yes' />
+  <node id='-3651' action='modify' visible='true' lat='46.6126942' lon='11.1907919'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Burgstall 2 - Postal 2' />
+    <tag k='name:de' v='Burgstall 2' />
+    <tag k='name:it' v='Postal 2' />
+    <tag k='route_ref' v='BZ-ME;2' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3649' action='modify' visible='true' lat='46.6082222' lon='11.1927511'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Burgstall Dorf - Postal Paese' />
     <tag k='name:de' v='Burgstall Dorf' />
     <tag k='name:it' v='Postal Paese' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='shelter' v='yes' />
   </node>
-  <node id='-16059' action='modify' visible='true' lat='46.6049767' lon='11.1961342'>
+  <node id='-3647' action='modify' visible='true' lat='46.5996319' lon='11.1992586'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Prantlweg - Postal via Prantl' />
-    <tag k='name:de' v='Burgstall Prantlweg' />
-    <tag k='name:it' v='Postal via Prantl' />
+    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
+    <tag k='name:de' v='Burgstall Seilb. Voeran' />
+    <tag k='name:it' v='Postal Fun. Verano' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='shelter' v='yes' />
   </node>
-  <node id='-16057' action='modify' visible='true' lat='46.6100703' lon='11.192265'>
+  <node id='-3645' action='modify' visible='true' lat='46.6086206' lon='11.1826744'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall 3 - Postal 3' />
-    <tag k='name:de' v='Burgstall 3' />
-    <tag k='name:it' v='Postal 3' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-16055' action='modify' visible='true' lat='46.6101353' lon='11.1921625'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall 3 - Postal 3' />
-    <tag k='name:de' v='Burgstall 3' />
-    <tag k='name:it' v='Postal 3' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Burgstall Bahnhof - Postal Stazione' />
+    <tag k='name:de' v='Burgstall Bahnhof' />
+    <tag k='name:it' v='Postal Stazione' />
+    <tag k='route_ref' v='2;11;CITY LA' />
+    <tag k='shelter' v='yes' />
   </node>
 </osm>

@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49067' action='modify' visible='true' lat='46.7241817' lon='11.1806744'>
+  <node id='-4031' action='modify' visible='true' lat='46.7241817' lon='11.1806744'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Vernuer (Brunner) - Vernurio (Brunner)' />
     <tag k='name:de' v='Vernuer (Brunner)' />
     <tag k='name:it' v='Vernurio (Brunner)' />
     <tag k='route_ref' v='VERNURIO' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
 </osm>

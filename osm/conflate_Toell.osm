@@ -1,69 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-11046' visible='true' lat='46.6832567' lon='11.0749697'>
+  <node id='-4131' action='modify' visible='true' lat='46.6786678' lon='11.0872903'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 2 - Tel 2' />
+    <tag k='name:de' v='Toell 2' />
+    <tag k='name:it' v='Tel 2' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4129' action='modify' visible='true' lat='46.6804292' lon='11.0918992'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 3 - Tel 3' />
+    <tag k='name:de' v='Toell 3' />
+    <tag k='name:it' v='Tel 3' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4127' action='modify' visible='true' lat='46.6789214' lon='11.0882569'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 2 - Tel 2' />
+    <tag k='name:de' v='Toell 2' />
+    <tag k='name:it' v='Tel 2' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4125' action='modify' visible='true' lat='46.6772261' lon='11.08426'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 1 - Tel 1' />
+    <tag k='name:de' v='Toell 1' />
+    <tag k='name:it' v='Tel 1' />
+    <tag k='route_ref' v='13' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4123' action='modify' visible='true' lat='46.6729992' lon='11.0818786'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell Bahnhof - Tel Stazione' />
+    <tag k='name:de' v='Toell Bahnhof' />
+    <tag k='name:it' v='Tel Stazione' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4121' action='modify' visible='true' lat='46.6772914' lon='11.0842097'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 1 - Tel 1' />
+    <tag k='name:de' v='Toell 1' />
+    <tag k='name:it' v='Tel 1' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4119' action='modify' visible='true' lat='46.6803761' lon='11.0918164'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Toell 3 - Tel 3' />
+    <tag k='name:de' v='Toell 3' />
+    <tag k='name:it' v='Tel 3' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-4117' action='modify' visible='true' lat='46.6832567' lon='11.0749697'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Partschins - Parcines' />
     <tag k='name:de' v='Partschins' />
     <tag k='name:it' v='Parcines' />
     <tag k='route_ref' v='13' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10126' action='modify' visible='true' lat='46.6803761' lon='11.0918164'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 3 - Tel 3' />
-    <tag k='name:de' v='Toell 3' />
-    <tag k='name:it' v='Tel 3' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10124' action='modify' visible='true' lat='46.6772914' lon='11.0842097'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 1 - Tel 1' />
-    <tag k='name:de' v='Toell 1' />
-    <tag k='name:it' v='Tel 1' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10122' action='modify' visible='true' lat='46.6729992' lon='11.0818786'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell Bahnhof - Tel Stazione' />
-    <tag k='name:de' v='Toell Bahnhof' />
-    <tag k='name:it' v='Tel Stazione' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10120' action='modify' visible='true' lat='46.6772261' lon='11.08426'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 1 - Tel 1' />
-    <tag k='name:de' v='Toell 1' />
-    <tag k='name:it' v='Tel 1' />
-    <tag k='route_ref' v='13' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10118' action='modify' visible='true' lat='46.6789214' lon='11.0882569'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 2 - Tel 2' />
-    <tag k='name:de' v='Toell 2' />
-    <tag k='name:it' v='Tel 2' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10116' action='modify' visible='true' lat='46.6804292' lon='11.0918992'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 3 - Tel 3' />
-    <tag k='name:de' v='Toell 3' />
-    <tag k='name:it' v='Tel 3' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-10114' action='modify' visible='true' lat='46.6786678' lon='11.0872903'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Toell 2 - Tel 2' />
-    <tag k='name:de' v='Toell 2' />
-    <tag k='name:it' v='Tel 2' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
 </osm>

@@ -1,109 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49053' action='modify' visible='true' lat='46.5391275' lon='11.2044958'>
+  <node id='-4017' action='modify' visible='true' lat='46.5387506' lon='11.2062847'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Kellerei - Nalles Cantina' />
-    <tag k='name:de' v='Nals Kellerei' />
-    <tag k='name:it' v='Nalles Cantina' />
+    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
+    <tag k='name:de' v='Andrianerstr. (Huben)' />
+    <tag k='name:it' v='via Andriano (Huben)' />
     <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49051' action='modify' visible='true' lat='46.54115' lon='11.2042639'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
-    <tag k='name:de' v='Schwanburgerstr.' />
-    <tag k='name:it' v='via Schwanburg' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49049' action='modify' visible='true' lat='46.5358836' lon='11.2079847'>
+  <node id='-4015' action='modify' visible='true' lat='46.5357106' lon='11.2081867'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Andrianerstr. (Kaltbrunn) - via Andriano (Kaltbrunn)' />
     <tag k='name:de' v='Andrianerstr. (Kaltbrunn)' />
     <tag k='name:it' v='via Andriano (Kaltbrunn)' />
     <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49047' action='modify' visible='true' lat='46.5434144' lon='11.2059736'>
+  <node id='-4013' action='modify' visible='true' lat='46.5406211' lon='11.2043103'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunnen Platz - piazza Fontana' />
+    <tag k='name:de' v='Brunnen Platz' />
+    <tag k='name:it' v='piazza Fontana' />
+    <tag k='route_ref' v='NALLES' />
+  </node>
+  <node id='-4011' action='modify' visible='true' lat='46.54335' lon='11.2062325'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nals Feuerwehr Parkplatz - Nalles parcheggio pompieri' />
+    <tag k='name:de' v='Nals Feuerwehr Parkplatz' />
+    <tag k='name:it' v='Nalles parcheggio pompieri' />
+    <tag k='route_ref' v='248;NALLES' />
+  </node>
+  <node id='-4009' action='modify' visible='true' lat='46.5411094' lon='11.2043008'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
+    <tag k='name:de' v='Schwanburgerstr.' />
+    <tag k='name:it' v='via Schwanburg' />
+    <tag k='route_ref' v='NALLES' />
+  </node>
+  <node id='-4007' action='modify' visible='true' lat='46.5404658' lon='11.2043886'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunnen Platz - piazza Fontana' />
+    <tag k='name:de' v='Brunnen Platz' />
+    <tag k='name:it' v='piazza Fontana' />
+    <tag k='route_ref' v='NALLES' />
+  </node>
+  <node id='-4005' action='modify' visible='true' lat='46.5389664' lon='11.2061033'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
+    <tag k='name:de' v='Andrianerstr. (Huben)' />
+    <tag k='name:it' v='via Andriano (Huben)' />
+    <tag k='route_ref' v='NALLES' />
+  </node>
+  <node id='-4003' action='modify' visible='true' lat='46.5491511' lon='11.2102092'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
+    <tag k='name:de' v='Nals Vilpianstr.' />
+    <tag k='name:it' v='Nalles via Vilpiano' />
+    <tag k='route_ref' v='248;NALLES' />
+  </node>
+  <node id='-4001' action='modify' visible='true' lat='46.5491083' lon='11.2100583'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
+    <tag k='name:de' v='Nals Vilpianstr.' />
+    <tag k='name:it' v='Nalles via Vilpiano' />
+    <tag k='route_ref' v='248;NALLES' />
+  </node>
+  <node id='-3999' action='modify' visible='true' lat='46.5434144' lon='11.2059736'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Nals Feuerwehr Parkplatz - Nalles parcheggio pompieri' />
     <tag k='name:de' v='Nals Feuerwehr Parkplatz' />
     <tag k='name:it' v='Nalles parcheggio pompieri' />
     <tag k='route_ref' v='248;NALLES' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49045' action='modify' visible='true' lat='46.5491083' lon='11.2100583'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
-    <tag k='name:de' v='Nals Vilpianstr.' />
-    <tag k='name:it' v='Nalles via Vilpiano' />
-    <tag k='route_ref' v='248;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49043' action='modify' visible='true' lat='46.5491511' lon='11.2102092'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
-    <tag k='name:de' v='Nals Vilpianstr.' />
-    <tag k='name:it' v='Nalles via Vilpiano' />
-    <tag k='route_ref' v='248;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49041' action='modify' visible='true' lat='46.5389664' lon='11.2061033'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
-    <tag k='name:de' v='Andrianerstr. (Huben)' />
-    <tag k='name:it' v='via Andriano (Huben)' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49039' action='modify' visible='true' lat='46.5404658' lon='11.2043886'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnen Platz - piazza Fontana' />
-    <tag k='name:de' v='Brunnen Platz' />
-    <tag k='name:it' v='piazza Fontana' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49037' action='modify' visible='true' lat='46.5411094' lon='11.2043008'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
-    <tag k='name:de' v='Schwanburgerstr.' />
-    <tag k='name:it' v='via Schwanburg' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49035' action='modify' visible='true' lat='46.54335' lon='11.2062325'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Feuerwehr Parkplatz - Nalles parcheggio pompieri' />
-    <tag k='name:de' v='Nals Feuerwehr Parkplatz' />
-    <tag k='name:it' v='Nalles parcheggio pompieri' />
-    <tag k='route_ref' v='248;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49033' action='modify' visible='true' lat='46.5406211' lon='11.2043103'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnen Platz - piazza Fontana' />
-    <tag k='name:de' v='Brunnen Platz' />
-    <tag k='name:it' v='piazza Fontana' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49031' action='modify' visible='true' lat='46.5357106' lon='11.2081867'>
+  <node id='-3997' action='modify' visible='true' lat='46.5358836' lon='11.2079847'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Andrianerstr. (Kaltbrunn) - via Andriano (Kaltbrunn)' />
     <tag k='name:de' v='Andrianerstr. (Kaltbrunn)' />
     <tag k='name:it' v='via Andriano (Kaltbrunn)' />
     <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49029' action='modify' visible='true' lat='46.5387506' lon='11.2062847'>
+  <node id='-3995' action='modify' visible='true' lat='46.54115' lon='11.2042639'>
+    <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
-    <tag k='name:de' v='Andrianerstr. (Huben)' />
-    <tag k='name:it' v='via Andriano (Huben)' />
+    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
+    <tag k='name:de' v='Schwanburgerstr.' />
+    <tag k='name:it' v='via Schwanburg' />
     <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-3993' action='modify' visible='true' lat='46.5391275' lon='11.2044958'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nals Kellerei - Nalles Cantina' />
+    <tag k='name:de' v='Nals Kellerei' />
+    <tag k='name:it' v='Nalles Cantina' />
+    <tag k='route_ref' v='NALLES' />
   </node>
 </osm>

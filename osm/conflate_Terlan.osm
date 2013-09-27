@@ -1,140 +1,124 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49101' action='modify' visible='true' lat='46.5596372' lon='11.2235006'>
+  <node id='-4065' action='modify' visible='true' lat='46.5569831' lon='11.2210328'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vilpian - Vilpiano' />
-    <tag k='name:de' v='Vilpian' />
-    <tag k='name:it' v='Vilpiano' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Zum Hirschen' />
+    <tag k='name:de' v='Zum Hirschen' />
+    <tag k='name:it' v='Zum Hirschen' />
+    <tag k='route_ref' v='NALLES' />
   </node>
-  <node id='-49099' action='modify' visible='true' lat='46.5552114' lon='11.22418'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sportzone - Zona sportiva' />
-    <tag k='name:de' v='Sportzone' />
-    <tag k='name:it' v='Zona sportiva' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49097' action='modify' visible='true' lat='46.5613453' lon='11.2238256'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vilpian - Vilpiano' />
-    <tag k='name:de' v='Vilpian' />
-    <tag k='name:it' v='Vilpiano' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49095' action='modify' visible='true' lat='46.5293922' lon='11.2492022'>
+  <node id='-4063' action='modify' visible='true' lat='46.5293394' lon='11.2496594'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Terlan Zentrum - Terlano Centro' />
     <tag k='name:de' v='Terlan Zentrum' />
     <tag k='name:it' v='Terlano Centro' />
     <tag k='route_ref' v='BZ-ME;NALLES' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49093' action='modify' visible='true' lat='46.5283672' lon='11.2492181'>
+  <node id='-4061' action='modify' visible='true' lat='46.5365275' lon='11.2421528'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Terlan Bahnhof - Terlano Stazione' />
-    <tag k='name:de' v='Terlan Bahnhof' />
-    <tag k='name:it' v='Terlano Stazione' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Terlan Winkler Hof - Terlano Winkler Hof' />
+    <tag k='name:de' v='Terlan Winkler Hof' />
+    <tag k='name:it' v='Terlano Winkler Hof' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
   </node>
-  <node id='-49091' action='modify' visible='true' lat='46.5630647' lon='11.2242642'>
+  <node id='-4059' action='modify' visible='true' lat='46.5558047' lon='11.2236675'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sportzone - Zona sportiva' />
+    <tag k='name:de' v='Sportzone' />
+    <tag k='name:it' v='Zona sportiva' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+  </node>
+  <node id='-4057' action='modify' visible='true' lat='46.5436083' lon='11.23842'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Terlan Weinstube - Terlano Weinstube' />
+    <tag k='name:de' v='Terlan Weinstube' />
+    <tag k='name:it' v='Terlano Weinstube' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4055' action='modify' visible='true' lat='46.5371497' lon='11.2412006'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Terlan Winkler Hof - Terlano Winkler Hof' />
+    <tag k='name:de' v='Terlan Winkler Hof' />
+    <tag k='name:it' v='Terlano Winkler Hof' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+  </node>
+  <node id='-4053' action='modify' visible='true' lat='46.5449686' lon='11.2383825'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Terlan Weinstube - Terlano Weinstube' />
+    <tag k='name:de' v='Terlan Weinstube' />
+    <tag k='name:it' v='Terlano Weinstube' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4051' action='modify' visible='true' lat='46.5519236' lon='11.2296589'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vilpian Schlemmer - Vilpiano Schlemmer' />
+    <tag k='name:de' v='Vilpian Schlemmer' />
+    <tag k='name:it' v='Vilpiano Schlemmer' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4049' action='modify' visible='true' lat='46.5520103' lon='11.2295569'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vilpian Schlemmer - Vilpiano Schlemmer' />
+    <tag k='name:de' v='Vilpian Schlemmer' />
+    <tag k='name:it' v='Vilpiano Schlemmer' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+  </node>
+  <node id='-4047' action='modify' visible='true' lat='46.5540169' lon='11.2207014'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vilpian Bahnhof - Vilpiano stazione' />
+    <tag k='name:de' v='Vilpian Bahnhof' />
+    <tag k='name:it' v='Vilpiano stazione' />
+    <tag k='route_ref' v='248;NALLES' />
+  </node>
+  <node id='-4045' action='modify' visible='true' lat='46.5630647' lon='11.2242642'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Seilbahn Moelten - Funivia Meltina' />
     <tag k='name:de' v='Seilbahn Moelten' />
     <tag k='name:it' v='Funivia Meltina' />
     <tag k='route_ref' v='BZ-ME;NALLES;NIGHTSH' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49089' action='modify' visible='true' lat='46.5540169' lon='11.2207014'>
+  <node id='-4043' action='modify' visible='true' lat='46.5283672' lon='11.2492181'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vilpian Bahnhof - Vilpiano stazione' />
-    <tag k='name:de' v='Vilpian Bahnhof' />
-    <tag k='name:it' v='Vilpiano stazione' />
-    <tag k='route_ref' v='248;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Terlan Bahnhof - Terlano Stazione' />
+    <tag k='name:de' v='Terlan Bahnhof' />
+    <tag k='name:it' v='Terlano Stazione' />
+    <tag k='route_ref' v='NALLES' />
   </node>
-  <node id='-49087' action='modify' visible='true' lat='46.5520103' lon='11.2295569'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vilpian Schlemmer - Vilpiano Schlemmer' />
-    <tag k='name:de' v='Vilpian Schlemmer' />
-    <tag k='name:it' v='Vilpiano Schlemmer' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49085' action='modify' visible='true' lat='46.5519236' lon='11.2296589'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vilpian Schlemmer - Vilpiano Schlemmer' />
-    <tag k='name:de' v='Vilpian Schlemmer' />
-    <tag k='name:it' v='Vilpiano Schlemmer' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49083' action='modify' visible='true' lat='46.5449686' lon='11.2383825'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Terlan Weinstube - Terlano Weinstube' />
-    <tag k='name:de' v='Terlan Weinstube' />
-    <tag k='name:it' v='Terlano Weinstube' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49081' action='modify' visible='true' lat='46.5371497' lon='11.2412006'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Terlan Winkler Hof - Terlano Winkler Hof' />
-    <tag k='name:de' v='Terlan Winkler Hof' />
-    <tag k='name:it' v='Terlano Winkler Hof' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49079' action='modify' visible='true' lat='46.5436083' lon='11.23842'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Terlan Weinstube - Terlano Weinstube' />
-    <tag k='name:de' v='Terlan Weinstube' />
-    <tag k='name:it' v='Terlano Weinstube' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49077' action='modify' visible='true' lat='46.5558047' lon='11.2236675'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sportzone - Zona sportiva' />
-    <tag k='name:de' v='Sportzone' />
-    <tag k='name:it' v='Zona sportiva' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49075' action='modify' visible='true' lat='46.5365275' lon='11.2421528'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Terlan Winkler Hof - Terlano Winkler Hof' />
-    <tag k='name:de' v='Terlan Winkler Hof' />
-    <tag k='name:it' v='Terlano Winkler Hof' />
-    <tag k='route_ref' v='BZ-ME;NALLES' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49073' action='modify' visible='true' lat='46.5293394' lon='11.2496594'>
+  <node id='-4041' action='modify' visible='true' lat='46.5293922' lon='11.2492022'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Terlan Zentrum - Terlano Centro' />
     <tag k='name:de' v='Terlan Zentrum' />
     <tag k='name:it' v='Terlano Centro' />
     <tag k='route_ref' v='BZ-ME;NALLES' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49071' visible='true' lat='46.5569831' lon='11.2210328'>
+  <node id='-4039' action='modify' visible='true' lat='46.5613453' lon='11.2238256'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Zum Hirschen' />
-    <tag k='name:de' v='Zum Hirschen' />
-    <tag k='name:it' v='Zum Hirschen' />
-    <tag k='route_ref' v='NALLES' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='name' v='Vilpian - Vilpiano' />
+    <tag k='name:de' v='Vilpian' />
+    <tag k='name:it' v='Vilpiano' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4037' action='modify' visible='true' lat='46.5552114' lon='11.22418'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sportzone - Zona sportiva' />
+    <tag k='name:de' v='Sportzone' />
+    <tag k='name:it' v='Zona sportiva' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4035' action='modify' visible='true' lat='46.5596372' lon='11.2235006'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vilpian - Vilpiano' />
+    <tag k='name:de' v='Vilpian' />
+    <tag k='name:it' v='Vilpiano' />
+    <tag k='route_ref' v='BZ-ME;NALLES' />
+    <tag k='shelter' v='yes' />
   </node>
 </osm>

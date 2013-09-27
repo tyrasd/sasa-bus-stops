@@ -1,55 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49177' action='modify' visible='true' lat='46.6319525' lon='11.1450058'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tscherms 3 - Cermes 3' />
-    <tag k='name:de' v='Tscherms 3' />
-    <tag k='name:it' v='Cermes 3' />
-    <tag k='route_ref' v='BZ-ME;11;14;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49175' action='modify' visible='true' lat='46.6287267' lon='11.1475167'>
+  <node id='-4143' action='modify' visible='true' lat='46.6276517' lon='11.1476933'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Tscherms 4 - Cermes 4' />
     <tag k='name:de' v='Tscherms 4' />
     <tag k='name:it' v='Cermes 4' />
+    <tag k='route_ref' v='11' />
+  </node>
+  <node id='-4141' action='modify' visible='true' lat='46.6251669' lon='11.1477847'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tscherms 5 - Cermes 5' />
+    <tag k='name:de' v='Tscherms 5' />
+    <tag k='name:it' v='Cermes 5' />
+    <tag k='route_ref' v='11' />
+  </node>
+  <node id='-4139' action='modify' visible='true' lat='46.6255169' lon='11.1477347'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tscherms 5 - Cermes 5' />
+    <tag k='name:de' v='Tscherms 5' />
+    <tag k='name:it' v='Cermes 5' />
     <tag k='route_ref' v='11;NIGHTSH' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49173' action='modify' visible='true' lat='46.6323622' lon='11.1450675'>
+  <node id='-4137' action='modify' visible='true' lat='46.6323622' lon='11.1450675'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Tscherms 3 - Cermes 3' />
     <tag k='name:de' v='Tscherms 3' />
     <tag k='name:it' v='Cermes 3' />
     <tag k='route_ref' v='BZ-ME;11' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-49171' action='modify' visible='true' lat='46.6255169' lon='11.1477347'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tscherms 5 - Cermes 5' />
-    <tag k='name:de' v='Tscherms 5' />
-    <tag k='name:it' v='Cermes 5' />
-    <tag k='route_ref' v='11;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49169' action='modify' visible='true' lat='46.6251669' lon='11.1477847'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tscherms 5 - Cermes 5' />
-    <tag k='name:de' v='Tscherms 5' />
-    <tag k='name:it' v='Cermes 5' />
-    <tag k='route_ref' v='11' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49167' action='modify' visible='true' lat='46.6276517' lon='11.1476933'>
+  <node id='-4135' action='modify' visible='true' lat='46.6287267' lon='11.1475167'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Tscherms 4 - Cermes 4' />
     <tag k='name:de' v='Tscherms 4' />
     <tag k='name:it' v='Cermes 4' />
-    <tag k='route_ref' v='11' />
-    <tag k='source' v='open.sasabz.it' />
+    <tag k='route_ref' v='11;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-4133' action='modify' visible='true' lat='46.6319525' lon='11.1450058'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tscherms 3 - Cermes 3' />
+    <tag k='name:de' v='Tscherms 3' />
+    <tag k='name:it' v='Cermes 3' />
+    <tag k='route_ref' v='BZ-ME;11;14;NIGHTSH' />
+    <tag k='shelter' v='yes' />
   </node>
 </osm>

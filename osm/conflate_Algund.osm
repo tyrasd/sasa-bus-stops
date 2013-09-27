@@ -1,142 +1,126 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-48293' action='modify' visible='true' lat='46.6791642' lon='11.1268303'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
-    <tag k='name:de' v='Weingartnerstr. 1' />
-    <tag k='name:it' v='via Weingartner 1' />
-    <tag k='route_ref' v='11;12;13;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48291' action='modify' visible='true' lat='46.6779306' lon='11.1187939'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Forst - Foresta' />
-    <tag k='name:de' v='Forst' />
-    <tag k='name:it' v='Foresta' />
-    <tag k='route_ref' v='12' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48289' action='modify' visible='true' lat='46.6842339' lon='11.1128064'>
+  <node id='-3251' action='modify' visible='true' lat='46.6843369' lon='11.1129253'>
+    <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Mitterplars 1 - Plars di mezzo 1' />
     <tag k='name:de' v='Mitterplars 1' />
     <tag k='name:it' v='Plars di mezzo 1' />
     <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48287' action='modify' visible='true' lat='46.6794256' lon='11.1310008'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
-    <tag k='name:de' v='Weingartnerstr. 2' />
-    <tag k='name:it' v='via Weingartner 2' />
-    <tag k='route_ref' v='11;12;13;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48285' action='modify' visible='true' lat='46.6827372' lon='11.1066036'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Mitterplars 2 - Plars di mezzo 2' />
-    <tag k='name:de' v='Mitterplars 2' />
-    <tag k='name:it' v='Plars di mezzo 2' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48283' action='modify' visible='true' lat='46.6826894' lon='11.1067239'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Mitterplars 2 - Plars di mezzo 2' />
-    <tag k='name:de' v='Mitterplars 2' />
-    <tag k='name:it' v='Plars di mezzo 2' />
-    <tag k='route_ref' v='13' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48281' action='modify' visible='true' lat='46.6833725' lon='11.1215519'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Gemeinde Algund - Lagundo Comune' />
-    <tag k='name:de' v='Gemeinde Algund' />
-    <tag k='name:it' v='Lagundo Comune' />
-    <tag k='route_ref' v='13' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48279' action='modify' visible='true' lat='46.6789814' lon='11.1232319'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. Ausf. MeBo - via Weingartner usc. MeBo' />
-    <tag k='name:de' v='Weingartnerstr. Ausf. MeBo' />
-    <tag k='name:it' v='via Weingartner usc. MeBo' />
-    <tag k='route_ref' v='12' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48277' action='modify' visible='true' lat='46.6794392' lon='11.1306017'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
-    <tag k='name:de' v='Weingartnerstr. 2' />
-    <tag k='name:it' v='via Weingartner 2' />
-    <tag k='route_ref' v='11;12;13' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48275' action='modify' visible='true' lat='46.6792261' lon='11.1272117'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
-    <tag k='name:de' v='Weingartnerstr. 1' />
-    <tag k='name:it' v='via Weingartner 1' />
-    <tag k='route_ref' v='11;12;13' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48273' action='modify' visible='true' lat='46.6831756' lon='11.0971094'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
-    <tag k='name:de' v='Abzw. Oberplars' />
-    <tag k='name:it' v='Bivio Plars di sopra' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48271' action='modify' visible='true' lat='46.683335' lon='11.12157'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Gemeinde Algund - Lagundo Comune' />
-    <tag k='name:de' v='Gemeinde Algund' />
-    <tag k='name:it' v='Lagundo Comune' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48269' action='modify' visible='true' lat='46.6813647' lon='11.1189558'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Algund Schulen - Lagundo scuole' />
-    <tag k='name:de' v='Algund Schulen' />
-    <tag k='name:it' v='Lagundo scuole' />
-    <tag k='route_ref' v='11;12' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48267' action='modify' visible='true' lat='46.6832333' lon='11.0961683'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
-    <tag k='name:de' v='Abzw. Oberplars' />
-    <tag k='name:it' v='Bivio Plars di sopra' />
-    <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48265' action='modify' visible='true' lat='46.6805869' lon='11.1252422'>
+  <node id='-3249' action='modify' visible='true' lat='46.6805869' lon='11.1252422'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Thalguter Str. - via Thalguter' />
     <tag k='name:de' v='Thalguter Str.' />
     <tag k='name:it' v='via Thalguter' />
     <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48263' action='modify' visible='true' lat='46.6843369' lon='11.1129253'>
+  <node id='-3247' action='modify' visible='true' lat='46.6832333' lon='11.0961683'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
+    <tag k='name:de' v='Abzw. Oberplars' />
+    <tag k='name:it' v='Bivio Plars di sopra' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-3245' action='modify' visible='true' lat='46.6813647' lon='11.1189558'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Algund Schulen - Lagundo scuole' />
+    <tag k='name:de' v='Algund Schulen' />
+    <tag k='name:it' v='Lagundo scuole' />
+    <tag k='route_ref' v='11;12' />
+  </node>
+  <node id='-3243' action='modify' visible='true' lat='46.683335' lon='11.12157'>
     <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde Algund - Lagundo Comune' />
+    <tag k='name:de' v='Gemeinde Algund' />
+    <tag k='name:it' v='Lagundo Comune' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-3241' action='modify' visible='true' lat='46.6831756' lon='11.0971094'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
+    <tag k='name:de' v='Abzw. Oberplars' />
+    <tag k='name:it' v='Bivio Plars di sopra' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-3239' action='modify' visible='true' lat='46.6792261' lon='11.1272117'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
+    <tag k='name:de' v='Weingartnerstr. 1' />
+    <tag k='name:it' v='via Weingartner 1' />
+    <tag k='route_ref' v='11;12;13' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3237' action='modify' visible='true' lat='46.6794392' lon='11.1306017'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
+    <tag k='name:de' v='Weingartnerstr. 2' />
+    <tag k='name:it' v='via Weingartner 2' />
+    <tag k='route_ref' v='11;12;13' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3235' action='modify' visible='true' lat='46.6789814' lon='11.1232319'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weingartnerstr. Ausf. MeBo - via Weingartner usc. MeBo' />
+    <tag k='name:de' v='Weingartnerstr. Ausf. MeBo' />
+    <tag k='name:it' v='via Weingartner usc. MeBo' />
+    <tag k='route_ref' v='12' />
+  </node>
+  <node id='-3233' action='modify' visible='true' lat='46.6833725' lon='11.1215519'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde Algund - Lagundo Comune' />
+    <tag k='name:de' v='Gemeinde Algund' />
+    <tag k='name:it' v='Lagundo Comune' />
+    <tag k='route_ref' v='13' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3231' action='modify' visible='true' lat='46.6826894' lon='11.1067239'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterplars 2 - Plars di mezzo 2' />
+    <tag k='name:de' v='Mitterplars 2' />
+    <tag k='name:it' v='Plars di mezzo 2' />
+    <tag k='route_ref' v='13' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3229' action='modify' visible='true' lat='46.6827372' lon='11.1066036'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterplars 2 - Plars di mezzo 2' />
+    <tag k='name:de' v='Mitterplars 2' />
+    <tag k='name:it' v='Plars di mezzo 2' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-3227' action='modify' visible='true' lat='46.6794256' lon='11.1310008'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
+    <tag k='name:de' v='Weingartnerstr. 2' />
+    <tag k='name:it' v='via Weingartner 2' />
+    <tag k='route_ref' v='11;12;13;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3225' action='modify' visible='true' lat='46.6842339' lon='11.1128064'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Mitterplars 1 - Plars di mezzo 1' />
     <tag k='name:de' v='Mitterplars 1' />
     <tag k='name:it' v='Plars di mezzo 1' />
     <tag k='route_ref' v='13' />
-    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-3223' action='modify' visible='true' lat='46.6779306' lon='11.1187939'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forst - Foresta' />
+    <tag k='name:de' v='Forst' />
+    <tag k='name:it' v='Foresta' />
+    <tag k='route_ref' v='12' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3221' action='modify' visible='true' lat='46.6791642' lon='11.1268303'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
+    <tag k='name:de' v='Weingartnerstr. 1' />
+    <tag k='name:it' v='via Weingartner 1' />
+    <tag k='route_ref' v='11;12;13;NIGHTSH' />
+    <tag k='shelter' v='yes' />
   </node>
 </osm>

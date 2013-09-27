@@ -1,747 +1,661 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-49027' action='modify' visible='true' lat='46.6729861' lon='11.1498431'>
-    <tag k='bench' v='yes' />
+  <node id='-3991' action='modify' visible='true' lat='46.6300403' lon='11.1803492'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Meran Bahnhof - Merano stazione' />
-    <tag k='name:de' v='Meran Bahnhof' />
-    <tag k='name:it' v='Merano stazione' />
-    <tag k='route_ref' v='BZ-ME;1;2;3;4;6;146;12;13;TIROLO;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49025' action='modify' visible='true' lat='46.675935' lon='11.1522614'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Goethe Str. 2 - via Goethe 2' />
-    <tag k='name:de' v='Goethe Str. 2' />
-    <tag k='name:it' v='via Goethe 2' />
-    <tag k='route_ref' v='BZ-ME;12;13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49023' action='modify' visible='true' lat='46.6712567' lon='11.1533764'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 4 - corso Liberta&apos; 4' />
-    <tag k='name:de' v='Freiheitsstr. 4' />
-    <tag k='name:it' v='corso Liberta&apos; 4' />
-    <tag k='route_ref' v='1;2;4;6;11;12;13;14;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49021' action='modify' visible='true' lat='46.6710961' lon='11.1554408'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 3 - corso Liberta&apos; 3' />
-    <tag k='name:de' v='Freiheitsstr. 3' />
-    <tag k='name:it' v='corso Liberta&apos; 3' />
-    <tag k='route_ref' v='1;2;4;6;146;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49019' action='modify' visible='true' lat='46.6803017' lon='11.1511992'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karl Wolf Str. 5 - via Karl Wolf 5' />
-    <tag k='name:de' v='Karl Wolf Str. 5' />
-    <tag k='name:it' v='via Karl Wolf 5' />
-    <tag k='route_ref' v='BZ-ME;2;3;146;11;12;14' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49017' action='modify' visible='true' lat='46.6793436' lon='11.1477439'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Laurin Str. 2 - via Laurin 2' />
-    <tag k='name:de' v='Laurin Str. 2' />
-    <tag k='name:it' v='via Laurin 2' />
-    <tag k='route_ref' v='BZ-ME;3;146;11;12;14' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49015' action='modify' visible='true' lat='46.6774464' lon='11.1463314'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Goethe Str. 4 - via Goethe 4' />
-    <tag k='name:de' v='Goethe Str. 4' />
-    <tag k='name:it' v='via Goethe 4' />
-    <tag k='route_ref' v='11;12;13;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49013' action='modify' visible='true' lat='46.6744153' lon='11.1500086'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Mainhard Str. - via Mainardo' />
-    <tag k='name:de' v='Mainhard Str.' />
-    <tag k='name:it' v='via Mainardo' />
-    <tag k='route_ref' v='3' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49011' action='modify' visible='true' lat='46.6823331' lon='11.1473953'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karl Wolf Str. 6 - via Karl Wolf 6' />
-    <tag k='name:de' v='Karl Wolf Str. 6' />
-    <tag k='name:it' v='via Karl Wolf 6' />
-    <tag k='route_ref' v='2;3;11' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49009' action='modify' visible='true' lat='46.675325' lon='11.1528925'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Hofer Str. 2 - via Hofer 2' />
-    <tag k='name:de' v='Hofer Str. 2' />
-    <tag k='name:it' v='via Hofer 2' />
-    <tag k='route_ref' v='4;11;12;TIROLO;ME-AV;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49007' action='modify' visible='true' lat='46.6710947' lon='11.1557631'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 3 - corso Liberta&apos; 3' />
-    <tag k='name:de' v='Freiheitsstr. 3' />
-    <tag k='name:it' v='corso Liberta&apos; 3' />
-    <tag k='route_ref' v='1;2;4;6;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49005' action='modify' visible='true' lat='46.6758461' lon='11.1524636'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Goethe Str. 2 - via Goethe 2' />
-    <tag k='name:de' v='Goethe Str. 2' />
-    <tag k='name:it' v='via Goethe 2' />
-    <tag k='route_ref' v='6;12;13;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49003' action='modify' visible='true' lat='46.6754428' lon='11.1530417'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='A. Hofer Str. 2 - via A. Hofer 2' />
-    <tag k='name:de' v='A. Hofer Str. 2' />
-    <tag k='name:it' v='via A. Hofer 2' />
-    <tag k='route_ref' v='BZ-ME;2;4;146;11;12;13;TIROLO;ME-AV' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-49001' action='modify' visible='true' lat='46.6784733' lon='11.1478628'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Laurin Str. 2 - via Laurin 2' />
-    <tag k='name:de' v='Laurin Str. 2' />
-    <tag k='name:it' v='via Laurin 2' />
-    <tag k='route_ref' v='2;3;11' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48999' action='modify' visible='true' lat='46.6804994' lon='11.1509758'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karl Wolf Str. 5 - via Karl Wolf 5' />
-    <tag k='name:de' v='Karl Wolf Str. 5' />
-    <tag k='name:it' v='via Karl Wolf 5' />
-    <tag k='route_ref' v='2;3;11' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48997' action='modify' visible='true' lat='46.6737617' lon='11.1505247'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bahnhof Hofer Str. - stazione via Hofer' />
-    <tag k='name:de' v='Bahnhof Hofer Str.' />
-    <tag k='name:it' v='stazione via Hofer' />
-    <tag k='route_ref' v='1;4;6;146;11;12;14' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48995' action='modify' visible='true' lat='46.6767833' lon='11.1446014'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='4. Novemberstr. - via IV Novembre' />
-    <tag k='name:de' v='4. Novemberstr.' />
-    <tag k='name:it' v='via IV Novembre' />
-    <tag k='route_ref' v='1;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48993' action='modify' visible='true' lat='46.6708472' lon='11.1589031'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Theater Platz - piazza Teatro' />
-    <tag k='name:de' v='Theater Platz' />
-    <tag k='name:it' v='piazza Teatro' />
-    <tag k='route_ref' v='1;2;4;6;11;12;14;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48991' action='modify' visible='true' lat='46.6768669' lon='11.1446681'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='4. Novemberstr. - via IV Novembre' />
-    <tag k='name:de' v='4. Novemberstr.' />
-    <tag k='name:it' v='via IV Novembre' />
-    <tag k='route_ref' v='1;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48989' action='modify' visible='true' lat='46.684475' lon='11.1460706'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Martinsbrunn - Fonte S. Martino' />
-    <tag k='name:de' v='Martinsbrunn' />
-    <tag k='name:it' v='Fonte S. Martino' />
-    <tag k='route_ref' v='3' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48987' action='modify' visible='true' lat='46.6777892' lon='11.1454033'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Goethe Str. 4 - via Goethe 4' />
-    <tag k='name:de' v='Goethe Str. 4' />
-    <tag k='name:it' v='via Goethe 4' />
-    <tag k='route_ref' v='12;13' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48985' action='modify' visible='true' lat='46.6743981' lon='11.1498625'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Mainhard Str. - via Mainardo' />
-    <tag k='name:de' v='Mainhard Str.' />
-    <tag k='name:it' v='via Mainardo' />
-    <tag k='route_ref' v='2;3' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48983' action='modify' visible='true' lat='46.6776533' lon='11.1522731'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Krankenhaus - Ospedale' />
-    <tag k='name:de' v='Krankenhaus' />
-    <tag k='name:it' v='Ospedale' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48981' action='modify' visible='true' lat='46.6823122' lon='11.1474392'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karl Wolf Str. 6 - via Karl Wolf 6' />
-    <tag k='name:de' v='Karl Wolf Str. 6' />
-    <tag k='name:it' v='via Karl Wolf 6' />
-    <tag k='route_ref' v='3;146;11;12;14' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48979' action='modify' visible='true' lat='46.6712325' lon='11.1533567'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 4 - corso Liberta&apos; 4' />
-    <tag k='name:de' v='Freiheitsstr. 4' />
-    <tag k='name:it' v='corso Liberta&apos; 4' />
-    <tag k='route_ref' v='1;2;4;6;146;13;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48977' action='modify' visible='true' lat='46.6706667' lon='11.1592328'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Theater Platz - piazza Teatro' />
-    <tag k='name:de' v='Theater Platz' />
-    <tag k='name:it' v='piazza Teatro' />
-    <tag k='route_ref' v='2;6;146;11;12' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48975' action='modify' visible='true' lat='46.6688167' lon='11.1834681'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schennastr. 3 - via Scena 3' />
-    <tag k='name:de' v='Schennastr. 3' />
-    <tag k='name:it' v='via Scena 3' />
-    <tag k='route_ref' v='1;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48973' action='modify' visible='true' lat='46.6645039' lon='11.1614661'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Romstr. 2 - via Roma 2' />
-    <tag k='name:de' v='Romstr. 2' />
-    <tag k='name:it' v='via Roma 2' />
+    <tag k='name' v='Sinich 7 - Sinigo 7' />
+    <tag k='name:de' v='Sinich 7' />
+    <tag k='name:it' v='Sinigo 7' />
     <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48971' action='modify' visible='true' lat='46.6617389' lon='11.1787378'>
-    <tag k='bench' v='yes' />
+  <node id='-3989' action='modify' visible='true' lat='46.6294408' lon='11.1806786'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Winkel Weg 5 - via Winkel 5' />
-    <tag k='name:de' v='Winkel Weg 5' />
-    <tag k='name:it' v='via Winkel 5' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48969' action='modify' visible='true' lat='46.6651119' lon='11.1709997'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Winkel Weg 2 - via Winkel 2' />
-    <tag k='name:de' v='Winkel Weg 2' />
-    <tag k='name:it' v='via Winkel 2' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48967' action='modify' visible='true' lat='46.6708497' lon='11.160555'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 2 - corso Liberta` 2' />
-    <tag k='name:de' v='Freiheitsstr. 2' />
-    <tag k='name:it' v='corso Liberta` 2' />
-    <tag k='route_ref' v='1;3;4;146;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48965' action='modify' visible='true' lat='46.66365' lon='11.1592772'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Piavestr. 3 - via Piave 3' />
-    <tag k='name:de' v='Piavestr. 3' />
-    <tag k='name:it' v='via Piave 3' />
-    <tag k='route_ref' v='11;12;14' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48963' action='modify' visible='true' lat='46.6680061' lon='11.166115'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Cavour Str. 1 - via Cavour 1' />
-    <tag k='name:de' v='Cavour Str. 1' />
-    <tag k='name:it' v='via Cavour 1' />
-    <tag k='route_ref' v='1;3;TIROLO;ME-AV;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48961' action='modify' visible='true' lat='46.6678103' lon='11.1690925'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Winkel Weg 1 - via Winkel 1' />
-    <tag k='name:de' v='Winkel Weg 1' />
-    <tag k='name:it' v='via Winkel 1' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48959' action='modify' visible='true' lat='46.6617669' lon='11.1791164'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dante Str. 4 - via Dante 4' />
-    <tag k='name:de' v='Dante Str. 4' />
-    <tag k='name:it' v='via Dante 4' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48957' action='modify' visible='true' lat='46.6682111' lon='11.1655978'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Cavour Str. 1 - via Cavour 1' />
-    <tag k='name:de' v='Cavour Str. 1' />
-    <tag k='name:it' v='via Cavour 1' />
-    <tag k='route_ref' v='1;3;4;146;TIROLO;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48955' action='modify' visible='true' lat='46.6693461' lon='11.1740803'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnenplatz - piazza Fontana' />
-    <tag k='name:de' v='Brunnenplatz' />
-    <tag k='name:it' v='piazza Fontana' />
-    <tag k='route_ref' v='1;3;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48953' action='modify' visible='true' lat='46.6752075' lon='11.1763969'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Str. 2 - via Virgilio 2' />
-    <tag k='name:de' v='Vergil Str. 2' />
-    <tag k='name:it' v='via Virgilio 2' />
-    <tag k='route_ref' v='3;146' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48951' action='modify' visible='true' lat='46.6620975' lon='11.17665'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Winkel Weg 4 - via Winkel 4' />
-    <tag k='name:de' v='Winkel Weg 4' />
-    <tag k='name:it' v='via Winkel 4' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48949' action='modify' visible='true' lat='46.6722439' lon='11.1738839'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Str. 1 - via Virgilio 1' />
-    <tag k='name:de' v='Vergil Str. 1' />
-    <tag k='name:it' v='via Virgilio 1' />
-    <tag k='route_ref' v='3;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48947' action='modify' visible='true' lat='46.6708183' lon='11.1610708'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 2 - corso Liberta` 2' />
-    <tag k='name:de' v='Freiheitsstr. 2' />
-    <tag k='name:it' v='corso Liberta` 2' />
-    <tag k='route_ref' v='1;2;3;4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48945' action='modify' visible='true' lat='46.663505' lon='11.1745122'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Winkel Weg 3 - via Winkel 3' />
-    <tag k='name:de' v='Winkel Weg 3' />
-    <tag k='name:it' v='via Winkel 3' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48943' action='modify' visible='true' lat='46.6716364' lon='11.1733369'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Str. 1 - via Virgilio 1' />
-    <tag k='name:de' v='Vergil Str. 1' />
-    <tag k='name:it' v='via Virgilio 1' />
-    <tag k='route_ref' v='3;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48941' action='modify' visible='true' lat='46.6691414' lon='11.1740061'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnenplatz - piazza Fontana' />
-    <tag k='name:de' v='Brunnenplatz' />
-    <tag k='name:it' v='piazza Fontana' />
-    <tag k='route_ref' v='1;3;146;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48939' action='modify' visible='true' lat='46.6703319' lon='11.16426'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 1 - corso Liberta&apos; 1' />
-    <tag k='name:de' v='Freiheitsstr. 1' />
-    <tag k='name:it' v='corso Liberta&apos; 1' />
-    <tag k='route_ref' v='1;3;4;146;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48937' action='modify' visible='true' lat='46.6647131' lon='11.1660694'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Grabmayr Str. - via Grabmayr' />
-    <tag k='name:de' v='Grabmayr Str.' />
-    <tag k='name:it' v='via Grabmayr' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48935' action='modify' visible='true' lat='46.6673644' lon='11.1741831'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dante Str. 1 - via Dante 1' />
-    <tag k='name:de' v='Dante Str. 1' />
-    <tag k='name:it' v='via Dante 1' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48933' action='modify' visible='true' lat='46.6687897' lon='11.1844425'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schennastr. 3 - via Scena 3' />
-    <tag k='name:de' v='Schennastr. 3' />
-    <tag k='name:it' v='via Scena 3' />
-    <tag k='route_ref' v='1;146;ME-AV;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48931' visible='true' lat='46.6724469' lon='11.1740825'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Villa Maria' />
-    <tag k='name:de' v='Villa Maria' />
-    <tag k='name:it' v='Villa Maria' />
-    <tag k='route_ref' v='3;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48929' action='modify' visible='true' lat='46.6627836' lon='11.1596014'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Piavestr. 3 - via Piave 3' />
-    <tag k='name:de' v='Piavestr. 3' />
-    <tag k='name:it' v='via Piave 3' />
-    <tag k='route_ref' v='11;12' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48927' action='modify' visible='true' lat='46.6704253' lon='11.16945'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='St. Georgen Str. - via San Giorgio' />
-    <tag k='name:de' v='St. Georgen Str.' />
-    <tag k='name:it' v='via San Giorgio' />
-    <tag k='route_ref' v='TIROLO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48925' action='modify' visible='true' lat='46.6689697' lon='11.1854419'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Rametz Bruecke - ponte Rametz' />
-    <tag k='name:de' v='Rametz Bruecke' />
-    <tag k='name:it' v='ponte Rametz' />
-    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48923' action='modify' visible='true' lat='46.6646328' lon='11.1772994'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dante Str. 2 - via Dante 2' />
-    <tag k='name:de' v='Dante Str. 2' />
-    <tag k='name:it' v='via Dante 2' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48921' action='modify' visible='true' lat='46.6657528' lon='11.1705222'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schafferstr. 2 - via Schaffer 2' />
-    <tag k='name:de' v='Schafferstr. 2' />
-    <tag k='name:it' v='via Schaffer 2' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48919' action='modify' visible='true' lat='46.6612014' lon='11.1837008'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Trauttmansdorff - Giardino Botanico' />
-    <tag k='name:de' v='Trauttmansdorff' />
-    <tag k='name:it' v='Giardino Botanico' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48917' action='modify' visible='true' lat='46.6703283' lon='11.1643922'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Freiheitsstr. 1 - corso Liberta&apos; 1' />
-    <tag k='name:de' v='Freiheitsstr. 1' />
-    <tag k='name:it' v='corso Liberta&apos; 1' />
-    <tag k='route_ref' v='1;2;3;4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48915' action='modify' visible='true' lat='46.6703375' lon='11.1694167'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='St. Georgen Str. - via San Giorgio' />
-    <tag k='name:de' v='St. Georgen Str.' />
-    <tag k='name:it' v='via San Giorgio' />
-    <tag k='route_ref' v='TIROLO' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48913' action='modify' visible='true' lat='46.6728828' lon='11.1749858'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Str. 2 NON ESISTE PIU - via Virgilio 2' />
-    <tag k='name:de' v='Vergil Str. 2 NON ESISTE PIU' />
-    <tag k='name:it' v='via Virgilio 2' />
-    <tag k='route_ref' v='146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48911' action='modify' visible='true' lat='46.67205' lon='11.1595514'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Rennweg - via delle Corse' />
-    <tag k='name:de' v='Rennweg' />
-    <tag k='name:it' v='via delle Corse' />
-    <tag k='route_ref' v='BZ-ME;2;3;11;12;13;TIROLO;ME-AV' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48909' action='modify' visible='true' lat='46.6677525' lon='11.1645331'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Innerhofer Str. - via Innerhofer' />
-    <tag k='name:de' v='Innerhofer Str.' />
-    <tag k='name:it' v='via Innerhofer' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48907' action='modify' visible='true' lat='46.6649014' lon='11.1611047'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Romstr. 2 - via Roma 2' />
-    <tag k='name:de' v='Romstr. 2' />
-    <tag k='name:it' v='via Roma 2' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48905' action='modify' visible='true' lat='46.6647481' lon='11.1681797'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schafferstr. 1 - via Schaffer 1' />
-    <tag k='name:de' v='Schafferstr. 1' />
-    <tag k='name:it' v='via Schaffer 1' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48903' action='modify' visible='true' lat='46.6604297' lon='11.1816058'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dante Str. 5 - via Dante 5' />
-    <tag k='name:de' v='Dante Str. 5' />
-    <tag k='name:it' v='via Dante 5' />
-    <tag k='route_ref' v='4' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48901' action='modify' visible='true' lat='46.6682347' lon='11.1632531'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Romstr. 1 - via Roma 1' />
-    <tag k='name:de' v='Romstr. 1' />
-    <tag k='name:it' v='via Roma 1' />
-    <tag k='route_ref' v='2' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48899' action='modify' visible='true' lat='46.6634592' lon='11.1779364'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Dante Str. 3 - via Dante 3' />
-    <tag k='name:de' v='Dante Str. 3' />
-    <tag k='name:it' v='via Dante 3' />
-    <tag k='route_ref' v='4;146' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48897' action='modify' visible='true' lat='46.65485' lon='11.1843319'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Katzensteinstr. 2 - via Castel Gatto 2' />
-    <tag k='name:de' v='Katzensteinstr. 2' />
-    <tag k='name:it' v='via Castel Gatto 2' />
-    <tag k='route_ref' v='4' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48895' action='modify' visible='true' lat='46.6711833' lon='11.1594181'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Rennweg - via delle Corse' />
-    <tag k='name:de' v='Rennweg' />
-    <tag k='name:it' v='via delle Corse' />
-    <tag k='route_ref' v='3;6;12;13;TIROLO;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48893' action='modify' visible='true' lat='46.6716439' lon='11.2013533'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Naifweg 3 - via Val di Nova 3' />
-    <tag k='name:de' v='Naifweg 3' />
-    <tag k='name:it' v='via Val di Nova 3' />
-    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48891' action='modify' visible='true' lat='46.6709822' lon='11.2093597'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
-    <tag k='name:de' v='Seilbahn Meran 2000' />
-    <tag k='name:it' v='Funivia Merano 2000' />
-    <tag k='route_ref' v='1' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48889' action='modify' visible='true' lat='46.6713806' lon='11.2005181'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Naifweg 3 - via Val di Nova 3' />
-    <tag k='name:de' v='Naifweg 3' />
-    <tag k='name:it' v='via Val di Nova 3' />
-    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48887' action='modify' visible='true' lat='46.6714567' lon='11.2091939'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
-    <tag k='name:de' v='Seilbahn Meran 2000' />
-    <tag k='name:it' v='Funivia Merano 2000' />
-    <tag k='route_ref' v='ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48885' action='modify' visible='true' lat='46.6715319' lon='11.2091625'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
-    <tag k='name:de' v='Seilbahn Meran 2000' />
-    <tag k='name:it' v='Funivia Merano 2000' />
-    <tag k='route_ref' v='ME-AV;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48883' action='modify' visible='true' lat='46.6317339' lon='11.1773861'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artig.' />
-    <tag k='name:de' v='Sinich HW Zone' />
-    <tag k='name:it' v='Sinigo Zona Artig.' />
-    <tag k='route_ref' v='2;14' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48881' action='modify' visible='true' lat='46.631575' lon='11.1774417'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artig.' />
-    <tag k='name:de' v='Sinich HW Zone' />
-    <tag k='name:it' v='Sinigo Zona Artig.' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48879' action='modify' visible='true' lat='46.6340336' lon='11.1775347'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 6 - Sinigo 6' />
-    <tag k='name:de' v='Sinich 6' />
-    <tag k='name:it' v='Sinigo 6' />
-    <tag k='route_ref' v='BZ-ME;2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48877' action='modify' visible='true' lat='46.6407039' lon='11.1769667'>
-    <tag k='bench' v='yes' />
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 4 - Sinigo 4' />
-    <tag k='name:de' v='Sinich 4' />
-    <tag k='name:it' v='Sinigo 4' />
+    <tag k='name' v='Sinich 7 - Sinigo 7' />
+    <tag k='name:de' v='Sinich 7' />
+    <tag k='name:it' v='Sinigo 7' />
     <tag k='route_ref' v='2;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48875' action='modify' visible='true' lat='46.6407944' lon='11.1770561'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 4 - Sinigo 4' />
-    <tag k='name:de' v='Sinich 4' />
-    <tag k='name:it' v='Sinigo 4' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48873' action='modify' visible='true' lat='46.6470792' lon='11.1782986'>
-    <tag k='bench' v='yes' />
+  <node id='-3987' action='modify' visible='true' lat='46.6473419' lon='11.1778131'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Sinich 1 - Sinigo 1' />
     <tag k='name:de' v='Sinich 1' />
     <tag k='name:it' v='Sinigo 1' />
     <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48871' action='modify' visible='true' lat='46.6341317' lon='11.1774925'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 6 - Sinigo 6' />
-    <tag k='name:de' v='Sinich 6' />
-    <tag k='name:it' v='Sinigo 6' />
-    <tag k='route_ref' v='BZ-ME;2;NIGHTSH' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48869' action='modify' visible='true' lat='46.6369172' lon='11.1760347'>
+  <node id='-3985' action='modify' visible='true' lat='46.6452172' lon='11.1798458'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich 2 - Sinigo 2' />
+    <tag k='name:de' v='Sinich 2' />
+    <tag k='name:it' v='Sinigo 2' />
+    <tag k='route_ref' v='2' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3983' action='modify' visible='true' lat='46.6452075' lon='11.1798031'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich 2 - Sinigo 2' />
+    <tag k='name:de' v='Sinich 2' />
+    <tag k='name:it' v='Sinigo 2' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-3981' action='modify' visible='true' lat='46.6334381' lon='11.1774828'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kravogl Kreuzung - Bivio Kravogl' />
+    <tag k='name:de' v='Kravogl Kreuzung' />
+    <tag k='name:it' v='Bivio Kravogl' />
+    <tag k='route_ref' v='2;14' />
+  </node>
+  <node id='-3979' action='modify' visible='true' lat='46.6369172' lon='11.1760347'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Sinich 5 - Sinigo 5' />
     <tag k='name:de' v='Sinich 5' />
     <tag k='name:it' v='Sinigo 5' />
     <tag k='route_ref' v='BZ-ME;2' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48867' action='modify' visible='true' lat='46.6334381' lon='11.1774828'>
+  <node id='-3977' action='modify' visible='true' lat='46.6341317' lon='11.1774925'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kravogl Kreuzung - Bivio Kravogl' />
-    <tag k='name:de' v='Kravogl Kreuzung' />
-    <tag k='name:it' v='Bivio Kravogl' />
-    <tag k='route_ref' v='2;14' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48865' action='modify' visible='true' lat='46.6452075' lon='11.1798031'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 2 - Sinigo 2' />
-    <tag k='name:de' v='Sinich 2' />
-    <tag k='name:it' v='Sinigo 2' />
-    <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48863' action='modify' visible='true' lat='46.6452172' lon='11.1798458'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 2 - Sinigo 2' />
-    <tag k='name:de' v='Sinich 2' />
-    <tag k='name:it' v='Sinigo 2' />
-    <tag k='route_ref' v='2' />
+    <tag k='name' v='Sinich 6 - Sinigo 6' />
+    <tag k='name:de' v='Sinich 6' />
+    <tag k='name:it' v='Sinigo 6' />
+    <tag k='route_ref' v='BZ-ME;2;NIGHTSH' />
     <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48861' action='modify' visible='true' lat='46.6473419' lon='11.1778131'>
+  <node id='-3975' action='modify' visible='true' lat='46.6470792' lon='11.1782986'>
+    <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Sinich 1 - Sinigo 1' />
     <tag k='name:de' v='Sinich 1' />
     <tag k='name:it' v='Sinigo 1' />
     <tag k='route_ref' v='2' />
-    <tag k='shelter' v='yes' />
-    <tag k='source' v='open.sasabz.it' />
   </node>
-  <node id='-48859' action='modify' visible='true' lat='46.6294408' lon='11.1806786'>
+  <node id='-3973' action='modify' visible='true' lat='46.6407944' lon='11.1770561'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 7 - Sinigo 7' />
-    <tag k='name:de' v='Sinich 7' />
-    <tag k='name:it' v='Sinigo 7' />
-    <tag k='route_ref' v='2;NIGHTSH' />
-    <tag k='source' v='open.sasabz.it' />
-  </node>
-  <node id='-48857' action='modify' visible='true' lat='46.6300403' lon='11.1803492'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich 7 - Sinigo 7' />
-    <tag k='name:de' v='Sinich 7' />
-    <tag k='name:it' v='Sinigo 7' />
+    <tag k='name' v='Sinich 4 - Sinigo 4' />
+    <tag k='name:de' v='Sinich 4' />
+    <tag k='name:it' v='Sinigo 4' />
     <tag k='route_ref' v='2' />
-    <tag k='source' v='open.sasabz.it' />
+  </node>
+  <node id='-3971' action='modify' visible='true' lat='46.6407039' lon='11.1769667'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich 4 - Sinigo 4' />
+    <tag k='name:de' v='Sinich 4' />
+    <tag k='name:it' v='Sinigo 4' />
+    <tag k='route_ref' v='2;NIGHTSH' />
+  </node>
+  <node id='-3969' action='modify' visible='true' lat='46.6340336' lon='11.1775347'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich 6 - Sinigo 6' />
+    <tag k='name:de' v='Sinich 6' />
+    <tag k='name:it' v='Sinigo 6' />
+    <tag k='route_ref' v='BZ-ME;2' />
+  </node>
+  <node id='-3967' action='modify' visible='true' lat='46.631575' lon='11.1774417'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artig.' />
+    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name:it' v='Sinigo Zona Artig.' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-3965' action='modify' visible='true' lat='46.6317339' lon='11.1773861'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artig.' />
+    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name:it' v='Sinigo Zona Artig.' />
+    <tag k='route_ref' v='2;14' />
+  </node>
+  <node id='-3963' action='modify' visible='true' lat='46.6715319' lon='11.2091625'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
+    <tag k='name:de' v='Seilbahn Meran 2000' />
+    <tag k='name:it' v='Funivia Merano 2000' />
+    <tag k='route_ref' v='ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3961' action='modify' visible='true' lat='46.6714567' lon='11.2091939'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
+    <tag k='name:de' v='Seilbahn Meran 2000' />
+    <tag k='name:it' v='Funivia Merano 2000' />
+    <tag k='route_ref' v='ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3959' action='modify' visible='true' lat='46.6713806' lon='11.2005181'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Naifweg 3 - via Val di Nova 3' />
+    <tag k='name:de' v='Naifweg 3' />
+    <tag k='name:it' v='via Val di Nova 3' />
+    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3957' action='modify' visible='true' lat='46.6709822' lon='11.2093597'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Seilbahn Meran 2000 - Funivia Merano 2000' />
+    <tag k='name:de' v='Seilbahn Meran 2000' />
+    <tag k='name:it' v='Funivia Merano 2000' />
+    <tag k='route_ref' v='1' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3955' action='modify' visible='true' lat='46.6716439' lon='11.2013533'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Naifweg 3 - via Val di Nova 3' />
+    <tag k='name:de' v='Naifweg 3' />
+    <tag k='name:it' v='via Val di Nova 3' />
+    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3953' action='modify' visible='true' lat='46.6711833' lon='11.1594181'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rennweg - via delle Corse' />
+    <tag k='name:de' v='Rennweg' />
+    <tag k='name:it' v='via delle Corse' />
+    <tag k='route_ref' v='3;6;12;13;TIROLO;NIGHTSH' />
+  </node>
+  <node id='-3951' action='modify' visible='true' lat='46.65485' lon='11.1843319'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Katzensteinstr. 2 - via Castel Gatto 2' />
+    <tag k='name:de' v='Katzensteinstr. 2' />
+    <tag k='name:it' v='via Castel Gatto 2' />
+    <tag k='route_ref' v='4' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3949' action='modify' visible='true' lat='46.6634592' lon='11.1779364'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dante Str. 3 - via Dante 3' />
+    <tag k='name:de' v='Dante Str. 3' />
+    <tag k='name:it' v='via Dante 3' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3947' action='modify' visible='true' lat='46.6682347' lon='11.1632531'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Romstr. 1 - via Roma 1' />
+    <tag k='name:de' v='Romstr. 1' />
+    <tag k='name:it' v='via Roma 1' />
+    <tag k='route_ref' v='2' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3945' action='modify' visible='true' lat='46.6604297' lon='11.1816058'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dante Str. 5 - via Dante 5' />
+    <tag k='name:de' v='Dante Str. 5' />
+    <tag k='name:it' v='via Dante 5' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3943' action='modify' visible='true' lat='46.6647481' lon='11.1681797'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schafferstr. 1 - via Schaffer 1' />
+    <tag k='name:de' v='Schafferstr. 1' />
+    <tag k='name:it' v='via Schaffer 1' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3941' action='modify' visible='true' lat='46.6649014' lon='11.1611047'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Romstr. 2 - via Roma 2' />
+    <tag k='name:de' v='Romstr. 2' />
+    <tag k='name:it' v='via Roma 2' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-3939' action='modify' visible='true' lat='46.6677525' lon='11.1645331'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Innerhofer Str. - via Innerhofer' />
+    <tag k='name:de' v='Innerhofer Str.' />
+    <tag k='name:it' v='via Innerhofer' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3937' action='modify' visible='true' lat='46.67205' lon='11.1595514'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rennweg - via delle Corse' />
+    <tag k='name:de' v='Rennweg' />
+    <tag k='name:it' v='via delle Corse' />
+    <tag k='route_ref' v='BZ-ME;2;3;11;12;13;TIROLO;ME-AV' />
+  </node>
+  <node id='-3935' action='modify' visible='true' lat='46.6728828' lon='11.1749858'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vergil Str. 2 NON ESISTE PIU - via Virgilio 2' />
+    <tag k='name:de' v='Vergil Str. 2 NON ESISTE PIU' />
+    <tag k='name:it' v='via Virgilio 2' />
+    <tag k='route_ref' v='146' />
+  </node>
+  <node id='-3933' action='modify' visible='true' lat='46.6703375' lon='11.1694167'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St. Georgen Str. - via San Giorgio' />
+    <tag k='name:de' v='St. Georgen Str.' />
+    <tag k='name:it' v='via San Giorgio' />
+    <tag k='route_ref' v='TIROLO' />
+  </node>
+  <node id='-3931' action='modify' visible='true' lat='46.6703283' lon='11.1643922'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 1 - corso Liberta&apos; 1' />
+    <tag k='name:de' v='Freiheitsstr. 1' />
+    <tag k='name:it' v='corso Liberta&apos; 1' />
+    <tag k='route_ref' v='1;2;3;4;146' />
+  </node>
+  <node id='-3929' action='modify' visible='true' lat='46.6612014' lon='11.1837008'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trauttmansdorff - Giardino Botanico' />
+    <tag k='name:de' v='Trauttmansdorff' />
+    <tag k='name:it' v='Giardino Botanico' />
+    <tag k='route_ref' v='4;146' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3927' action='modify' visible='true' lat='46.6657528' lon='11.1705222'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schafferstr. 2 - via Schaffer 2' />
+    <tag k='name:de' v='Schafferstr. 2' />
+    <tag k='name:it' v='via Schaffer 2' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3925' action='modify' visible='true' lat='46.6646328' lon='11.1772994'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dante Str. 2 - via Dante 2' />
+    <tag k='name:de' v='Dante Str. 2' />
+    <tag k='name:it' v='via Dante 2' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3923' action='modify' visible='true' lat='46.6689697' lon='11.1854419'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rametz Bruecke - ponte Rametz' />
+    <tag k='name:de' v='Rametz Bruecke' />
+    <tag k='name:it' v='ponte Rametz' />
+    <tag k='route_ref' v='1;ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3921' action='modify' visible='true' lat='46.6704253' lon='11.16945'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St. Georgen Str. - via San Giorgio' />
+    <tag k='name:de' v='St. Georgen Str.' />
+    <tag k='name:it' v='via San Giorgio' />
+    <tag k='route_ref' v='TIROLO' />
+  </node>
+  <node id='-3919' action='modify' visible='true' lat='46.6627836' lon='11.1596014'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piavestr. 3 - via Piave 3' />
+    <tag k='name:de' v='Piavestr. 3' />
+    <tag k='name:it' v='via Piave 3' />
+    <tag k='route_ref' v='11;12' />
+  </node>
+  <node id='-3917' action='modify' visible='true' lat='46.6724469' lon='11.1740825'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Villa Maria' />
+    <tag k='name:de' v='Villa Maria' />
+    <tag k='name:it' v='Villa Maria' />
+    <tag k='route_ref' v='3;146' />
+  </node>
+  <node id='-3915' action='modify' visible='true' lat='46.6687897' lon='11.1844425'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schennastr. 3 - via Scena 3' />
+    <tag k='name:de' v='Schennastr. 3' />
+    <tag k='name:it' v='via Scena 3' />
+    <tag k='route_ref' v='1;146;ME-AV;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3913' action='modify' visible='true' lat='46.6673644' lon='11.1741831'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dante Str. 1 - via Dante 1' />
+    <tag k='name:de' v='Dante Str. 1' />
+    <tag k='name:it' v='via Dante 1' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3911' action='modify' visible='true' lat='46.6647131' lon='11.1660694'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grabmayr Str. - via Grabmayr' />
+    <tag k='name:de' v='Grabmayr Str.' />
+    <tag k='name:it' v='via Grabmayr' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3909' action='modify' visible='true' lat='46.6703319' lon='11.16426'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 1 - corso Liberta&apos; 1' />
+    <tag k='name:de' v='Freiheitsstr. 1' />
+    <tag k='name:it' v='corso Liberta&apos; 1' />
+    <tag k='route_ref' v='1;3;4;146;NIGHTSH' />
+  </node>
+  <node id='-3907' action='modify' visible='true' lat='46.6691414' lon='11.1740061'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunnenplatz - piazza Fontana' />
+    <tag k='name:de' v='Brunnenplatz' />
+    <tag k='name:it' v='piazza Fontana' />
+    <tag k='route_ref' v='1;3;146;ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3905' action='modify' visible='true' lat='46.6716364' lon='11.1733369'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vergil Str. 1 - via Virgilio 1' />
+    <tag k='name:de' v='Vergil Str. 1' />
+    <tag k='name:it' v='via Virgilio 1' />
+    <tag k='route_ref' v='3;146' />
+  </node>
+  <node id='-3903' action='modify' visible='true' lat='46.663505' lon='11.1745122'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkel Weg 3 - via Winkel 3' />
+    <tag k='name:de' v='Winkel Weg 3' />
+    <tag k='name:it' v='via Winkel 3' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3901' action='modify' visible='true' lat='46.6708183' lon='11.1610708'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 2 - corso Liberta` 2' />
+    <tag k='name:de' v='Freiheitsstr. 2' />
+    <tag k='name:it' v='corso Liberta` 2' />
+    <tag k='route_ref' v='1;2;3;4;146' />
+  </node>
+  <node id='-3899' action='modify' visible='true' lat='46.6722439' lon='11.1738839'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vergil Str. 1 - via Virgilio 1' />
+    <tag k='name:de' v='Vergil Str. 1' />
+    <tag k='name:it' v='via Virgilio 1' />
+    <tag k='route_ref' v='3;146' />
+  </node>
+  <node id='-3897' action='modify' visible='true' lat='46.6620975' lon='11.17665'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkel Weg 4 - via Winkel 4' />
+    <tag k='name:de' v='Winkel Weg 4' />
+    <tag k='name:it' v='via Winkel 4' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3895' action='modify' visible='true' lat='46.6752075' lon='11.1763969'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vergil Str. 2 - via Virgilio 2' />
+    <tag k='name:de' v='Vergil Str. 2' />
+    <tag k='name:it' v='via Virgilio 2' />
+    <tag k='route_ref' v='3;146' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3893' action='modify' visible='true' lat='46.6693461' lon='11.1740803'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunnenplatz - piazza Fontana' />
+    <tag k='name:de' v='Brunnenplatz' />
+    <tag k='name:it' v='piazza Fontana' />
+    <tag k='route_ref' v='1;3;ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3891' action='modify' visible='true' lat='46.6682111' lon='11.1655978'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cavour Str. 1 - via Cavour 1' />
+    <tag k='name:de' v='Cavour Str. 1' />
+    <tag k='name:it' v='via Cavour 1' />
+    <tag k='route_ref' v='1;3;4;146;TIROLO;ME-AV;NIGHTSH' />
+  </node>
+  <node id='-3889' action='modify' visible='true' lat='46.6617669' lon='11.1791164'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dante Str. 4 - via Dante 4' />
+    <tag k='name:de' v='Dante Str. 4' />
+    <tag k='name:it' v='via Dante 4' />
+    <tag k='route_ref' v='4;146' />
+  </node>
+  <node id='-3887' action='modify' visible='true' lat='46.6678103' lon='11.1690925'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkel Weg 1 - via Winkel 1' />
+    <tag k='name:de' v='Winkel Weg 1' />
+    <tag k='name:it' v='via Winkel 1' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3885' action='modify' visible='true' lat='46.6680061' lon='11.166115'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cavour Str. 1 - via Cavour 1' />
+    <tag k='name:de' v='Cavour Str. 1' />
+    <tag k='name:it' v='via Cavour 1' />
+    <tag k='route_ref' v='1;3;TIROLO;ME-AV;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3883' action='modify' visible='true' lat='46.66365' lon='11.1592772'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piavestr. 3 - via Piave 3' />
+    <tag k='name:de' v='Piavestr. 3' />
+    <tag k='name:it' v='via Piave 3' />
+    <tag k='route_ref' v='11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3881' action='modify' visible='true' lat='46.6708497' lon='11.160555'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 2 - corso Liberta` 2' />
+    <tag k='name:de' v='Freiheitsstr. 2' />
+    <tag k='name:it' v='corso Liberta` 2' />
+    <tag k='route_ref' v='1;3;4;146;NIGHTSH' />
+  </node>
+  <node id='-3879' action='modify' visible='true' lat='46.6651119' lon='11.1709997'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkel Weg 2 - via Winkel 2' />
+    <tag k='name:de' v='Winkel Weg 2' />
+    <tag k='name:it' v='via Winkel 2' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3877' action='modify' visible='true' lat='46.6617389' lon='11.1787378'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkel Weg 5 - via Winkel 5' />
+    <tag k='name:de' v='Winkel Weg 5' />
+    <tag k='name:it' v='via Winkel 5' />
+    <tag k='route_ref' v='4' />
+  </node>
+  <node id='-3875' action='modify' visible='true' lat='46.6645039' lon='11.1614661'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Romstr. 2 - via Roma 2' />
+    <tag k='name:de' v='Romstr. 2' />
+    <tag k='name:it' v='via Roma 2' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-3873' action='modify' visible='true' lat='46.6688167' lon='11.1834681'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schennastr. 3 - via Scena 3' />
+    <tag k='name:de' v='Schennastr. 3' />
+    <tag k='name:it' v='via Scena 3' />
+    <tag k='route_ref' v='1;NIGHTSH' />
+  </node>
+  <node id='-3871' action='modify' visible='true' lat='46.6706667' lon='11.1592328'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Theater Platz - piazza Teatro' />
+    <tag k='name:de' v='Theater Platz' />
+    <tag k='name:it' v='piazza Teatro' />
+    <tag k='route_ref' v='2;6;146;11;12' />
+  </node>
+  <node id='-3869' action='modify' visible='true' lat='46.6712325' lon='11.1533567'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 4 - corso Liberta&apos; 4' />
+    <tag k='name:de' v='Freiheitsstr. 4' />
+    <tag k='name:it' v='corso Liberta&apos; 4' />
+    <tag k='route_ref' v='1;2;4;6;146;13;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3867' action='modify' visible='true' lat='46.6823122' lon='11.1474392'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karl Wolf Str. 6 - via Karl Wolf 6' />
+    <tag k='name:de' v='Karl Wolf Str. 6' />
+    <tag k='name:it' v='via Karl Wolf 6' />
+    <tag k='route_ref' v='3;146;11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3865' action='modify' visible='true' lat='46.6776533' lon='11.1522731'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Krankenhaus - Ospedale' />
+    <tag k='name:de' v='Krankenhaus' />
+    <tag k='name:it' v='Ospedale' />
+    <tag k='route_ref' v='4;146' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3863' action='modify' visible='true' lat='46.6743981' lon='11.1498625'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mainhard Str. - via Mainardo' />
+    <tag k='name:de' v='Mainhard Str.' />
+    <tag k='name:it' v='via Mainardo' />
+    <tag k='route_ref' v='2;3' />
+  </node>
+  <node id='-3861' action='modify' visible='true' lat='46.6777892' lon='11.1454033'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goethe Str. 4 - via Goethe 4' />
+    <tag k='name:de' v='Goethe Str. 4' />
+    <tag k='name:it' v='via Goethe 4' />
+    <tag k='route_ref' v='12;13' />
+  </node>
+  <node id='-3859' action='modify' visible='true' lat='46.684475' lon='11.1460706'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Martinsbrunn - Fonte S. Martino' />
+    <tag k='name:de' v='Martinsbrunn' />
+    <tag k='name:it' v='Fonte S. Martino' />
+    <tag k='route_ref' v='3' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3857' action='modify' visible='true' lat='46.6768669' lon='11.1446681'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='4. Novemberstr. - via IV Novembre' />
+    <tag k='name:de' v='4. Novemberstr.' />
+    <tag k='name:it' v='via IV Novembre' />
+    <tag k='route_ref' v='1;146' />
+  </node>
+  <node id='-3855' action='modify' visible='true' lat='46.6708472' lon='11.1589031'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Theater Platz - piazza Teatro' />
+    <tag k='name:de' v='Theater Platz' />
+    <tag k='name:it' v='piazza Teatro' />
+    <tag k='route_ref' v='1;2;4;6;11;12;14;NIGHTSH' />
+  </node>
+  <node id='-3853' action='modify' visible='true' lat='46.6767833' lon='11.1446014'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='4. Novemberstr. - via IV Novembre' />
+    <tag k='name:de' v='4. Novemberstr.' />
+    <tag k='name:it' v='via IV Novembre' />
+    <tag k='route_ref' v='1;146' />
+  </node>
+  <node id='-3851' action='modify' visible='true' lat='46.6737617' lon='11.1505247'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof Hofer Str. - stazione via Hofer' />
+    <tag k='name:de' v='Bahnhof Hofer Str.' />
+    <tag k='name:it' v='stazione via Hofer' />
+    <tag k='route_ref' v='1;4;6;146;11;12;14' />
+  </node>
+  <node id='-3849' action='modify' visible='true' lat='46.6804994' lon='11.1509758'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karl Wolf Str. 5 - via Karl Wolf 5' />
+    <tag k='name:de' v='Karl Wolf Str. 5' />
+    <tag k='name:it' v='via Karl Wolf 5' />
+    <tag k='route_ref' v='2;3;11' />
+  </node>
+  <node id='-3847' action='modify' visible='true' lat='46.6784733' lon='11.1478628'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Laurin Str. 2 - via Laurin 2' />
+    <tag k='name:de' v='Laurin Str. 2' />
+    <tag k='name:it' v='via Laurin 2' />
+    <tag k='route_ref' v='2;3;11' />
+  </node>
+  <node id='-3845' action='modify' visible='true' lat='46.6754428' lon='11.1530417'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='A. Hofer Str. 2 - via A. Hofer 2' />
+    <tag k='name:de' v='A. Hofer Str. 2' />
+    <tag k='name:it' v='via A. Hofer 2' />
+    <tag k='route_ref' v='BZ-ME;2;4;146;11;12;13;TIROLO;ME-AV' />
+  </node>
+  <node id='-3843' action='modify' visible='true' lat='46.6758461' lon='11.1524636'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goethe Str. 2 - via Goethe 2' />
+    <tag k='name:de' v='Goethe Str. 2' />
+    <tag k='name:it' v='via Goethe 2' />
+    <tag k='route_ref' v='6;12;13;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3841' action='modify' visible='true' lat='46.6710947' lon='11.1557631'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 3 - corso Liberta&apos; 3' />
+    <tag k='name:de' v='Freiheitsstr. 3' />
+    <tag k='name:it' v='corso Liberta&apos; 3' />
+    <tag k='route_ref' v='1;2;4;6;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3839' action='modify' visible='true' lat='46.675325' lon='11.1528925'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hofer Str. 2 - via Hofer 2' />
+    <tag k='name:de' v='Hofer Str. 2' />
+    <tag k='name:it' v='via Hofer 2' />
+    <tag k='route_ref' v='4;11;12;TIROLO;ME-AV;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3837' action='modify' visible='true' lat='46.6823331' lon='11.1473953'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karl Wolf Str. 6 - via Karl Wolf 6' />
+    <tag k='name:de' v='Karl Wolf Str. 6' />
+    <tag k='name:it' v='via Karl Wolf 6' />
+    <tag k='route_ref' v='2;3;11' />
+  </node>
+  <node id='-3835' action='modify' visible='true' lat='46.6744153' lon='11.1500086'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mainhard Str. - via Mainardo' />
+    <tag k='name:de' v='Mainhard Str.' />
+    <tag k='name:it' v='via Mainardo' />
+    <tag k='route_ref' v='3' />
+  </node>
+  <node id='-3833' action='modify' visible='true' lat='46.6774464' lon='11.1463314'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goethe Str. 4 - via Goethe 4' />
+    <tag k='name:de' v='Goethe Str. 4' />
+    <tag k='name:it' v='via Goethe 4' />
+    <tag k='route_ref' v='11;12;13;NIGHTSH' />
+  </node>
+  <node id='-3831' action='modify' visible='true' lat='46.6793436' lon='11.1477439'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Laurin Str. 2 - via Laurin 2' />
+    <tag k='name:de' v='Laurin Str. 2' />
+    <tag k='name:it' v='via Laurin 2' />
+    <tag k='route_ref' v='BZ-ME;3;146;11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3829' action='modify' visible='true' lat='46.6803017' lon='11.1511992'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karl Wolf Str. 5 - via Karl Wolf 5' />
+    <tag k='name:de' v='Karl Wolf Str. 5' />
+    <tag k='name:it' v='via Karl Wolf 5' />
+    <tag k='route_ref' v='BZ-ME;2;3;146;11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3827' action='modify' visible='true' lat='46.6710961' lon='11.1554408'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 3 - corso Liberta&apos; 3' />
+    <tag k='name:de' v='Freiheitsstr. 3' />
+    <tag k='name:it' v='corso Liberta&apos; 3' />
+    <tag k='route_ref' v='1;2;4;6;146;NIGHTSH' />
+  </node>
+  <node id='-3825' action='modify' visible='true' lat='46.6712567' lon='11.1533764'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Freiheitsstr. 4 - corso Liberta&apos; 4' />
+    <tag k='name:de' v='Freiheitsstr. 4' />
+    <tag k='name:it' v='corso Liberta&apos; 4' />
+    <tag k='route_ref' v='1;2;4;6;11;12;13;14;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-3823' action='modify' visible='true' lat='46.675935' lon='11.1522614'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goethe Str. 2 - via Goethe 2' />
+    <tag k='name:de' v='Goethe Str. 2' />
+    <tag k='name:it' v='via Goethe 2' />
+    <tag k='route_ref' v='BZ-ME;12;13' />
+  </node>
+  <node id='-3821' action='modify' visible='true' lat='46.6729861' lon='11.1498431'>
+    <tag k='bench' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Meran Bahnhof - Merano stazione' />
+    <tag k='name:de' v='Meran Bahnhof' />
+    <tag k='name:it' v='Merano stazione' />
+    <tag k='route_ref' v='BZ-ME;1;2;3;4;6;146;12;13;TIROLO;ME-AV;NIGHTSH' />
   </node>
 </osm>
