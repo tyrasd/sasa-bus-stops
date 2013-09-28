@@ -1,138 +1,157 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-3703' action='modify' visible='true' lat='46.4833217' lon='11.4077922'>
+  <node id='-12089' action='modify' visible='true' lat='46.4920606' lon='11.3944411'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Stroblwiese 2' />
-    <tag k='name:de' v='Stroblwiese 2' />
-    <tag k='name:it' v='Stroblwiese 2' />
+    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
+    <tag k='name:de' v='Kardaun Karneiderstr.' />
+    <tag k='name:it' v='Cardano via Cornedo' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3701' action='modify' visible='true' lat='46.4840022' lon='11.4059392'>
+  <node id='-12087' action='modify' visible='true' lat='46.4950883' lon='11.3916764'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Stroblwiese 1' />
-    <tag k='name:de' v='Stroblwiese 1' />
-    <tag k='name:it' v='Stroblwiese 1' />
+    <tag k='name' v='Kardaun - Cardano' />
+    <tag k='name:de' v='Kardaun' />
+    <tag k='name:it' v='Cardano' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='1' />
+  </node>
+  <node id='-12085' action='modify' visible='true' lat='46.4927261' lon='11.3946617'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kardaun Friedhof - Cardano Cimitero' />
+    <tag k='name:de' v='Kardaun Friedhof' />
+    <tag k='name:it' v='Cardano Cimitero' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3699' action='modify' visible='true' lat='46.4920639' lon='11.3990806'>
+  <node id='-12083' action='modify' visible='true' lat='46.4922981' lon='11.3937519'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
-    <tag k='name:it' v='Cardano zona Art.' />
+    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
+    <tag k='name:de' v='Kardaun Karneiderstr.' />
+    <tag k='name:it' v='Cardano via Cornedo' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3697' action='modify' visible='true' lat='46.4845142' lon='11.4034322'>
+  <node id='-12081' action='modify' visible='true' lat='46.4949739' lon='11.3918156'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='St. Veit - San Vito' />
-    <tag k='name:de' v='St. Veit' />
-    <tag k='name:it' v='San Vito' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3695' action='modify' visible='true' lat='46.4840606' lon='11.4059525'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Stroblwiese 1' />
-    <tag k='name:de' v='Stroblwiese 1' />
-    <tag k='name:it' v='Stroblwiese 1' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3693' action='modify' visible='true' lat='46.4892261' lon='11.4038514'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karneid Dorf - Cornedo Paese' />
-    <tag k='name:de' v='Karneid Dorf' />
-    <tag k='name:it' v='Cornedo Paese' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3691' action='modify' visible='true' lat='46.484485' lon='11.4037297'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='St. Veit - San Vito' />
-    <tag k='name:de' v='St. Veit' />
-    <tag k='name:it' v='San Vito' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3689' action='modify' visible='true' lat='46.4889964' lon='11.4073028'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karneid Moar - Cornedo Moar' />
-    <tag k='name:de' v='Karneid Moar' />
-    <tag k='name:it' v='Cornedo Moar' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3687' action='modify' visible='true' lat='46.4896303' lon='11.4015175'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schloss Karneid - Castel Cornedo' />
-    <tag k='name:de' v='Schloss Karneid' />
-    <tag k='name:it' v='Castel Cornedo' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3685' action='modify' visible='true' lat='46.4890508' lon='11.4070728'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karneid Moar - Cornedo Moar' />
-    <tag k='name:de' v='Karneid Moar' />
-    <tag k='name:it' v='Cornedo Moar' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3683' action='modify' visible='true' lat='46.4921353' lon='11.3991578'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
-    <tag k='name:it' v='Cardano zona Art.' />
-    <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3681' action='modify' visible='true' lat='46.4893142' lon='11.4047086'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Karneid Dorf - Cornedo Paese' />
-    <tag k='name:de' v='Karneid Dorf' />
-    <tag k='name:it' v='Cornedo Paese' />
-    <tag k='route_ref' v='13' />
+    <tag k='name' v='Kardaun - Cardano' />
+    <tag k='name:de' v='Kardaun' />
+    <tag k='name:it' v='Cardano' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='1' />
     <tag k='shelter' v='yes' />
   </node>
-  <node id='-3679' action='modify' visible='true' lat='46.4944383' lon='11.3917364'>
+  <node id='-12079' action='modify' visible='true' lat='46.4927053' lon='11.3943458'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kardaun Friedhof - Cardano Cimitero' />
+    <tag k='name:de' v='Kardaun Friedhof' />
+    <tag k='name:it' v='Cardano Cimitero' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12077' action='modify' visible='true' lat='46.4944383' lon='11.3917364'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Sozialsprengel - Distretto Sanitario' />
     <tag k='name:de' v='Sozialsprengel' />
     <tag k='name:it' v='Distretto Sanitario' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3677' action='modify' visible='true' lat='46.4927053' lon='11.3943458'>
+  <node id='-12075' action='modify' visible='true' lat='46.4893142' lon='11.4047086'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Friedhof - Cardano Cimitero' />
-    <tag k='name:de' v='Kardaun Friedhof' />
-    <tag k='name:it' v='Cardano Cimitero' />
+    <tag k='name' v='Karneid Dorf - Cornedo Paese' />
+    <tag k='name:de' v='Karneid Dorf' />
+    <tag k='name:it' v='Cornedo Paese' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
-  </node>
-  <node id='-3675' action='modify' visible='true' lat='46.4949739' lon='11.3918156'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun - Cardano' />
-    <tag k='name:de' v='Kardaun' />
-    <tag k='name:it' v='Cardano' />
-    <tag k='route_ref' v='1' />
     <tag k='shelter' v='yes' />
   </node>
-  <node id='-3673' action='modify' visible='true' lat='46.4922981' lon='11.3937519'>
+  <node id='-12073' action='modify' visible='true' lat='46.4921353' lon='11.3991578'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
-    <tag k='name:de' v='Kardaun Karneiderstr.' />
-    <tag k='name:it' v='Cardano via Cornedo' />
+    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
+    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name:it' v='Cardano zona Art.' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3671' action='modify' visible='true' lat='46.4927261' lon='11.3946617'>
+  <node id='-12071' action='modify' visible='true' lat='46.4890508' lon='11.4070728'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Friedhof - Cardano Cimitero' />
-    <tag k='name:de' v='Kardaun Friedhof' />
-    <tag k='name:it' v='Cardano Cimitero' />
+    <tag k='name' v='Karneid Moar - Cornedo Moar' />
+    <tag k='name:de' v='Karneid Moar' />
+    <tag k='name:it' v='Cornedo Moar' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
-  <node id='-3669' action='modify' visible='true' lat='46.4950883' lon='11.3916764'>
+  <node id='-12069' action='modify' visible='true' lat='46.4896303' lon='11.4015175'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun - Cardano' />
-    <tag k='name:de' v='Kardaun' />
-    <tag k='name:it' v='Cardano' />
-    <tag k='route_ref' v='1' />
+    <tag k='name' v='Schloss Karneid - Castel Cornedo' />
+    <tag k='name:de' v='Schloss Karneid' />
+    <tag k='name:it' v='Castel Cornedo' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
   </node>
-  <node id='-3667' action='modify' visible='true' lat='46.4920606' lon='11.3944411'>
+  <node id='-12067' action='modify' visible='true' lat='46.4889964' lon='11.4073028'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
-    <tag k='name:de' v='Kardaun Karneiderstr.' />
-    <tag k='name:it' v='Cardano via Cornedo' />
+    <tag k='name' v='Karneid Moar - Cornedo Moar' />
+    <tag k='name:de' v='Karneid Moar' />
+    <tag k='name:it' v='Cornedo Moar' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12065' action='modify' visible='true' lat='46.484485' lon='11.4037297'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St. Veit - San Vito' />
+    <tag k='name:de' v='St. Veit' />
+    <tag k='name:it' v='San Vito' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12063' action='modify' visible='true' lat='46.4892261' lon='11.4038514'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karneid Dorf - Cornedo Paese' />
+    <tag k='name:de' v='Karneid Dorf' />
+    <tag k='name:it' v='Cornedo Paese' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12061' action='modify' visible='true' lat='46.4840606' lon='11.4059525'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stroblwiese 1' />
+    <tag k='name:de' v='Stroblwiese 1' />
+    <tag k='name:it' v='Stroblwiese 1' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12059' action='modify' visible='true' lat='46.4845142' lon='11.4034322'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St. Veit - San Vito' />
+    <tag k='name:de' v='St. Veit' />
+    <tag k='name:it' v='San Vito' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12057' action='modify' visible='true' lat='46.4920639' lon='11.3990806'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
+    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name:it' v='Cardano zona Art.' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12055' action='modify' visible='true' lat='46.4840022' lon='11.4059392'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stroblwiese 1' />
+    <tag k='name:de' v='Stroblwiese 1' />
+    <tag k='name:it' v='Stroblwiese 1' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='13' />
+  </node>
+  <node id='-12053' action='modify' visible='true' lat='46.4833217' lon='11.4077922'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stroblwiese 2' />
+    <tag k='name:de' v='Stroblwiese 2' />
+    <tag k='name:it' v='Stroblwiese 2' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
 </osm>

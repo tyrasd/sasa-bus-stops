@@ -1,45 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-4029' action='modify' visible='true' lat='46.4131733' lon='11.3048272'>
+  <node id='-12415' action='modify' visible='true' lat='46.4131342' lon='11.3046667'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Vadena Comune - Pfatten Gemeinde' />
     <tag k='name:de' v='Pfatten Gemeinde' />
     <tag k='name:it' v='Vadena Comune' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
-  <node id='-4027' action='modify' visible='true' lat='46.4229525' lon='11.3066983'>
+  <node id='-12413' action='modify' visible='true' lat='46.4137689' lon='11.3050294'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vadena Comune - Pfatten Gemeinde' />
+    <tag k='name:de' v='Pfatten Gemeinde' />
+    <tag k='name:it' v='Vadena Comune' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12411' action='modify' visible='true' lat='46.4188183' lon='11.3056892'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Masetta - Wachsbleiche' />
+    <tag k='name:de' v='Wachsbleiche' />
+    <tag k='name:it' v='Masetta' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12409' action='modify' visible='true' lat='46.4186661' lon='11.3057147'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Masetta - Wachsbleiche' />
+    <tag k='name:de' v='Wachsbleiche' />
+    <tag k='name:it' v='Masetta' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12407' action='modify' visible='true' lat='46.4229525' lon='11.3066983'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Vadena Mover - Pfatten Mover' />
     <tag k='name:de' v='Pfatten Mover' />
     <tag k='name:it' v='Vadena Mover' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
-  <node id='-4025' action='modify' visible='true' lat='46.4186661' lon='11.3057147'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Masetta - Wachsbleiche' />
-    <tag k='name:de' v='Wachsbleiche' />
-    <tag k='name:it' v='Masetta' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-4023' action='modify' visible='true' lat='46.4188183' lon='11.3056892'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Masetta - Wachsbleiche' />
-    <tag k='name:de' v='Wachsbleiche' />
-    <tag k='name:it' v='Masetta' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-4021' action='modify' visible='true' lat='46.4137689' lon='11.3050294'>
+  <node id='-12405' action='modify' visible='true' lat='46.4131733' lon='11.3048272'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Vadena Comune - Pfatten Gemeinde' />
     <tag k='name:de' v='Pfatten Gemeinde' />
     <tag k='name:it' v='Vadena Comune' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-4019' action='modify' visible='true' lat='46.4131342' lon='11.3046667'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vadena Comune - Pfatten Gemeinde' />
-    <tag k='name:de' v='Pfatten Gemeinde' />
-    <tag k='name:it' v='Vadena Comune' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
 </osm>

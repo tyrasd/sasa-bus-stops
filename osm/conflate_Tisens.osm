@@ -1,39 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-4115' action='modify' visible='true' lat='46.5541575' lon='11.179445'>
+  <node id='-12501' action='modify' visible='true' lat='46.5636417' lon='11.1695456'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
+    <tag k='name:de' v='Tisens Gemeinde' />
+    <tag k='name:it' v='Tesimo Comune' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='248' />
+  </node>
+  <node id='-12499' action='modify' visible='true' lat='46.5682486' lon='11.1676956'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
+    <tag k='name:de' v='Tisens (Tisog)' />
+    <tag k='name:it' v='Tesimo (Tisog)' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='248' />
+  </node>
+  <node id='-12497' action='modify' visible='true' lat='46.5635628' lon='11.1694439'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
+    <tag k='name:de' v='Tisens Gemeinde' />
+    <tag k='name:it' v='Tesimo Comune' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='248' />
+  </node>
+  <node id='-12495' action='modify' visible='true' lat='46.5679128' lon='11.1681447'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
+    <tag k='name:de' v='Tisens (Tisog)' />
+    <tag k='name:it' v='Tesimo (Tisog)' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='248' />
+  </node>
+  <node id='-12493' action='modify' visible='true' lat='46.5541575' lon='11.179445'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Prissian Dorf - Prissiano Paese' />
     <tag k='name:de' v='Prissian Dorf' />
     <tag k='name:it' v='Prissiano Paese' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='248' />
     <tag k='shelter' v='yes' />
-  </node>
-  <node id='-4113' action='modify' visible='true' lat='46.5679128' lon='11.1681447'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
-    <tag k='name:de' v='Tisens (Tisog)' />
-    <tag k='name:it' v='Tesimo (Tisog)' />
-    <tag k='route_ref' v='248' />
-  </node>
-  <node id='-4111' action='modify' visible='true' lat='46.5635628' lon='11.1694439'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
-    <tag k='name:de' v='Tisens Gemeinde' />
-    <tag k='name:it' v='Tesimo Comune' />
-    <tag k='route_ref' v='248' />
-  </node>
-  <node id='-4109' action='modify' visible='true' lat='46.5682486' lon='11.1676956'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tisens (Tisog) - Tesimo (Tisog)' />
-    <tag k='name:de' v='Tisens (Tisog)' />
-    <tag k='name:it' v='Tesimo (Tisog)' />
-    <tag k='route_ref' v='248' />
-  </node>
-  <node id='-4107' action='modify' visible='true' lat='46.5636417' lon='11.1695456'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Tisens Gemeinde - Tesimo Comune' />
-    <tag k='name:de' v='Tisens Gemeinde' />
-    <tag k='name:it' v='Tesimo Comune' />
-    <tag k='route_ref' v='248' />
   </node>
 </osm>

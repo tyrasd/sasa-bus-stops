@@ -1,63 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-3643' action='modify' visible='true' lat='46.4032106' lon='11.3226658'>
+  <node id='-12029' action='modify' visible='true' lat='46.4096553' lon='11.3282397'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 1 - Branzoll 1' />
+    <tag k='name:de' v='Branzoll 1' />
+    <tag k='name:it' v='Bronzolo 1' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='2;VAD_LAIV' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12027' action='modify' visible='true' lat='46.4059389' lon='11.3206464'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 2 - Branzoll 2' />
+    <tag k='name:de' v='Branzoll 2' />
+    <tag k='name:it' v='Bronzolo 2' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='2' />
+  </node>
+  <node id='-12025' action='modify' visible='true' lat='46.4030397' lon='11.3187778'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 3 - Branzoll 3' />
+    <tag k='name:de' v='Branzoll 3' />
+    <tag k='name:it' v='Bronzolo 3' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12023' action='modify' visible='true' lat='46.4056456' lon='11.3204625'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 2 - Branzoll 2' />
+    <tag k='name:de' v='Branzoll 2' />
+    <tag k='name:it' v='Bronzolo 2' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12021' action='modify' visible='true' lat='46.4029631' lon='11.3219547'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo SS12 Raif - Branzoll SS12 Raif' />
+    <tag k='name:de' v='Branzoll SS12 Raif' />
+    <tag k='name:it' v='Bronzolo SS12 Raif' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='VAD_LAIV' />
+  </node>
+  <node id='-12019' action='modify' visible='true' lat='46.4007942' lon='11.3178167'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 4 - Branzoll 4' />
+    <tag k='name:de' v='Branzoll 4' />
+    <tag k='name:it' v='Bronzolo 4' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='2;4' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12017' action='modify' visible='true' lat='46.4031514' lon='11.3187714'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bronzolo 3 - Branzoll 3' />
+    <tag k='name:de' v='Branzoll 3' />
+    <tag k='name:it' v='Bronzolo 3' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='2;4' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12015' action='modify' visible='true' lat='46.4032106' lon='11.3226658'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Bronzolo SS12 Raif - Branzoll SS12 Raif' />
     <tag k='name:de' v='Branzoll SS12 Raif' />
     <tag k='name:it' v='Bronzolo SS12 Raif' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
-  </node>
-  <node id='-3641' action='modify' visible='true' lat='46.4031514' lon='11.3187714'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 3 - Branzoll 3' />
-    <tag k='name:de' v='Branzoll 3' />
-    <tag k='name:it' v='Bronzolo 3' />
-    <tag k='route_ref' v='2;4' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3639' action='modify' visible='true' lat='46.4007942' lon='11.3178167'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 4 - Branzoll 4' />
-    <tag k='name:de' v='Branzoll 4' />
-    <tag k='name:it' v='Bronzolo 4' />
-    <tag k='route_ref' v='2;4' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3637' action='modify' visible='true' lat='46.4029631' lon='11.3219547'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo SS12 Raif - Branzoll SS12 Raif' />
-    <tag k='name:de' v='Branzoll SS12 Raif' />
-    <tag k='name:it' v='Bronzolo SS12 Raif' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-3635' action='modify' visible='true' lat='46.4056456' lon='11.3204625'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 2 - Branzoll 2' />
-    <tag k='name:de' v='Branzoll 2' />
-    <tag k='name:it' v='Bronzolo 2' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-3633' action='modify' visible='true' lat='46.4030397' lon='11.3187778'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 3 - Branzoll 3' />
-    <tag k='name:de' v='Branzoll 3' />
-    <tag k='name:it' v='Bronzolo 3' />
-    <tag k='route_ref' v='VAD_LAIV' />
-  </node>
-  <node id='-3631' action='modify' visible='true' lat='46.4059389' lon='11.3206464'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 2 - Branzoll 2' />
-    <tag k='name:de' v='Branzoll 2' />
-    <tag k='name:it' v='Bronzolo 2' />
-    <tag k='route_ref' v='2' />
-  </node>
-  <node id='-3629' action='modify' visible='true' lat='46.4096553' lon='11.3282397'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Bronzolo 1 - Branzoll 1' />
-    <tag k='name:de' v='Branzoll 1' />
-    <tag k='name:it' v='Bronzolo 1' />
-    <tag k='route_ref' v='2;VAD_LAIV' />
-    <tag k='shelter' v='yes' />
   </node>
 </osm>

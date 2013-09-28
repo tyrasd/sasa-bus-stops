@@ -1,87 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-3819' action='modify' visible='true' lat='46.6556647' lon='11.1407603'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Marling Dorf 1 - Marlengo Paese 1' />
-    <tag k='name:de' v='Marling Dorf 1' />
-    <tag k='name:it' v='Marlengo Paese 1' />
-    <tag k='route_ref' v='12' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3817' action='modify' visible='true' lat='46.6581111' lon='11.1403897'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Marling Dorf 2 - Marlengo Paese 2' />
-    <tag k='name:de' v='Marling Dorf 2' />
-    <tag k='name:it' v='Marlengo Paese 2' />
-    <tag k='route_ref' v='12;NIGHTSH' />
-  </node>
-  <node id='-3815' action='modify' visible='true' lat='46.6619958' lon='11.1402642'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Marling Dorf 3 - Marlengo Paese 3' />
-    <tag k='name:de' v='Marling Dorf 3' />
-    <tag k='name:it' v='Marlengo Paese 3' />
-    <tag k='route_ref' v='12;NIGHTSH' />
-  </node>
-  <node id='-3813' action='modify' visible='true' lat='46.6524797' lon='11.1468978'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Marling 1 - Marlengo 1' />
-    <tag k='name:de' v='Marling 1' />
-    <tag k='name:it' v='Marlengo 1' />
-    <tag k='route_ref' v='BZ-ME;11;12;14' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3811' action='modify' visible='true' lat='46.6643633' lon='11.1385083'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Marling Bahnhof - Marlengo stazione' />
-    <tag k='name:de' v='Marling Bahnhof' />
-    <tag k='name:it' v='Marlengo stazione' />
-    <tag k='route_ref' v='12;NIGHTSH' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3809' action='modify' visible='true' lat='46.6562381' lon='11.1488692'>
+  <node id='-12205' action='modify' visible='true' lat='46.6567278' lon='11.1477872'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
     <tag k='name:de' v='Untermais Bahnhof' />
     <tag k='name:it' v='Maia Bassa stazione' />
-    <tag k='route_ref' v='12' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='BZ-ME;12' />
   </node>
-  <node id='-3807' action='modify' visible='true' lat='46.6568528' lon='11.1490314'>
+  <node id='-12203' action='modify' visible='true' lat='46.6556392' lon='11.1408706'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marling Dorf 1 - Marlengo Paese 1' />
+    <tag k='name:de' v='Marling Dorf 1' />
+    <tag k='name:it' v='Marlengo Paese 1' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12201' action='modify' visible='true' lat='46.6566644' lon='11.1488461'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
+    <tag k='name:de' v='Untermais Bahnhof' />
+    <tag k='name:it' v='Maia Bassa stazione' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12199' action='modify' visible='true' lat='46.6589778' lon='11.1403128'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marling Dorf 2 - Marlengo Paese 2' />
+    <tag k='name:de' v='Marling Dorf 2' />
+    <tag k='name:it' v='Marlengo Paese 2' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12197' action='modify' visible='true' lat='46.6568528' lon='11.1490314'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
     <tag k='name:de' v='Untermais Bahnhof' />
     <tag k='name:it' v='Maia Bassa stazione' />
+    <tag k='operator' v='SASA' />
     <tag k='route_ref' v='11;12' />
   </node>
-  <node id='-3805' action='modify' visible='true' lat='46.6589778' lon='11.1403128'>
+  <node id='-12195' action='modify' visible='true' lat='46.6562381' lon='11.1488692'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
+    <tag k='name:de' v='Untermais Bahnhof' />
+    <tag k='name:it' v='Maia Bassa stazione' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12' />
+  </node>
+  <node id='-12193' action='modify' visible='true' lat='46.6643633' lon='11.1385083'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marling Bahnhof - Marlengo stazione' />
+    <tag k='name:de' v='Marling Bahnhof' />
+    <tag k='name:it' v='Marlengo stazione' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12;NIGHTSH' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12191' action='modify' visible='true' lat='46.6524797' lon='11.1468978'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marling 1 - Marlengo 1' />
+    <tag k='name:de' v='Marling 1' />
+    <tag k='name:it' v='Marlengo 1' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='BZ-ME;11;12;14' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='-12189' action='modify' visible='true' lat='46.6619958' lon='11.1402642'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Marling Dorf 3 - Marlengo Paese 3' />
+    <tag k='name:de' v='Marling Dorf 3' />
+    <tag k='name:it' v='Marlengo Paese 3' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12;NIGHTSH' />
+  </node>
+  <node id='-12187' action='modify' visible='true' lat='46.6581111' lon='11.1403897'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Marling Dorf 2 - Marlengo Paese 2' />
     <tag k='name:de' v='Marling Dorf 2' />
     <tag k='name:it' v='Marlengo Paese 2' />
-    <tag k='route_ref' v='12' />
-    <tag k='shelter' v='yes' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12;NIGHTSH' />
   </node>
-  <node id='-3803' action='modify' visible='true' lat='46.6566644' lon='11.1488461'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
-    <tag k='name:de' v='Untermais Bahnhof' />
-    <tag k='name:it' v='Maia Bassa stazione' />
-    <tag k='route_ref' v='11;12;14' />
-    <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3801' action='modify' visible='true' lat='46.6556392' lon='11.1408706'>
+  <node id='-12185' action='modify' visible='true' lat='46.6556647' lon='11.1407603'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Marling Dorf 1 - Marlengo Paese 1' />
     <tag k='name:de' v='Marling Dorf 1' />
     <tag k='name:it' v='Marlengo Paese 1' />
-    <tag k='route_ref' v='12;NIGHTSH' />
+    <tag k='operator' v='SASA' />
+    <tag k='route_ref' v='12' />
     <tag k='shelter' v='yes' />
-  </node>
-  <node id='-3799' action='modify' visible='true' lat='46.6567278' lon='11.1477872'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Untermais Bahnhof - Maia Bassa stazione' />
-    <tag k='name:de' v='Untermais Bahnhof' />
-    <tag k='name:it' v='Maia Bassa stazione' />
-    <tag k='route_ref' v='BZ-ME;12' />
   </node>
 </osm>
