@@ -5470,8 +5470,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Viale Principe Eugenio - Prinz Eugen A.",
-        "name:de": "Prinz Eugen A.",
+        "name": "Viale Principe Eugenio - Prinz Eugen Allee",
+        "name:de": "Prinz Eugen Allee",
         "name:it": "Viale Principe Eugenio",
         "route_ref": "1;14"
       },
