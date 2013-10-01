@@ -11,9 +11,9 @@
   </node>
   <node id='-12049' action='modify' visible='true' lat='46.5996319' lon='11.1992586'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
-    <tag k='name:de' v='Burgstall Seilb. Voeran' />
-    <tag k='name:it' v='Postal Fun. Verano' />
+    <tag k='name' v='Burgstall Seilbahn Voeran - Postal Funivia Verano' />
+    <tag k='name:de' v='Burgstall Seilbahn Voeran' />
+    <tag k='name:it' v='Postal Funivia Verano' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
     <tag k='shelter' v='yes' />
@@ -38,9 +38,9 @@
   </node>
   <node id='-12043' action='modify' visible='true' lat='46.6008675' lon='11.1990022'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Burgstall Seilb. Voeran - Postal Fun. Verano' />
-    <tag k='name:de' v='Burgstall Seilb. Voeran' />
-    <tag k='name:it' v='Postal Fun. Verano' />
+    <tag k='name' v='Burgstall Seilbahn Voeran - Postal Funivia Verano' />
+    <tag k='name:de' v='Burgstall Seilbahn Voeran' />
+    <tag k='name:it' v='Postal Funivia Verano' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='BZ-ME;CITY LA;NIGHTSH' />
   </node>

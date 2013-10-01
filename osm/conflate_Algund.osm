@@ -2,9 +2,9 @@
 <osm version='0.6' upload='true' generator='JOSM'>
   <node id='-11637' action='modify' visible='true' lat='46.6791642' lon='11.1268303'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
-    <tag k='name:de' v='Weingartnerstr. 1' />
-    <tag k='name:it' v='via Weingartner 1' />
+    <tag k='name' v='Weingartnerstraße 1 - Via Weingartner 1' />
+    <tag k='name:de' v='Weingartnerstraße 1' />
+    <tag k='name:it' v='Via Weingartner 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='11;12;13;NIGHTSH' />
     <tag k='shelter' v='yes' />
@@ -28,9 +28,9 @@
   </node>
   <node id='-11631' action='modify' visible='true' lat='46.6794256' lon='11.1310008'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
-    <tag k='name:de' v='Weingartnerstr. 2' />
-    <tag k='name:it' v='via Weingartner 2' />
+    <tag k='name' v='Weingartnerstraße 2 - Via Weingartner 2' />
+    <tag k='name:de' v='Weingartnerstraße 2' />
+    <tag k='name:it' v='Via Weingartner 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='11;12;13;NIGHTSH' />
     <tag k='shelter' v='yes' />
@@ -63,26 +63,26 @@
   </node>
   <node id='-11623' action='modify' visible='true' lat='46.6789814' lon='11.1232319'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. Ausf. MeBo - via Weingartner usc. MeBo' />
-    <tag k='name:de' v='Weingartnerstr. Ausf. MeBo' />
-    <tag k='name:it' v='via Weingartner usc. MeBo' />
+    <tag k='name' v='Weingartnerstraße Ausfahrt MeBo - Via Weingartner uscita MeBo' />
+    <tag k='name:de' v='Weingartnerstraße Ausfahrt MeBo' />
+    <tag k='name:it' v='Via Weingartner uscita MeBo' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='12' />
   </node>
   <node id='-11621' action='modify' visible='true' lat='46.6794392' lon='11.1306017'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 2 - via Weingartner 2' />
-    <tag k='name:de' v='Weingartnerstr. 2' />
-    <tag k='name:it' v='via Weingartner 2' />
+    <tag k='name' v='Weingartnerstraße 2 - Via Weingartner 2' />
+    <tag k='name:de' v='Weingartnerstraße 2' />
+    <tag k='name:it' v='Via Weingartner 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='11;12;13' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-11619' action='modify' visible='true' lat='46.6792261' lon='11.1272117'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Weingartnerstr. 1 - via Weingartner 1' />
-    <tag k='name:de' v='Weingartnerstr. 1' />
-    <tag k='name:it' v='via Weingartner 1' />
+    <tag k='name' v='Weingartnerstraße 1 - Via Weingartner 1' />
+    <tag k='name:de' v='Weingartnerstraße 1' />
+    <tag k='name:it' v='Via Weingartner 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='11;12;13' />
     <tag k='shelter' v='yes' />
@@ -90,8 +90,8 @@
   <node id='-11617' action='modify' visible='true' lat='46.6831756' lon='11.0971094'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
-    <tag k='name:de' v='Abzw. Oberplars' />
+    <tag k='name' v='Abzweigung Oberplars - Bivio Plars di sopra' />
+    <tag k='name:de' v='Abzweigung Oberplars' />
     <tag k='name:it' v='Bivio Plars di sopra' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -115,8 +115,8 @@
   </node>
   <node id='-11611' action='modify' visible='true' lat='46.6832333' lon='11.0961683'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Abzw. Oberplars - Bivio Plars di sopra' />
-    <tag k='name:de' v='Abzw. Oberplars' />
+    <tag k='name' v='Abzweigung Oberplars - Bivio Plars di sopra' />
+    <tag k='name:de' v='Abzweigung Oberplars' />
     <tag k='name:it' v='Bivio Plars di sopra' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -124,9 +124,9 @@
   <node id='-11609' action='modify' visible='true' lat='46.6805869' lon='11.1252422'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Thalguter Str. - via Thalguter' />
-    <tag k='name:de' v='Thalguter Str.' />
-    <tag k='name:it' v='via Thalguter' />
+    <tag k='name' v='Thalguter Straße - Via Thalguter' />
+    <tag k='name:de' v='Thalguter Straße' />
+    <tag k='name:it' v='Via Thalguter' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>

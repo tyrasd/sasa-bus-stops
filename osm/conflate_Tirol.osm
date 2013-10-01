@@ -3,18 +3,18 @@
   <node id='-12491' action='modify' visible='true' lat='46.6828011' lon='11.16128'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
+    <tag k='name' v='Segenbuehlweg 2 - Via Benedetto 2' />
     <tag k='name:de' v='Segenbuehlweg 2' />
-    <tag k='name:it' v='via Benedetto 2' />
+    <tag k='name:it' v='Via Benedetto 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
   <node id='-12489' action='modify' visible='true' lat='46.7001275' lon='11.1541639'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
-    <tag k='name:de' v='Haslachstr. 4' />
-    <tag k='name:it' v='via Aslago 4' />
+    <tag k='name' v='Haslachstraße 4 - Via Aslago 4' />
+    <tag k='name:de' v='Haslachstraße 4' />
+    <tag k='name:it' v='Via Aslago 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
@@ -29,9 +29,9 @@
   </node>
   <node id='-12485' action='modify' visible='true' lat='46.6915728' lon='11.1544122'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
-    <tag k='name:de' v='Haslachstr. 1' />
-    <tag k='name:it' v='via Aslago 1' />
+    <tag k='name' v='Haslachstraße 1 - Via Aslago 1' />
+    <tag k='name:de' v='Haslachstraße 1' />
+    <tag k='name:it' v='Via Aslago 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
@@ -47,50 +47,50 @@
   <node id='-12481' action='modify' visible='true' lat='46.6916531' lon='11.1547303'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 1 - via Aslago 1' />
-    <tag k='name:de' v='Haslachstr. 1' />
-    <tag k='name:it' v='via Aslago 1' />
+    <tag k='name' v='Haslachstraße 1 - Via Aslago 1' />
+    <tag k='name:de' v='Haslachstraße 1' />
+    <tag k='name:it' v='Via Aslago 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
   <node id='-12479' action='modify' visible='true' lat='46.6830822' lon='11.1613539'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
+    <tag k='name' v='Segenbuehlweg - Via Monte Benedetto' />
     <tag k='name:de' v='Segenbuehlweg' />
-    <tag k='name:it' v='via Monte Benedetto' />
+    <tag k='name:it' v='Via Monte Benedetto' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='TIROLO;VERNURIO' />
   </node>
   <node id='-12477' action='modify' visible='true' lat='46.6947892' lon='11.1543658'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
-    <tag k='name:de' v='Haslachstr. 2' />
-    <tag k='name:it' v='via Aslago 2' />
+    <tag k='name' v='Haslachstraße 2 - Via Aslago 2' />
+    <tag k='name:de' v='Haslachstraße 2' />
+    <tag k='name:it' v='Via Aslago 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
   <node id='-12475' action='modify' visible='true' lat='46.6978278' lon='11.1524317'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
-    <tag k='name:de' v='Haslachstr. 3' />
-    <tag k='name:it' v='via Aslago 3' />
+    <tag k='name' v='Haslachstraße 3 - Via Aslago 3' />
+    <tag k='name:de' v='Haslachstraße 3' />
+    <tag k='name:it' v='Via Aslago 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
   <node id='-12473' action='modify' visible='true' lat='46.6826889' lon='11.1613458'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg 2 - via Benedetto 2' />
+    <tag k='name' v='Segenbuehlweg 2 - Via Benedetto 2' />
     <tag k='name:de' v='Segenbuehlweg 2' />
-    <tag k='name:it' v='via Benedetto 2' />
+    <tag k='name:it' v='Via Benedetto 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
   <node id='-12471' action='modify' visible='true' lat='46.6977619' lon='11.1524842'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 3 - via Aslago 3' />
-    <tag k='name:de' v='Haslachstr. 3' />
-    <tag k='name:it' v='via Aslago 3' />
+    <tag k='name' v='Haslachstraße 3 - Via Aslago 3' />
+    <tag k='name:de' v='Haslachstraße 3' />
+    <tag k='name:it' v='Via Aslago 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
@@ -105,9 +105,9 @@
   <node id='-12467' action='modify' visible='true' lat='46.7002306' lon='11.1542244'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 4 - via Aslago 4' />
-    <tag k='name:de' v='Haslachstr. 4' />
-    <tag k='name:it' v='via Aslago 4' />
+    <tag k='name' v='Haslachstraße 4 - Via Aslago 4' />
+    <tag k='name:de' v='Haslachstraße 4' />
+    <tag k='name:it' v='Via Aslago 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>
@@ -138,9 +138,9 @@
   </node>
   <node id='-12459' action='modify' visible='true' lat='46.6830094' lon='11.1613333'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Segenbuehlweg - via Monte Benedetto' />
+    <tag k='name' v='Segenbuehlweg - Via Monte Benedetto' />
     <tag k='name:de' v='Segenbuehlweg' />
-    <tag k='name:it' v='via Monte Benedetto' />
+    <tag k='name:it' v='Via Monte Benedetto' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='TIROLO;ZEN-FIN;VERNURIO' />
     <tag k='shelter' v='yes' />
@@ -156,9 +156,9 @@
   </node>
   <node id='-12455' action='modify' visible='true' lat='46.6947308' lon='11.1543253'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Haslachstr. 2 - via Aslago 2' />
-    <tag k='name:de' v='Haslachstr. 2' />
-    <tag k='name:it' v='via Aslago 2' />
+    <tag k='name' v='Haslachstraße 2 - Via Aslago 2' />
+    <tag k='name:de' v='Haslachstraße 2' />
+    <tag k='name:it' v='Via Aslago 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CROCE T' />
   </node>

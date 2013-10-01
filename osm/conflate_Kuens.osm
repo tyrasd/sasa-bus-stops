@@ -10,8 +10,8 @@
   </node>
   <node id='-12093' action='modify' visible='true' lat='46.6957603' lon='11.1744933'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Abzw. Kuenserhof - Bivio Kuenserhof' />
-    <tag k='name:de' v='Abzw. Kuenserhof' />
+    <tag k='name' v='Abzweigung Kuenserhof - Bivio Kuenserhof' />
+    <tag k='name:de' v='Abzweigung Kuenserhof' />
     <tag k='name:it' v='Bivio Kuenserhof' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VERNURIO' />

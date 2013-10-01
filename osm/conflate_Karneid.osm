@@ -2,8 +2,8 @@
 <osm version='0.6' upload='true' generator='JOSM'>
   <node id='-12089' action='modify' visible='true' lat='46.4920606' lon='11.3944411'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
-    <tag k='name:de' v='Kardaun Karneiderstr.' />
+    <tag k='name' v='Kardaun Karneiderstraße - Cardano via Cornedo' />
+    <tag k='name:de' v='Kardaun Karneiderstraße' />
     <tag k='name:it' v='Cardano via Cornedo' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -26,8 +26,8 @@
   </node>
   <node id='-12083' action='modify' visible='true' lat='46.4922981' lon='11.3937519'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Karneiderstr. - Cardano via Cornedo' />
-    <tag k='name:de' v='Kardaun Karneiderstr.' />
+    <tag k='name' v='Kardaun Karneiderstraße - Cardano via Cornedo' />
+    <tag k='name:de' v='Kardaun Karneiderstraße' />
     <tag k='name:it' v='Cardano via Cornedo' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -68,9 +68,9 @@
   </node>
   <node id='-12073' action='modify' visible='true' lat='46.4921353' lon='11.3991578'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
+    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
     <tag k='name:de' v='Kardaun Handwerkerz.' />
-    <tag k='name:it' v='Cardano zona Art.' />
+    <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>
@@ -132,9 +132,9 @@
   </node>
   <node id='-12057' action='modify' visible='true' lat='46.4920639' lon='11.3990806'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona Art.' />
+    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
     <tag k='name:de' v='Kardaun Handwerkerz.' />
-    <tag k='name:it' v='Cardano zona Art.' />
+    <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
   </node>

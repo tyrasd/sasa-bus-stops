@@ -10,9 +10,9 @@
   </node>
   <node id='-12181' action='modify' visible='true' lat='46.4291706' lon='11.3431083'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 1 - Kennedy Str. 1' />
-    <tag k='name:de' v='Kennedy Str. 1' />
-    <tag k='name:it' v='via Kennedy 1' />
+    <tag k='name' v='Via Kennedy 1 - Kennedy Straße 1' />
+    <tag k='name:de' v='Kennedy Straße 1' />
+    <tag k='name:it' v='Via Kennedy 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;INT_LAIV;VAD_LAIV' />
   </node>
@@ -27,17 +27,17 @@
   </node>
   <node id='-12177' action='modify' visible='true' lat='46.4215428' lon='11.3334083'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Sauro 1 - Sauro Str. 1' />
-    <tag k='name:de' v='Sauro Str. 1' />
-    <tag k='name:it' v='via Sauro 1' />
+    <tag k='name' v='Via Sauro 1 - Sauro Straße 1' />
+    <tag k='name:de' v='Sauro Straße 1' />
+    <tag k='name:it' v='Via Sauro 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
   <node id='-12175' action='modify' visible='true' lat='46.4492314' lon='11.3365314'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 6 - St. Jakob Str. 6' />
-    <tag k='name:de' v='St. Jakob Str. 6' />
-    <tag k='name:it' v='via S. Giacomo 6' />
+    <tag k='name' v='Via S. Giacomo 6 - St. Jakob Straße 6' />
+    <tag k='name:de' v='St. Jakob Straße 6' />
+    <tag k='name:it' v='Via S. Giacomo 6' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
   </node>
@@ -60,18 +60,18 @@
   </node>
   <node id='-12169' action='modify' visible='true' lat='46.4180369' lon='11.3323803'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 4 - Kennedy Str. 4' />
-    <tag k='name:de' v='Kennedy Str. 4' />
-    <tag k='name:it' v='via Kennedy 4' />
+    <tag k='name' v='Via Kennedy 4 - Kennedy Straße 4' />
+    <tag k='name:de' v='Kennedy Straße 4' />
+    <tag k='name:it' v='Via Kennedy 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4;VAD_LAIV' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12167' action='modify' visible='true' lat='46.4249025' lon='11.3323192'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Marconi 2 - Marconi Str. 2' />
-    <tag k='name:de' v='Marconi Str. 2' />
-    <tag k='name:it' v='via Marconi 2' />
+    <tag k='name' v='Via Marconi 2 - Marconi Straße 2' />
+    <tag k='name:de' v='Marconi Straße 2' />
+    <tag k='name:it' v='Via Marconi 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV;VAD_LAIV' />
   </node>
@@ -85,9 +85,9 @@
   </node>
   <node id='-12163' action='modify' visible='true' lat='46.4295375' lon='11.3442286'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 1 - Kennedy Str. 1' />
-    <tag k='name:de' v='Kennedy Str. 1' />
-    <tag k='name:it' v='via Kennedy 1' />
+    <tag k='name' v='Via Kennedy 1 - Kennedy Straße 1' />
+    <tag k='name:de' v='Kennedy Straße 1' />
+    <tag k='name:it' v='Via Kennedy 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4;INT_LAIV;VAD_LAIV' />
     <tag k='shelter' v='yes' />
@@ -102,83 +102,83 @@
   </node>
   <node id='-12159' action='modify' visible='true' lat='46.4348097' lon='11.3245397'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Laives Staz. - Leifers Bhf.' />
-    <tag k='name:de' v='Leifers Bhf.' />
-    <tag k='name:it' v='Laives Staz.' />
+    <tag k='name' v='Laives Stazione - Leifers Bahnhof' />
+    <tag k='name:de' v='Leifers Bahnhof' />
+    <tag k='name:it' v='Laives Stazione' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV;VAD_LAIV' />
   </node>
   <node id='-12157' action='modify' visible='true' lat='46.4262783' lon='11.3363742'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 2 - Kennedy Str. 2' />
-    <tag k='name:de' v='Kennedy Str. 2' />
-    <tag k='name:it' v='via Kennedy 2' />
+    <tag k='name' v='Via Kennedy 2 - Kennedy Straße 2' />
+    <tag k='name:de' v='Kennedy Straße 2' />
+    <tag k='name:it' v='Via Kennedy 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2' />
   </node>
   <node id='-12155' action='modify' visible='true' lat='46.460535' lon='11.3329744'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 3 - St. Jakob Str. 3' />
-    <tag k='name:de' v='St. Jakob Str. 3' />
-    <tag k='name:it' v='via S. Giacomo 3' />
+    <tag k='name' v='Via S. Giacomo 3 - St. Jakob Straße 3' />
+    <tag k='name:de' v='St. Jakob Straße 3' />
+    <tag k='name:it' v='Via S. Giacomo 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12153' action='modify' visible='true' lat='46.4272928' lon='11.3364389'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Josef Noldin - Josef Noldin Str.' />
-    <tag k='name:de' v='Josef Noldin Str.' />
-    <tag k='name:it' v='via Josef Noldin' />
+    <tag k='name' v='Via Josef Noldin - Josef Noldin Straße' />
+    <tag k='name:de' v='Josef Noldin Straße' />
+    <tag k='name:it' v='Via Josef Noldin' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV' />
   </node>
   <node id='-12151' action='modify' visible='true' lat='46.4271528' lon='11.3341311'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Marconi 1 - Marconi Str. 1' />
-    <tag k='name:de' v='Marconi Str. 1' />
-    <tag k='name:it' v='via Marconi 1' />
+    <tag k='name' v='Via Marconi 1 - Marconi Straße 1' />
+    <tag k='name:de' v='Marconi Straße 1' />
+    <tag k='name:it' v='Via Marconi 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV;VAD_LAIV' />
   </node>
   <node id='-12149' action='modify' visible='true' lat='46.4528125' lon='11.3355358'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 5 - St. Jakob Str. 5' />
-    <tag k='name:de' v='St. Jakob Str. 5' />
-    <tag k='name:it' v='via S. Giacomo 5' />
+    <tag k='name' v='Via S. Giacomo 5 - St. Jakob Straße 5' />
+    <tag k='name:de' v='St. Jakob Straße 5' />
+    <tag k='name:it' v='Via S. Giacomo 5' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12147' action='modify' visible='true' lat='46.4234231' lon='11.333185'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 3 - Kennedy Str. 3' />
-    <tag k='name:de' v='Kennedy Str. 3' />
-    <tag k='name:it' v='via Kennedy 3' />
+    <tag k='name' v='Via Kennedy 3 - Kennedy Straße 3' />
+    <tag k='name:de' v='Kennedy Straße 3' />
+    <tag k='name:it' v='Via Kennedy 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2' />
   </node>
   <node id='-12145' action='modify' visible='true' lat='46.4244417' lon='11.3315667'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Marconi 2 - Marconi Str. 2' />
-    <tag k='name:de' v='Marconi Str. 2' />
-    <tag k='name:it' v='via Marconi 2' />
+    <tag k='name' v='Via Marconi 2 - Marconi Straße 2' />
+    <tag k='name:de' v='Marconi Straße 2' />
+    <tag k='name:it' v='Via Marconi 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV;VAD_LAIV' />
   </node>
   <node id='-12143' action='modify' visible='true' lat='46.4525003' lon='11.3355503'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 5 - St. Jakob Str. 5' />
-    <tag k='name:de' v='St. Jakob Str. 5' />
-    <tag k='name:it' v='via S. Giacomo 5' />
+    <tag k='name' v='Via S. Giacomo 5 - St. Jakob Straße 5' />
+    <tag k='name:de' v='St. Jakob Straße 5' />
+    <tag k='name:it' v='Via S. Giacomo 5' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
   </node>
   <node id='-12141' action='modify' visible='true' lat='46.4272389' lon='11.3364783'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Josef Noldin - Josef Noldin Str.' />
-    <tag k='name:de' v='Josef Noldin Str.' />
-    <tag k='name:it' v='via Josef Noldin' />
+    <tag k='name' v='Via Josef Noldin - Josef Noldin Straße' />
+    <tag k='name:de' v='Josef Noldin Straße' />
+    <tag k='name:it' v='Via Josef Noldin' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV' />
   </node>
@@ -192,17 +192,17 @@
   </node>
   <node id='-12137' action='modify' visible='true' lat='46.4487894' lon='11.3365975'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 6 - St. Jakob Str. 6' />
-    <tag k='name:de' v='St. Jakob Str. 6' />
-    <tag k='name:it' v='via S. Giacomo 6' />
+    <tag k='name' v='Via S. Giacomo 6 - St. Jakob Straße 6' />
+    <tag k='name:de' v='St. Jakob Straße 6' />
+    <tag k='name:it' v='Via S. Giacomo 6' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
   </node>
   <node id='-12135' action='modify' visible='true' lat='46.42162' lon='11.3338214'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Sauro 1 - Sauro Str. 1' />
-    <tag k='name:de' v='Sauro Str. 1' />
-    <tag k='name:it' v='via Sauro 1' />
+    <tag k='name' v='Via Sauro 1 - Sauro Straße 1' />
+    <tag k='name:de' v='Sauro Straße 1' />
+    <tag k='name:it' v='Via Sauro 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
@@ -224,35 +224,35 @@
   </node>
   <node id='-12129' action='modify' visible='true' lat='46.4588283' lon='11.3336536'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 4 - St. Jakob Str. 4' />
-    <tag k='name:de' v='St. Jakob Str. 4' />
-    <tag k='name:it' v='via S. Giacomo 4' />
+    <tag k='name' v='Via S. Giacomo 4 - St. Jakob Straße 4' />
+    <tag k='name:de' v='St. Jakob Straße 4' />
+    <tag k='name:it' v='Via S. Giacomo 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
   </node>
   <node id='-12127' action='modify' visible='true' lat='46.4179969' lon='11.3322689'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 4 - Kennedy Str. 4' />
-    <tag k='name:de' v='Kennedy Str. 4' />
-    <tag k='name:it' v='via Kennedy 4' />
+    <tag k='name' v='Via Kennedy 4 - Kennedy Straße 4' />
+    <tag k='name:de' v='Kennedy Straße 4' />
+    <tag k='name:it' v='Via Kennedy 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;VAD_LAIV' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12125' action='modify' visible='true' lat='46.4606906' lon='11.3332056'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 3 - St. Jakob Str. 3' />
-    <tag k='name:de' v='St. Jakob Str. 3' />
-    <tag k='name:it' v='via S. Giacomo 3' />
+    <tag k='name' v='Via S. Giacomo 3 - St. Jakob Straße 3' />
+    <tag k='name:de' v='St. Jakob Straße 3' />
+    <tag k='name:it' v='Via S. Giacomo 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12123' action='modify' visible='true' lat='46.4271125' lon='11.3341994'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Marconi 1 - Marconi Str. 1' />
-    <tag k='name:de' v='Marconi Str. 1' />
-    <tag k='name:it' v='via Marconi 1' />
+    <tag k='name' v='Via Marconi 1 - Marconi Straße 1' />
+    <tag k='name:de' v='Marconi Straße 1' />
+    <tag k='name:it' v='Via Marconi 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='INT_LAIV;VAD_LAIV' />
   </node>
@@ -268,42 +268,42 @@
   <node id='-12119' action='modify' visible='true' lat='46.4295333' lon='11.3381761'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Hofer 1 - Hofer Str. 1' />
-    <tag k='name:de' v='Hofer Str. 1' />
-    <tag k='name:it' v='via Hofer 1' />
+    <tag k='name' v='Via Hofer 1 - Hofer Straße 1' />
+    <tag k='name:de' v='Hofer Straße 1' />
+    <tag k='name:it' v='Via Hofer 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
   <node id='-12117' action='modify' visible='true' lat='46.4586769' lon='11.3337994'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via S. Giacomo 4 - St. Jakob Str. 4' />
-    <tag k='name:de' v='St. Jakob Str. 4' />
-    <tag k='name:it' v='via S. Giacomo 4' />
+    <tag k='name' v='Via S. Giacomo 4 - St. Jakob Straße 4' />
+    <tag k='name:de' v='St. Jakob Straße 4' />
+    <tag k='name:it' v='Via S. Giacomo 4' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
   </node>
   <node id='-12115' action='modify' visible='true' lat='46.4294028' lon='11.3381186'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Hofer 1 - Hofer Str. 1' />
-    <tag k='name:de' v='Hofer Str. 1' />
-    <tag k='name:it' v='via Hofer 1' />
+    <tag k='name' v='Via Hofer 1 - Hofer Straße 1' />
+    <tag k='name:de' v='Hofer Straße 1' />
+    <tag k='name:it' v='Via Hofer 1' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='VAD_LAIV' />
   </node>
   <node id='-12113' action='modify' visible='true' lat='46.4267764' lon='11.3369622'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 2 - Kennedy Str. 2' />
-    <tag k='name:de' v='Kennedy Str. 2' />
-    <tag k='name:it' v='via Kennedy 2' />
+    <tag k='name' v='Via Kennedy 2 - Kennedy Straße 2' />
+    <tag k='name:de' v='Kennedy Straße 2' />
+    <tag k='name:it' v='Via Kennedy 2' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
     <tag k='shelter' v='yes' />
   </node>
   <node id='-12111' action='modify' visible='true' lat='46.4232903' lon='11.3331014'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='via Kennedy 3 - Kennedy Str. 3' />
-    <tag k='name:de' v='Kennedy Str. 3' />
-    <tag k='name:it' v='via Kennedy 3' />
+    <tag k='name' v='Via Kennedy 3 - Kennedy Straße 3' />
+    <tag k='name:de' v='Kennedy Straße 3' />
+    <tag k='name:it' v='Via Kennedy 3' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;4' />
     <tag k='shelter' v='yes' />

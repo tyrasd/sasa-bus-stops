@@ -11,17 +11,17 @@
   <node id='-12401' action='modify' visible='true' lat='46.54115' lon='11.2042639'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
-    <tag k='name:de' v='Schwanburgerstr.' />
-    <tag k='name:it' v='via Schwanburg' />
+    <tag k='name' v='Schwanburgerstraße - Via Schwanburg' />
+    <tag k='name:de' v='Schwanburgerstraße' />
+    <tag k='name:it' v='Via Schwanburg' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
   <node id='-12399' action='modify' visible='true' lat='46.5358836' lon='11.2079847'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Kaltbrunn) - via Andriano (Kaltbrunn)' />
-    <tag k='name:de' v='Andrianerstr. (Kaltbrunn)' />
-    <tag k='name:it' v='via Andriano (Kaltbrunn)' />
+    <tag k='name' v='Andrianerstraße (Kaltbrunn) - Via Andriano (Kaltbrunn)' />
+    <tag k='name:de' v='Andrianerstraße (Kaltbrunn)' />
+    <tag k='name:it' v='Via Andriano (Kaltbrunn)' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
@@ -36,41 +36,41 @@
   </node>
   <node id='-12395' action='modify' visible='true' lat='46.5491083' lon='11.2100583'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
-    <tag k='name:de' v='Nals Vilpianstr.' />
+    <tag k='name' v='Nals Vilpianstraße - Nalles via Vilpiano' />
+    <tag k='name:de' v='Nals Vilpianstraße' />
     <tag k='name:it' v='Nalles via Vilpiano' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='248;NALLES' />
   </node>
   <node id='-12393' action='modify' visible='true' lat='46.5491511' lon='11.2102092'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Nals Vilpianstr. - Nalles via Vilpiano' />
-    <tag k='name:de' v='Nals Vilpianstr.' />
+    <tag k='name' v='Nals Vilpianstraße - Nalles via Vilpiano' />
+    <tag k='name:de' v='Nals Vilpianstraße' />
     <tag k='name:it' v='Nalles via Vilpiano' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='248;NALLES' />
   </node>
   <node id='-12391' action='modify' visible='true' lat='46.5389664' lon='11.2061033'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
-    <tag k='name:de' v='Andrianerstr. (Huben)' />
-    <tag k='name:it' v='via Andriano (Huben)' />
+    <tag k='name' v='Andrianerstraße (Huben) - Via Andriano (Huben)' />
+    <tag k='name:de' v='Andrianerstraße (Huben)' />
+    <tag k='name:it' v='Via Andriano (Huben)' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
   <node id='-12389' action='modify' visible='true' lat='46.5404658' lon='11.2043886'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnen Platz - piazza Fontana' />
+    <tag k='name' v='Brunnen Platz - Piazza Fontana' />
     <tag k='name:de' v='Brunnen Platz' />
-    <tag k='name:it' v='piazza Fontana' />
+    <tag k='name:it' v='Piazza Fontana' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
   <node id='-12387' action='modify' visible='true' lat='46.5411094' lon='11.2043008'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Schwanburgerstr. - via Schwanburg' />
-    <tag k='name:de' v='Schwanburgerstr.' />
-    <tag k='name:it' v='via Schwanburg' />
+    <tag k='name' v='Schwanburgerstraße - Via Schwanburg' />
+    <tag k='name:de' v='Schwanburgerstraße' />
+    <tag k='name:it' v='Via Schwanburg' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
@@ -84,25 +84,25 @@
   </node>
   <node id='-12383' action='modify' visible='true' lat='46.5406211' lon='11.2043103'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Brunnen Platz - piazza Fontana' />
+    <tag k='name' v='Brunnen Platz - Piazza Fontana' />
     <tag k='name:de' v='Brunnen Platz' />
-    <tag k='name:it' v='piazza Fontana' />
+    <tag k='name:it' v='Piazza Fontana' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
   <node id='-12381' action='modify' visible='true' lat='46.5357106' lon='11.2081867'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Kaltbrunn) - via Andriano (Kaltbrunn)' />
-    <tag k='name:de' v='Andrianerstr. (Kaltbrunn)' />
-    <tag k='name:it' v='via Andriano (Kaltbrunn)' />
+    <tag k='name' v='Andrianerstraße (Kaltbrunn) - Via Andriano (Kaltbrunn)' />
+    <tag k='name:de' v='Andrianerstraße (Kaltbrunn)' />
+    <tag k='name:it' v='Via Andriano (Kaltbrunn)' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
   <node id='-12379' action='modify' visible='true' lat='46.5387506' lon='11.2062847'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Andrianerstr. (Huben) - via Andriano (Huben)' />
-    <tag k='name:de' v='Andrianerstr. (Huben)' />
-    <tag k='name:it' v='via Andriano (Huben)' />
+    <tag k='name' v='Andrianerstraße (Huben) - Via Andriano (Huben)' />
+    <tag k='name:de' v='Andrianerstraße (Huben)' />
+    <tag k='name:it' v='Via Andriano (Huben)' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='NALLES' />
   </node>
