@@ -8,8 +8,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Josef Noldin - Josef Noldin Str.",
-        "name:de": "Josef Noldin Str.",
+        "name": "Via Josef Noldin - Josef Noldin Straße",
+        "name:de": "Josef Noldin Straße",
         "name:it": "Via Josef Noldin",
         "route_ref": "INT_LAIV"
       },
@@ -26,8 +26,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Josef Noldin - Josef Noldin Str.",
-        "name:de": "Josef Noldin Str.",
+        "name": "Via Josef Noldin - Josef Noldin Straße",
+        "name:de": "Josef Noldin Straße",
         "name:it": "Via Josef Noldin",
         "route_ref": "INT_LAIV"
       },
@@ -44,9 +44,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Ponte Adige Staz. 2 - Sigmundskron Bhf 2",
-        "name:de": "Sigmundskron Bhf 2",
-        "name:it": "Ponte Adige Staz. 2",
+        "name": "Ponte Adige Stazione 2 - Sigmundskron Bahnhof 2",
+        "name:de": "Sigmundskron Bahnhof 2",
+        "name:it": "Ponte Adige Stazione 2",
         "route_ref": "9"
       },
       "geometry": {
@@ -98,8 +98,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 4 - Via Weingartner 4",
-        "name:de": "Weingartnerstr. 4",
+        "name": "Weingartnerstraße 4 - Via Weingartner 4",
+        "name:de": "Weingartnerstraße 4",
         "name:it": "Via Weingartner 4",
         "route_ref": "11;12;13"
       },
@@ -116,8 +116,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 4 - Via Weingartner 4",
-        "name:de": "Weingartnerstr. 4",
+        "name": "Weingartnerstraße 4 - Via Weingartner 4",
+        "name:de": "Weingartnerstraße 4",
         "name:it": "Via Weingartner 4",
         "route_ref": "11;12;13;NIGHTSH"
       },
@@ -171,8 +171,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 2 - Via Tramontana 2",
-        "name:de": "Noerderstr. 2",
+        "name": "Noerderstraße 2 - Via Tramontana 2",
+        "name:de": "Noerderstraße 2",
         "name:it": "Via Tramontana 2",
         "route_ref": "12"
       },
@@ -189,8 +189,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 2 - Via Tramontana 2",
-        "name:de": "Noerderstr. 2",
+        "name": "Noerderstraße 2 - Via Tramontana 2",
+        "name:de": "Noerderstraße 2",
         "name:it": "Via Tramontana 2",
         "route_ref": "12;NIGHTSH"
       },
@@ -208,8 +208,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kellerei Str. 1 - Via Cantina 1",
-        "name:de": "Kellerei Str. 1",
+        "name": "Kellerei Straße 1 - Via Cantina 1",
+        "name:de": "Kellerei Straße 1",
         "name:it": "Via Cantina 1",
         "route_ref": "12"
       },
@@ -226,8 +226,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kellerei Str. 1 - Via Cantina 1",
-        "name:de": "Kellerei Str. 1",
+        "name": "Kellerei Straße 1 - Via Cantina 1",
+        "name:de": "Kellerei Straße 1",
         "name:it": "Via Cantina 1",
         "route_ref": "12;NIGHTSH"
       },
@@ -244,8 +244,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kellerei Str. 2 - Via Cantina 2",
-        "name:de": "Kellerei Str. 2",
+        "name": "Kellerei Straße 2 - Via Cantina 2",
+        "name:de": "Kellerei Straße 2",
         "name:it": "Via Cantina 2",
         "route_ref": "12"
       },
@@ -262,8 +262,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kellerei Str. 2 - Via Cantina 2",
-        "name:de": "Kellerei Str. 2",
+        "name": "Kellerei Straße 2 - Via Cantina 2",
+        "name:de": "Kellerei Straße 2",
         "name:it": "Via Cantina 2",
         "route_ref": "12;NIGHTSH"
       },
@@ -280,8 +280,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 1 - Via Tramontana 1",
-        "name:de": "Noerderstr. 1",
+        "name": "Noerderstraße 1 - Via Tramontana 1",
+        "name:de": "Noerderstraße 1",
         "name:it": "Via Tramontana 1",
         "route_ref": "12;NIGHTSH"
       },
@@ -298,8 +298,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 1 - Via Tramontana 1",
-        "name:de": "Noerderstr. 1",
+        "name": "Noerderstraße 1 - Via Tramontana 1",
+        "name:de": "Noerderstraße 1",
         "name:it": "Via Tramontana 1",
         "route_ref": "12"
       },
@@ -461,8 +461,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Falzeben - Bivio Falzeben",
-        "name:de": "Abzw. Falzeben",
+        "name": "Abzweigung Falzeben - Bivio Falzeben",
+        "name:de": "Abzweigung Falzeben",
         "name:it": "Bivio Falzeben",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -479,8 +479,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laberserstr. 2 - Via Labers 2",
-        "name:de": "Laberserstr. 2",
+        "name": "Laberserstraße 2 - Via Labers 2",
+        "name:de": "Laberserstraße 2",
         "name:it": "Via Labers 2",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -497,8 +497,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laberserstr. 2 - Via Labers 2",
-        "name:de": "Laberserstr. 2",
+        "name": "Laberserstraße 2 - Via Labers 2",
+        "name:de": "Laberserstraße 2",
         "name:it": "Via Labers 2",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -682,8 +682,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Voeranstr. - Via Verano",
-        "name:de": "Voeranstr.",
+        "name": "Voeranstraße - Via Verano",
+        "name:de": "Voeranstraße",
         "name:it": "Via Verano",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -700,8 +700,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Voeranstr. - Via Verano",
-        "name:de": "Voeranstr.",
+        "name": "Voeranstraße - Via Verano",
+        "name:de": "Voeranstraße",
         "name:it": "Via Verano",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -719,8 +719,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 4 - Via Aslago 4",
-        "name:de": "Haslachstr. 4",
+        "name": "Haslachstraße 4 - Via Aslago 4",
+        "name:de": "Haslachstraße 4",
         "name:it": "Via Aslago 4",
         "route_ref": "CROCE T"
       },
@@ -737,8 +737,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 3 - Via Aslago 3",
-        "name:de": "Haslachstr. 3",
+        "name": "Haslachstraße 3 - Via Aslago 3",
+        "name:de": "Haslachstraße 3",
         "name:it": "Via Aslago 3",
         "route_ref": "CROCE T"
       },
@@ -773,8 +773,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 2 - Via Aslago 2",
-        "name:de": "Haslachstr. 2",
+        "name": "Haslachstraße 2 - Via Aslago 2",
+        "name:de": "Haslachstraße 2",
         "name:it": "Via Aslago 2",
         "route_ref": "CROCE T"
       },
@@ -864,9 +864,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Siebeneich HW Zone - Settequerce Zona Artig.",
-        "name:de": "Siebeneich HW Zone",
-        "name:it": "Settequerce Zona Artig.",
+        "name": "Siebeneich Handwerkerzone - Settequerce Zona Artigianale",
+        "name:de": "Siebeneich Handwerkerzone",
+        "name:it": "Settequerce Zona Artigianale",
         "route_ref": "BZ-ME;NALLES",
         "shelter": "yes"
       },
@@ -883,9 +883,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Siebeneich HW Zone - Settequerce Zona Artig.",
-        "name:de": "Siebeneich HW Zone",
-        "name:it": "Settequerce Zona Artig.",
+        "name": "Siebeneich Handwerkerzone - Settequerce Zona Artigianale",
+        "name:de": "Siebeneich Handwerkerzone",
+        "name:it": "Settequerce Zona Artigianale",
         "route_ref": "BZ-ME;NALLES",
         "shelter": "yes"
       },
@@ -940,8 +940,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Bergstr. - Vicolo al Monte",
-        "name:de": "Bergstr.",
+        "name": "Bergstraße - Vicolo al Monte",
+        "name:de": "Bergstraße",
         "name:it": "Vicolo al Monte",
         "route_ref": "BZ-ME;NIGHTSH",
         "shelter": "yes"
@@ -959,8 +959,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Bergstr. - Vicolo al Monte",
-        "name:de": "Bergstr.",
+        "name": "Bergstraße - Vicolo al Monte",
+        "name:de": "Bergstraße",
         "name:it": "Vicolo al Monte",
         "route_ref": "BZ-ME;NIGHTSH",
         "shelter": "yes"
@@ -1296,8 +1296,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Merano 94 - Meraner Str. 94",
-        "name:de": "Meraner Str. 94",
+        "name": "Via Merano 94 - Meraner Straße 94",
+        "name:de": "Meraner Straße 94",
         "name:it": "Via Merano 94",
         "route_ref": "BZ-ME;NALLES"
       },
@@ -1314,8 +1314,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Merano 94 - Meraner Str. 94",
-        "name:de": "Meraner Str. 94",
+        "name": "Via Merano 94 - Meraner Straße 94",
+        "name:de": "Meraner Straße 94",
         "name:it": "Via Merano 94",
         "route_ref": "BZ-ME;NALLES"
       },
@@ -1441,8 +1441,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. (Ungericht) - Via Caines (Ungericht)",
-        "name:de": "Kuenserstr. (Ungericht)",
+        "name": "Kuenserstraße (Ungericht) - Via Caines (Ungericht)",
+        "name:de": "Kuenserstraße (Ungericht)",
         "name:it": "Via Caines (Ungericht)",
         "route_ref": "VERNURIO"
       },
@@ -1459,8 +1459,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. (Sonnenhof) - Via Caines (Sonnenhof)",
-        "name:de": "Kuenserstr. (Sonnenhof)",
+        "name": "Kuenserstraße (Sonnenhof) - Via Caines (Sonnenhof)",
+        "name:de": "Kuenserstraße (Sonnenhof)",
         "name:it": "Via Caines (Sonnenhof)",
         "route_ref": "VERNURIO"
       },
@@ -1477,8 +1477,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. (Ungericht) - Via Caines (Ungericht)",
-        "name:de": "Kuenserstr. (Ungericht)",
+        "name": "Kuenserstraße (Ungericht) - Via Caines (Ungericht)",
+        "name:de": "Kuenserstraße (Ungericht)",
         "name:it": "Via Caines (Ungericht)",
         "route_ref": "VERNURIO"
       },
@@ -1495,8 +1495,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. Feuerwehr - Via Caines Vigili del Fuoco",
-        "name:de": "Kuenserstr. Feuerwehr",
+        "name": "Kuenserstraße Feuerwehr - Via Caines Vigili del Fuoco",
+        "name:de": "Kuenserstraße Feuerwehr",
         "name:it": "Via Caines Vigili del Fuoco",
         "route_ref": "VERNURIO"
       },
@@ -1513,8 +1513,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. Feuerwehr - Via Caines Vigili del Fuoco",
-        "name:de": "Kuenserstr. Feuerwehr",
+        "name": "Kuenserstraße Feuerwehr - Via Caines Vigili del Fuoco",
+        "name:de": "Kuenserstraße Feuerwehr",
         "name:it": "Via Caines Vigili del Fuoco",
         "route_ref": "VERNURIO"
       },
@@ -1531,8 +1531,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 1A - Via Karl Wolf 1A",
-        "name:de": "Karl Wolf Str. 1A",
+        "name": "Karl Wolf Straße 1A - Via Karl Wolf 1A",
+        "name:de": "Karl Wolf Straße 1A",
         "name:it": "Via Karl Wolf 1A",
         "route_ref": "2;3"
       },
@@ -1549,8 +1549,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 1A - Via Karl Wolf 1A",
-        "name:de": "Karl Wolf Str. 1A",
+        "name": "Karl Wolf Straße 1A - Via Karl Wolf 1A",
+        "name:de": "Karl Wolf Straße 1A",
         "name:it": "Via Karl Wolf 1A",
         "route_ref": "3;6;12"
       },
@@ -1567,8 +1567,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 3 - Via Tramontana 3",
-        "name:de": "Noerderstr. 3",
+        "name": "Noerderstraße 3 - Via Tramontana 3",
+        "name:de": "Noerderstraße 3",
         "name:it": "Via Tramontana 3",
         "route_ref": "12"
       },
@@ -1585,8 +1585,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Noerderstr. 3 - Via Tramontana 3",
-        "name:de": "Noerderstr. 3",
+        "name": "Noerderstraße 3 - Via Tramontana 3",
+        "name:de": "Noerderstraße 3",
         "name:it": "Via Tramontana 3",
         "route_ref": "12;NIGHTSH"
       },
@@ -1622,8 +1622,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 8 - Via Scena 8",
-        "name:de": "Schennastr. 8",
+        "name": "Schennastraße 8 - Via Scena 8",
+        "name:de": "Schennastraße 8",
         "name:it": "Via Scena 8",
         "route_ref": "NIGHTSH"
       },
@@ -1641,8 +1641,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 7 - Via Scena 7",
-        "name:de": "Schennastr. 7",
+        "name": "Schennastraße 7 - Via Scena 7",
+        "name:de": "Schennastraße 7",
         "name:it": "Via Scena 7",
         "route_ref": "NIGHTSH"
       },
@@ -1659,8 +1659,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 6 - Via Scena 6",
-        "name:de": "Schennastr. 6",
+        "name": "Schennastraße 6 - Via Scena 6",
+        "name:de": "Schennastraße 6",
         "name:it": "Via Scena 6",
         "route_ref": "NIGHTSH"
       },
@@ -1677,8 +1677,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 5 - Via Scena 5",
-        "name:de": "Schennastr. 5",
+        "name": "Schennastraße 5 - Via Scena 5",
+        "name:de": "Schennastraße 5",
         "name:it": "Via Scena 5",
         "route_ref": "NIGHTSH"
       },
@@ -1696,8 +1696,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 4 - Via Scena 4",
-        "name:de": "Schennastr. 4",
+        "name": "Schennastraße 4 - Via Scena 4",
+        "name:de": "Schennastraße 4",
         "name:it": "Via Scena 4",
         "route_ref": "NIGHTSH"
       },
@@ -1733,8 +1733,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Thalguter Str. - Via Thalguter",
-        "name:de": "Thalguter Str.",
+        "name": "Thalguter Straße - Via Thalguter",
+        "name:de": "Thalguter Straße",
         "name:it": "Via Thalguter",
         "route_ref": "13"
       },
@@ -1824,8 +1824,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kardaun Karneiderstr. - Cardano via Cornedo",
-        "name:de": "Kardaun Karneiderstr.",
+        "name": "Kardaun Karneiderstraße - Cardano via Cornedo",
+        "name:de": "Kardaun Karneiderstraße",
         "name:it": "Cardano via Cornedo",
         "route_ref": "13"
       },
@@ -1842,8 +1842,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kardaun Karneiderstr. - Cardano via Cornedo",
-        "name:de": "Kardaun Karneiderstr.",
+        "name": "Kardaun Karneiderstraße - Cardano via Cornedo",
+        "name:de": "Kardaun Karneiderstraße",
         "name:it": "Cardano via Cornedo",
         "route_ref": "13"
       },
@@ -1988,8 +1988,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 2 - Via Dogana 2",
-        "name:de": "Zollstr. 2",
+        "name": "Zollstraße 2 - Via Dogana 2",
+        "name:de": "Zollstraße 2",
         "name:it": "Via Dogana 2",
         "route_ref": "11;CITY LA"
       },
@@ -2007,8 +2007,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 2 - Via Dogana 2",
-        "name:de": "Zollstr. 2",
+        "name": "Zollstraße 2 - Via Dogana 2",
+        "name:de": "Zollstraße 2",
         "name:it": "Via Dogana 2",
         "route_ref": "11;CITY LA"
       },
@@ -2062,9 +2062,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kardaun Handwerkerz. - Cardano zona Art.",
-        "name:de": "Kardaun Handwerkerz.",
-        "name:it": "Cardano zona Art.",
+        "name": "Kardaun Handwerkerzone - Cardano zona artigianale",
+        "name:de": "Kardaun Handwerkerzone",
+        "name:it": "Cardano zona artigianale",
         "route_ref": "13"
       },
       "geometry": {
@@ -2080,9 +2080,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kardaun Handwerkerz. - Cardano zona Art.",
-        "name:de": "Kardaun Handwerkerz.",
-        "name:it": "Cardano zona Art.",
+        "name": "Kardaun Handwerkerzone - Cardano zona artigianale",
+        "name:de": "Kardaun Handwerkerzone",
+        "name:it": "Cardano zona artigianale",
         "route_ref": "13"
       },
       "geometry": {
@@ -2170,8 +2170,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via degli Artigiani - Handwerkerstr.",
-        "name:de": "Handwerkerstr.",
+        "name": "Via degli Artigiani - Handwerkerstraße",
+        "name:de": "Handwerkerstraße",
         "name:it": "Via degli Artigiani",
         "route_ref": "11"
       },
@@ -2188,9 +2188,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Ponte Adige Staz. 2 - Sigmundskron Bhf 2",
-        "name:de": "Sigmundskron Bhf 2",
-        "name:it": "Ponte Adige Staz. 2",
+        "name": "Ponte Adige Stazione 2 - Sigmundskron Bahnhof 2",
+        "name:de": "Sigmundskron Bahnhof 2",
+        "name:it": "Ponte Adige Stazione 2",
         "route_ref": "9"
       },
       "geometry": {
@@ -2206,9 +2206,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Ponte Adige Staz. - Sigmundskron Bhf",
-        "name:de": "Sigmundskron Bhf",
-        "name:it": "Ponte Adige Staz.",
+        "name": "Ponte Adige Stazione - Sigmundskron Bahnhof",
+        "name:de": "Sigmundskron Bahnhof",
+        "name:it": "Ponte Adige Stazione",
         "route_ref": "9"
       },
       "geometry": {
@@ -2261,8 +2261,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Duca d'Aosta - Duca d'Aosta Str.",
-        "name:de": "Duca d'Aosta Str.",
+        "name": "Via Duca d'Aosta - Duca d'Aosta Straße",
+        "name:de": "Duca d'Aosta Straße",
         "name:it": "Via Duca d'Aosta",
         "route_ref": "5"
       },
@@ -2316,8 +2316,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 1 - Volta Str. 1",
-        "name:de": "Volta Str. 1",
+        "name": "Via Volta 1 - Volta Straße 1",
+        "name:de": "Volta Straße 1",
         "name:it": "Via Volta 1",
         "route_ref": "2"
       },
@@ -2334,8 +2334,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 1 - Volta Str. 1",
-        "name:de": "Volta Str. 1",
+        "name": "Via Volta 1 - Volta Straße 1",
+        "name:de": "Volta Straße 1",
         "name:it": "Via Volta 1",
         "route_ref": "2"
       },
@@ -2352,8 +2352,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Fago 4 - Fagen Str. 4",
-        "name:de": "Fagen Str. 4",
+        "name": "Via Fago 4 - Fagen Straße 4",
+        "name:de": "Fagen Straße 4",
         "name:it": "Via Fago 4",
         "route_ref": "153"
       },
@@ -2370,8 +2370,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Pacinotti 2 - Pacinotti Str. 2",
-        "name:de": "Pacinotti Str. 2",
+        "name": "Via Pacinotti 2 - Pacinotti Straße 2",
+        "name:de": "Pacinotti Straße 2",
         "name:it": "Via Pacinotti 2",
         "route_ref": "4;6",
         "shelter": "yes"
@@ -2389,8 +2389,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sassari 2 - Sassari Str. 2",
-        "name:de": "Sassari Str. 2",
+        "name": "Via Sassari 2 - Sassari Straße 2",
+        "name:de": "Sassari Straße 2",
         "name:it": "Via Sassari 2",
         "route_ref": "6;9",
         "shelter": "yes"
@@ -2408,8 +2408,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sassari 1 - Sassari Str. 1",
-        "name:de": "Sassari Str. 1",
+        "name": "Via Sassari 1 - Sassari Straße 1",
+        "name:de": "Sassari Straße 1",
         "name:it": "Via Sassari 1",
         "route_ref": "6;9",
         "shelter": "yes"
@@ -2427,8 +2427,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sorrento - Sorrent Str.",
-        "name:de": "Sorrent Str.",
+        "name": "Via Sorrento - Sorrent Straße",
+        "name:de": "Sorrent Straße",
         "name:it": "Via Sorrento",
         "route_ref": "6;9;16",
         "shelter": "yes"
@@ -2446,8 +2446,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sorrento - Sorrent Str.",
-        "name:de": "Sorrent Str.",
+        "name": "Via Sorrento - Sorrent Straße",
+        "name:de": "Sorrent Straße",
         "name:it": "Via Sorrento",
         "route_ref": "6;9;16",
         "shelter": "yes"
@@ -2465,8 +2465,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Montecassino - Montecassino Str.",
-        "name:de": "Montecassino Str.",
+        "name": "Via Montecassino - Montecassino Straße",
+        "name:de": "Montecassino Straße",
         "name:it": "Via Montecassino",
         "route_ref": "6;9",
         "shelter": "yes"
@@ -2541,8 +2541,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 2 - Schlachthof Str. 2",
-        "name:de": "Schlachthof Str. 2",
+        "name": "Via Macello 2 - Schlachthof Straße 2",
+        "name:de": "Schlachthof Straße 2",
         "name:it": "Via Macello 2",
         "route_ref": "11;13;14",
         "shelter": "yes"
@@ -2598,8 +2598,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Duca d'Aosta - Duca d'Aosta Str.",
-        "name:de": "Duca d'Aosta Str.",
+        "name": "Via Duca d'Aosta - Duca d'Aosta Straße",
+        "name:de": "Duca d'Aosta Straße",
         "name:it": "Via Duca d'Aosta",
         "route_ref": "5",
         "shelter": "yes"
@@ -2617,8 +2617,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 9 - Drusus Str. 9",
-        "name:de": "Drusus Str. 9",
+        "name": "Via Druso 9 - Drusus Straße 9",
+        "name:de": "Drusus Straße 9",
         "name:it": "Via Druso 9",
         "route_ref": "8"
       },
@@ -2635,8 +2635,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 9 - Drusus Str. 9",
-        "name:de": "Drusus Str. 9",
+        "name": "Via Druso 9 - Drusus Straße 9",
+        "name:de": "Drusus Straße 9",
         "name:it": "Via Druso 9",
         "route_ref": "2;6;8",
         "shelter": "yes"
@@ -2654,8 +2654,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Siemens 2 - Siemens Str. 2",
-        "name:de": "Siemens Str. 2",
+        "name": "Via Siemens 2 - Siemens Straße 2",
+        "name:de": "Siemens Straße 2",
         "name:it": "Via Siemens 2",
         "route_ref": "6"
       },
@@ -2672,8 +2672,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galilei 2 - Galilei Str. 2",
-        "name:de": "Galilei Str. 2",
+        "name": "Via Galilei 2 - Galilei Straße 2",
+        "name:de": "Galilei Straße 2",
         "name:it": "Via Galilei 2",
         "route_ref": "6"
       },
@@ -2690,8 +2690,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galilei 1 - Galilei Str. 1",
-        "name:de": "Galilei Str. 1",
+        "name": "Via Galilei 1 - Galilei Straße 1",
+        "name:de": "Galilei Straße 1",
         "name:it": "Via Galilei 1",
         "route_ref": "4"
       },
@@ -2708,8 +2708,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Avogadro - Avogadro Str.",
-        "name:de": "Avogadro Str.",
+        "name": "Via Avogadro - Avogadro Straße",
+        "name:de": "Avogadro Straße",
         "name:it": "Via Avogadro",
         "route_ref": "6"
       },
@@ -2745,8 +2745,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 2 - Drusus Str. 2",
-        "name:de": "Drusus Str. 2",
+        "name": "Via Druso 2 - Drusus Straße 2",
+        "name:de": "Drusus Straße 2",
         "name:it": "Via Druso 2",
         "route_ref": "4;6;9;16"
       },
@@ -2763,8 +2763,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 2 - Drusus Str. 2",
-        "name:de": "Drusus Str. 2",
+        "name": "Via Druso 2 - Drusus Straße 2",
+        "name:de": "Drusus Straße 2",
         "name:it": "Via Druso 2",
         "route_ref": "4;6;9;16"
       },
@@ -2781,8 +2781,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 1 - Drusus Str. 1",
-        "name:de": "Drusus Str. 1",
+        "name": "Via Druso 1 - Drusus Straße 1",
+        "name:de": "Drusus Straße 1",
         "name:it": "Via Druso 1",
         "route_ref": "4;6;9;16"
       },
@@ -2799,8 +2799,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 1 - Drusus Str. 1",
-        "name:de": "Drusus Str. 1",
+        "name": "Via Druso 1 - Drusus Straße 1",
+        "name:de": "Drusus Straße 1",
         "name:it": "Via Druso 1",
         "route_ref": "4;6;9;16"
       },
@@ -2909,8 +2909,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Antonio - St. Anton Str.",
-        "name:de": "St. Anton Str.",
+        "name": "Via S. Antonio - St. Anton Straße",
+        "name:de": "St. Anton Straße",
         "name:it": "Via S. Antonio",
         "route_ref": "12"
       },
@@ -2927,8 +2927,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Beato Arrigo - Selig - Selig-Heinrich Str.",
-        "name:de": "Selig-Heinrich Str.",
+        "name": "Via Beato Arrigo - Selig - Selig-Heinrich Straße",
+        "name:de": "Selig-Heinrich Straße",
         "name:it": "Via Beato Arrigo - Selig",
         "route_ref": "12"
       },
@@ -2945,8 +2945,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Weggenstein 2 - Weggenstein Str. 2",
-        "name:de": "Weggenstein Str. 2",
+        "name": "Via Weggenstein 2 - Weggenstein Straße 2",
+        "name:de": "Weggenstein Straße 2",
         "name:it": "Via Weggenstein 2",
         "route_ref": "12"
       },
@@ -2963,8 +2963,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Weggenstein 1 - Weggenstein Str. 1",
-        "name:de": "Weggenstein Str. 1",
+        "name": "Via Weggenstein 1 - Weggenstein Straße 1",
+        "name:de": "Weggenstein Straße 1",
         "name:it": "Via Weggenstein 1",
         "route_ref": "12",
         "shelter": "yes"
@@ -2982,8 +2982,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cavour - Cavour Str.",
-        "name:de": "Cavour Str.",
+        "name": "Via Cavour - Cavour Straße",
+        "name:de": "Cavour Straße",
         "name:it": "Via Cavour",
         "route_ref": "12"
       },
@@ -3000,8 +3000,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Mozart - Mozart Str.",
-        "name:de": "Mozart Str.",
+        "name": "Via Mozart - Mozart Straße",
+        "name:de": "Mozart Straße",
         "name:it": "Via Mozart",
         "route_ref": "5;16"
       },
@@ -3018,8 +3018,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sordo - Sordo Str.",
-        "name:de": "Sordo Str.",
+        "name": "Via Sordo - Sordo Straße",
+        "name:de": "Sordo Straße",
         "name:it": "Via Sordo",
         "route_ref": "5"
       },
@@ -3036,8 +3036,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via A. Emeri 2 - A. Emeri Str. 2",
-        "name:de": "A. Emeri Str. 2",
+        "name": "Via A. Emeri 2 - A. Emeri Straße 2",
+        "name:de": "A. Emeri Straße 2",
         "name:it": "Via A. Emeri 2",
         "route_ref": "3;16;153"
       },
@@ -3054,8 +3054,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via A. Emeri 1 - A. Emeri Str. 1",
-        "name:de": "A. Emeri Str. 1",
+        "name": "Via A. Emeri 1 - A. Emeri Straße 1",
+        "name:de": "A. Emeri Straße 1",
         "name:it": "Via A. Emeri 1",
         "route_ref": "3;16;153"
       },
@@ -3072,8 +3072,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via A. Emeri 1 - A. Emeri Str. 1",
-        "name:de": "A. Emeri Str. 1",
+        "name": "Via A. Emeri 1 - A. Emeri Straße 1",
+        "name:de": "A. Emeri Straße 1",
         "name:it": "Via A. Emeri 1",
         "route_ref": "3;16;153"
       },
@@ -3090,8 +3090,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Ortles - Ortler Str.",
-        "name:de": "Ortler Str.",
+        "name": "Via Ortles - Ortler Straße",
+        "name:de": "Ortler Straße",
         "name:it": "Via Ortles",
         "route_ref": "3;16;153"
       },
@@ -3108,8 +3108,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Ortles - Ortler Str.",
-        "name:de": "Ortler Str.",
+        "name": "Via Ortles - Ortler Straße",
+        "name:de": "Ortler Straße",
         "name:it": "Via Ortles",
         "route_ref": "3;16;153"
       },
@@ -3145,8 +3145,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 4 - Drusus Str. 4",
-        "name:de": "Drusus Str. 4",
+        "name": "Via Druso 4 - Drusus Straße 4",
+        "name:de": "Drusus Straße 4",
         "name:it": "Via Druso 4",
         "route_ref": "6;8;9;16"
       },
@@ -3163,8 +3163,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 4 - Drusus Str. 4",
-        "name:de": "Drusus Str. 4",
+        "name": "Via Druso 4 - Drusus Straße 4",
+        "name:de": "Drusus Straße 4",
         "name:it": "Via Druso 4",
         "route_ref": "2;6;8;9;16"
       },
@@ -3181,8 +3181,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 2 - Bari Str. 2",
-        "name:de": "Bari Str. 2",
+        "name": "Via Bari 2 - Bari Straße 2",
+        "name:de": "Bari Straße 2",
         "name:it": "Via Bari 2",
         "route_ref": "3",
         "shelter": "yes"
@@ -3200,8 +3200,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 1 - Bari Str. 1",
-        "name:de": "Bari Str. 1",
+        "name": "Via Bari 1 - Bari Straße 1",
+        "name:de": "Bari Straße 1",
         "name:it": "Via Bari 1",
         "route_ref": "3",
         "shelter": "yes"
@@ -3219,8 +3219,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 1 - Schlachthof Str. 1",
-        "name:de": "Schlachthof Str. 1",
+        "name": "Via Macello 1 - Schlachthof Straße 1",
+        "name:de": "Schlachthof Straße 1",
         "name:it": "Via Macello 1",
         "route_ref": "13;14",
         "shelter": "yes"
@@ -3238,8 +3238,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 1 - Schlachthof Str. 1",
-        "name:de": "Schlachthof Str. 1",
+        "name": "Via Macello 1 - Schlachthof Straße 1",
+        "name:de": "Schlachthof Straße 1",
         "name:it": "Via Macello 1",
         "route_ref": "11;13;14",
         "shelter": "yes"
@@ -3257,8 +3257,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 2 - Schlachthof Str. 2",
-        "name:de": "Schlachthof Str. 2",
+        "name": "Via Macello 2 - Schlachthof Straße 2",
+        "name:de": "Schlachthof Straße 2",
         "name:it": "Via Macello 2",
         "route_ref": "13;14",
         "shelter": "yes"
@@ -3276,8 +3276,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 3 - Schlachthof Str. 3",
-        "name:de": "Schlachthof Str. 3",
+        "name": "Via Macello 3 - Schlachthof Straße 3",
+        "name:de": "Schlachthof Straße 3",
         "name:it": "Via Macello 3",
         "route_ref": "13;14",
         "shelter": "yes"
@@ -3331,8 +3331,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 4 - Schlachthof Str. 4",
-        "name:de": "Schlachthof Str. 4",
+        "name": "Via Macello 4 - Schlachthof Straße 4",
+        "name:de": "Schlachthof Straße 4",
         "name:it": "Via Macello 4",
         "route_ref": "11"
       },
@@ -3349,8 +3349,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 5 - Schlachthof Str. 5",
-        "name:de": "Schlachthof Str. 5",
+        "name": "Via Macello 5 - Schlachthof Straße 5",
+        "name:de": "Schlachthof Straße 5",
         "name:it": "Via Macello 5",
         "route_ref": "11"
       },
@@ -3367,8 +3367,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 6 - Schlachthof Str. 6",
-        "name:de": "Schlachthof Str. 6",
+        "name": "Via Macello 6 - Schlachthof Straße 6",
+        "name:de": "Schlachthof Straße 6",
         "name:it": "Via Macello 6",
         "route_ref": "11"
       },
@@ -3385,8 +3385,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Macello 7 - Schlachthof Str. 7",
-        "name:de": "Schlachthof Str. 7",
+        "name": "Via Macello 7 - Schlachthof Straße 7",
+        "name:de": "Schlachthof Straße 7",
         "name:it": "Via Macello 7",
         "route_ref": "11"
       },
@@ -3421,8 +3421,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Lancia - Lancia Str.",
-        "name:de": "Lancia Str.",
+        "name": "Via Lancia - Lancia Straße",
+        "name:de": "Lancia Straße",
         "name:it": "Via Lancia",
         "route_ref": "4"
       },
@@ -3439,8 +3439,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 3 - Romstr. 3",
-        "name:de": "Romstr. 3",
+        "name": "Via Roma 3 - Romstraße 3",
+        "name:de": "Romstraße 3",
         "name:it": "Via Roma 3",
         "route_ref": "2;4;7B",
         "shelter": "yes"
@@ -3458,8 +3458,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Lancia - Lancia Str.",
-        "name:de": "Lancia Str.",
+        "name": "Via Lancia - Lancia Straße",
+        "name:de": "Lancia Straße",
         "name:it": "Via Lancia",
         "route_ref": "4",
         "shelter": "yes"
@@ -3477,8 +3477,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Siemens 1 - Siemens Str. 1",
-        "name:de": "Siemens Str. 1",
+        "name": "Via Siemens 1 - Siemens Straße 1",
+        "name:de": "Siemens Straße 1",
         "name:it": "Via Siemens 1",
         "route_ref": "4"
       },
@@ -3495,8 +3495,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Siemens 1 - Siemens Str. 1",
-        "name:de": "Siemens Str. 1",
+        "name": "Via Siemens 1 - Siemens Straße 1",
+        "name:de": "Siemens Straße 1",
         "name:it": "Via Siemens 1",
         "route_ref": "4;6",
         "shelter": "yes"
@@ -3514,8 +3514,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Pacinotti 2 - Pacinotti Str. 2",
-        "name:de": "Pacinotti Str. 2",
+        "name": "Via Pacinotti 2 - Pacinotti Straße 2",
+        "name:de": "Pacinotti Straße 2",
         "name:it": "Via Pacinotti 2",
         "route_ref": "4",
         "shelter": "yes"
@@ -3533,8 +3533,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 2 - Volta Str. 2",
-        "name:de": "Volta Str. 2",
+        "name": "Via Volta 2 - Volta Straße 2",
+        "name:de": "Volta Straße 2",
         "name:it": "Via Volta 2",
         "route_ref": "2;4"
       },
@@ -3551,8 +3551,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 2 - Volta Str. 2",
-        "name:de": "Volta Str. 2",
+        "name": "Via Volta 2 - Volta Straße 2",
+        "name:de": "Volta Straße 2",
         "name:it": "Via Volta 2",
         "route_ref": "2"
       },
@@ -3569,8 +3569,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 5 - Volta Str. 5",
-        "name:de": "Volta Str. 5",
+        "name": "Via Volta 5 - Volta Straße 5",
+        "name:de": "Volta Straße 5",
         "name:it": "Via Volta 5",
         "route_ref": "6;10B"
       },
@@ -3587,8 +3587,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 5 - Volta Str. 5",
-        "name:de": "Volta Str. 5",
+        "name": "Via Volta 5 - Volta Straße 5",
+        "name:de": "Volta Straße 5",
         "name:it": "Via Volta 5",
         "route_ref": "6;10A",
         "shelter": "yes"
@@ -3606,8 +3606,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sarentino 1 - Sarntaler Str. 1",
-        "name:de": "Sarntaler Str. 1",
+        "name": "Via Sarentino 1 - Sarntaler Straße 1",
+        "name:de": "Sarntaler Straße 1",
         "name:it": "Via Sarentino 1",
         "route_ref": "1;12;14",
         "shelter": "yes"
@@ -3625,8 +3625,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sarentino 1 - Sarntaler Str. 1",
-        "name:de": "Sarntaler Str. 1",
+        "name": "Via Sarentino 1 - Sarntaler Straße 1",
+        "name:de": "Sarntaler Straße 1",
         "name:it": "Via Sarentino 1",
         "route_ref": "1;14"
       },
@@ -3643,8 +3643,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sarentino 2 - Sarntaler Str. 2",
-        "name:de": "Sarntaler Str. 2",
+        "name": "Via Sarentino 2 - Sarntaler Straße 2",
+        "name:de": "Sarntaler Straße 2",
         "name:it": "Via Sarentino 2",
         "route_ref": "1;12;14",
         "shelter": "yes"
@@ -3662,8 +3662,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sarentino 2 - Sarntaler Str. 2",
-        "name:de": "Sarntaler Str. 2",
+        "name": "Via Sarentino 2 - Sarntaler Straße 2",
+        "name:de": "Sarntaler Straße 2",
         "name:it": "Via Sarentino 2",
         "route_ref": "1;14"
       },
@@ -3680,8 +3680,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Parma 1 - Parma Str. 1",
-        "name:de": "Parma Str. 1",
+        "name": "Via Parma 1 - Parma Straße 1",
+        "name:de": "Parma Straße 1",
         "name:it": "Via Parma 1",
         "route_ref": "16;153"
       },
@@ -3698,8 +3698,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sassari 2 - Sassari Str. 2",
-        "name:de": "Sassari Str. 2",
+        "name": "Via Sassari 2 - Sassari Straße 2",
+        "name:de": "Sassari Straße 2",
         "name:it": "Via Sassari 2",
         "route_ref": "6;9;153"
       },
@@ -3716,8 +3716,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Parma 2 - Parmastr. 2",
-        "name:de": "Parmastr. 2",
+        "name": "Via Parma 2 - Parmastraße 2",
+        "name:de": "Parmastraße 2",
         "name:it": "Via Parma 2",
         "route_ref": "16"
       },
@@ -3734,8 +3734,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sassari 1 - Sassari Str. 1",
-        "name:de": "Sassari Str. 1",
+        "name": "Via Sassari 1 - Sassari Straße 1",
+        "name:de": "Sassari Straße 1",
         "name:it": "Via Sassari 1",
         "route_ref": "6;9",
         "shelter": "yes"
@@ -3753,8 +3753,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cagliari - Cagliari Str.",
-        "name:de": "Cagliari Str.",
+        "name": "Via Cagliari - Cagliari Straße",
+        "name:de": "Cagliari Straße",
         "name:it": "Via Cagliari",
         "route_ref": "3",
         "shelter": "yes"
@@ -3772,8 +3772,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Palermo 3 - Palermo Str. 3",
-        "name:de": "Palermo Str. 3",
+        "name": "Via Palermo 3 - Palermo Straße 3",
+        "name:de": "Palermo Straße 3",
         "name:it": "Via Palermo 3",
         "route_ref": "3",
         "shelter": "yes"
@@ -3791,8 +3791,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Palermo 2 - Palermo Str. 2",
-        "name:de": "Palermo Str. 2",
+        "name": "Via Palermo 2 - Palermo Straße 2",
+        "name:de": "Palermo Straße 2",
         "name:it": "Via Palermo 2",
         "route_ref": "3"
       },
@@ -3809,8 +3809,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Dalmazia 2 - Dalmatien Str. 2",
-        "name:de": "Dalmatien Str. 2",
+        "name": "Via Dalmazia 2 - Dalmatien Straße 2",
+        "name:de": "Dalmatien Straße 2",
         "name:it": "Via Dalmazia 2",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3828,8 +3828,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Dalmazia 1 - Dalmatien Str. 1",
-        "name:de": "Dalmatien Str. 1",
+        "name": "Via Dalmazia 1 - Dalmatien Straße 1",
+        "name:de": "Dalmatien Straße 1",
         "name:it": "Via Dalmazia 1",
         "route_ref": "3;153"
       },
@@ -3846,8 +3846,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Torino - Turin Str.",
-        "name:de": "Turin Str.",
+        "name": "Via Torino - Turin Straße",
+        "name:de": "Turin Straße",
         "name:it": "Via Torino",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3884,8 +3884,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 1 - Mailand Str. 1",
-        "name:de": "Mailand Str. 1",
+        "name": "Via Milano 1 - Mailand Straße 1",
+        "name:de": "Mailand Straße 1",
         "name:it": "Via Milano 1",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3903,8 +3903,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 2 - Mailand Str. 2",
-        "name:de": "Mailand Str. 2",
+        "name": "Via Milano 2 - Mailand Straße 2",
+        "name:de": "Mailand Straße 2",
         "name:it": "Via Milano 2",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3922,8 +3922,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 3 - Mailand Str. 3",
-        "name:de": "Mailand Str. 3",
+        "name": "Via Milano 3 - Mailand Straße 3",
+        "name:de": "Mailand Straße 3",
         "name:it": "Via Milano 3",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3941,8 +3941,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Montecassino - Montecassino Str.",
-        "name:de": "Montecassino Str.",
+        "name": "Via Montecassino - Montecassino Straße",
+        "name:de": "Montecassino Straße",
         "name:it": "Via Montecassino",
         "route_ref": "3;6;9;153",
         "shelter": "yes"
@@ -3960,8 +3960,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 1 - Bari Str. 1",
-        "name:de": "Bari Str. 1",
+        "name": "Via Bari 1 - Bari Straße 1",
+        "name:de": "Bari Straße 1",
         "name:it": "Via Bari 1",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3979,8 +3979,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 2 - Bari Str. 2",
-        "name:de": "Bari Str. 2",
+        "name": "Via Bari 2 - Bari Straße 2",
+        "name:de": "Bari Straße 2",
         "name:it": "Via Bari 2",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -3998,8 +3998,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 3 - Bari Str. 3",
-        "name:de": "Bari Str. 3",
+        "name": "Via Bari 3 - Bari Straße 3",
+        "name:de": "Bari Straße 3",
         "name:it": "Via Bari 3",
         "route_ref": "3;16",
         "shelter": "yes"
@@ -4017,8 +4017,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 4 - Bari Str. 4",
-        "name:de": "Bari Str. 4",
+        "name": "Via Bari 4 - Bari Straße 4",
+        "name:de": "Bari Straße 4",
         "name:it": "Via Bari 4",
         "route_ref": "3;16",
         "shelter": "yes"
@@ -4036,8 +4036,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Bari 4 - Bari Str. 4",
-        "name:de": "Bari Str. 4",
+        "name": "Via Bari 4 - Bari Straße 4",
+        "name:de": "Bari Straße 4",
         "name:it": "Via Bari 4",
         "route_ref": "3;153",
         "shelter": "yes"
@@ -4055,8 +4055,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 1 - Galvani Str. 1",
-        "name:de": "Galvani Str. 1",
+        "name": "Via Galvani 1 - Galvani Straße 1",
+        "name:de": "Galvani Straße 1",
         "name:it": "Via Galvani 1",
         "route_ref": "2;4;6",
         "shelter": "yes"
@@ -4074,8 +4074,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 2 - Galvani Str. 2",
-        "name:de": "Galvani Str. 2",
+        "name": "Via Galvani 2 - Galvani Straße 2",
+        "name:de": "Galvani Straße 2",
         "name:it": "Via Galvani 2",
         "route_ref": "2;4;6"
       },
@@ -4092,8 +4092,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 2 - Galvani Str. 2",
-        "name:de": "Galvani Str. 2",
+        "name": "Via Galvani 2 - Galvani Straße 2",
+        "name:de": "Galvani Straße 2",
         "name:it": "Via Galvani 2",
         "route_ref": "2;4;6"
       },
@@ -4110,8 +4110,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 3 - Galvani Str. 3",
-        "name:de": "Galvani Str. 3",
+        "name": "Via Galvani 3 - Galvani Straße 3",
+        "name:de": "Galvani Straße 3",
         "name:it": "Via Galvani 3",
         "route_ref": "2;4"
       },
@@ -4128,8 +4128,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 3 - Galvani Str. 3",
-        "name:de": "Galvani Str. 3",
+        "name": "Via Galvani 3 - Galvani Straße 3",
+        "name:de": "Galvani Straße 3",
         "name:it": "Via Galvani 3",
         "route_ref": "2;4;6"
       },
@@ -4146,8 +4146,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 4 - Galvani Str. 4",
-        "name:de": "Galvani Str. 4",
+        "name": "Via Galvani 4 - Galvani Straße 4",
+        "name:de": "Galvani Straße 4",
         "name:it": "Via Galvani 4",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -4165,8 +4165,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galvani 4 - Galvani Str. 4",
-        "name:de": "Galvani Str. 4",
+        "name": "Via Galvani 4 - Galvani Straße 4",
+        "name:de": "Galvani Straße 4",
         "name:it": "Via Galvani 4",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -4184,8 +4184,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Einstein 3 - Einstein Str. 3",
-        "name:de": "Einstein Str. 3",
+        "name": "Via Einstein 3 - Einstein Straße 3",
+        "name:de": "Einstein Straße 3",
         "name:it": "Via Einstein 3",
         "route_ref": "2;4;10B",
         "shelter": "yes"
@@ -4203,8 +4203,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Einstein 3 - Einstein Str. 3",
-        "name:de": "Einstein Str. 3",
+        "name": "Via Einstein 3 - Einstein Straße 3",
+        "name:de": "Einstein Straße 3",
         "name:it": "Via Einstein 3",
         "route_ref": "2;4;10A",
         "shelter": "yes"
@@ -4222,8 +4222,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Einstein 2 - Einstein Str. 2",
-        "name:de": "Einstein Str. 2",
+        "name": "Via Einstein 2 - Einstein Straße 2",
+        "name:de": "Einstein Straße 2",
         "name:it": "Via Einstein 2",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4241,8 +4241,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Einstein 2 - Einstein Str. 2",
-        "name:de": "Einstein Str. 2",
+        "name": "Via Einstein 2 - Einstein Straße 2",
+        "name:de": "Einstein Straße 2",
         "name:it": "Via Einstein 2",
         "route_ref": "10A",
         "shelter": "yes"
@@ -4260,8 +4260,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 3 - Buozzi Str. 3",
-        "name:de": "Buozzi Str. 3",
+        "name": "Via Buozzi 3 - Buozzi Straße 3",
+        "name:de": "Buozzi Straße 3",
         "name:it": "Via Buozzi 3",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4279,8 +4279,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 3 - Buozzi Str. 3",
-        "name:de": "Buozzi Str. 3",
+        "name": "Via Buozzi 3 - Buozzi Straße 3",
+        "name:de": "Buozzi Straße 3",
         "name:it": "Via Buozzi 3",
         "route_ref": "10A",
         "shelter": "yes"
@@ -4336,8 +4336,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 2 - Buozzi Str. 2",
-        "name:de": "Buozzi Str. 2",
+        "name": "Via Buozzi 2 - Buozzi Straße 2",
+        "name:de": "Buozzi Straße 2",
         "name:it": "Via Buozzi 2",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4355,8 +4355,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 2 - Buozzi Str. 2",
-        "name:de": "Buozzi Str. 2",
+        "name": "Via Buozzi 2 - Buozzi Straße 2",
+        "name:de": "Buozzi Straße 2",
         "name:it": "Via Buozzi 2",
         "route_ref": "10A",
         "shelter": "yes"
@@ -4374,8 +4374,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 1 - Buozzi Str. 1",
-        "name:de": "Buozzi Str. 1",
+        "name": "Via Buozzi 1 - Buozzi Straße 1",
+        "name:de": "Buozzi Straße 1",
         "name:it": "Via Buozzi 1",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4393,8 +4393,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Buozzi 1 - Buozzi Str. 1",
-        "name:de": "Buozzi Str. 1",
+        "name": "Via Buozzi 1 - Buozzi Straße 1",
+        "name:de": "Buozzi Straße 1",
         "name:it": "Via Buozzi 1",
         "route_ref": "10A",
         "shelter": "yes"
@@ -4412,8 +4412,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 4 - Reschen Str. 4",
-        "name:de": "Reschen Str. 4",
+        "name": "Via Resia 4 - Reschen Straße 4",
+        "name:de": "Reschen Straße 4",
         "name:it": "Via Resia 4",
         "route_ref": "6;10B",
         "shelter": "yes"
@@ -4431,8 +4431,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 4 - Reschen Str. 4",
-        "name:de": "Reschen Str. 4",
+        "name": "Via Resia 4 - Reschen Straße 4",
+        "name:de": "Reschen Straße 4",
         "name:it": "Via Resia 4",
         "route_ref": "6;10A"
       },
@@ -4449,8 +4449,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 3 - Reschen Str. 3",
-        "name:de": "Reschen Str. 3",
+        "name": "Via Resia 3 - Reschen Straße 3",
+        "name:de": "Reschen Straße 3",
         "name:it": "Via Resia 3",
         "route_ref": "3;6;10B;16;153",
         "shelter": "yes"
@@ -4468,8 +4468,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 3 - Reschen Str. 3",
-        "name:de": "Reschen Str. 3",
+        "name": "Via Resia 3 - Reschen Straße 3",
+        "name:de": "Reschen Straße 3",
         "name:it": "Via Resia 3",
         "route_ref": "3;6;10A;16;153",
         "shelter": "yes"
@@ -4487,8 +4487,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 2 - Reschen Str. 2",
-        "name:de": "Reschen Str. 2",
+        "name": "Via Resia 2 - Reschen Straße 2",
+        "name:de": "Reschen Straße 2",
         "name:it": "Via Resia 2",
         "route_ref": "6;10B;16",
         "shelter": "yes"
@@ -4506,8 +4506,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 2 - Reschen Str. 2",
-        "name:de": "Reschen Str. 2",
+        "name": "Via Resia 2 - Reschen Straße 2",
+        "name:de": "Reschen Straße 2",
         "name:it": "Via Resia 2",
         "route_ref": "6;10A;153",
         "shelter": "yes"
@@ -4525,8 +4525,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 1 - Reschen Str. 1",
-        "name:de": "Reschen Str. 1",
+        "name": "Via Resia 1 - Reschen Straße 1",
+        "name:de": "Reschen Straße 1",
         "name:it": "Via Resia 1",
         "route_ref": "9;10B;16",
         "shelter": "yes"
@@ -4544,8 +4544,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Resia 1 - Reschen Str. 1",
-        "name:de": "Reschen Str. 1",
+        "name": "Via Resia 1 - Reschen Straße 1",
+        "name:de": "Reschen Straße 1",
         "name:it": "Via Resia 1",
         "route_ref": "9;10A",
         "shelter": "yes"
@@ -4601,8 +4601,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Corso Liberta` 2 - Freiheitsstr. 2",
-        "name:de": "Freiheitsstr. 2",
+        "name": "Corso Liberta` 2 - Freiheitsstraße 2",
+        "name:de": "Freiheitsstraße 2",
         "name:it": "Corso Liberta` 2",
         "route_ref": "10A"
       },
@@ -4619,8 +4619,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Corso Liberta` 2 - Freiheitsstr. 2",
-        "name:de": "Freiheitsstr. 2",
+        "name": "Corso Liberta` 2 - Freiheitsstraße 2",
+        "name:de": "Freiheitsstraße 2",
         "name:it": "Corso Liberta` 2",
         "route_ref": "5;10B;153"
       },
@@ -4675,8 +4675,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via V. Veneto 1 - V. Veneto Str. 1",
-        "name:de": "V. Veneto Str. 1",
+        "name": "Via V. Veneto 1 - V. Veneto Straße 1",
+        "name:de": "V. Veneto Straße 1",
         "name:it": "Via V. Veneto 1",
         "route_ref": "10A"
       },
@@ -4693,8 +4693,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via V. Veneto 1 - V. Veneto Str. 1",
-        "name:de": "V. Veneto Str. 1",
+        "name": "Via V. Veneto 1 - V. Veneto Straße 1",
+        "name:de": "V. Veneto Straße 1",
         "name:it": "Via V. Veneto 1",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4712,8 +4712,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via V. Veneto 2 - V. Veneto Str. 2",
-        "name:de": "V. Veneto Str. 2",
+        "name": "Via V. Veneto 2 - V. Veneto Straße 2",
+        "name:de": "V. Veneto Straße 2",
         "name:it": "Via V. Veneto 2",
         "route_ref": "10A",
         "shelter": "yes"
@@ -4731,8 +4731,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via V. Veneto 2 - V. Veneto Str. 2",
-        "name:de": "V. Veneto Str. 2",
+        "name": "Via V. Veneto 2 - V. Veneto Straße 2",
+        "name:de": "V. Veneto Straße 2",
         "name:it": "Via V. Veneto 2",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4750,8 +4750,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Maurizio 1 - Moritzinger Str. 1",
-        "name:de": "Moritzinger Str. 1",
+        "name": "Via S. Maurizio 1 - Moritzinger Straße 1",
+        "name:de": "Moritzinger Straße 1",
         "name:it": "Via S. Maurizio 1",
         "route_ref": "10A"
       },
@@ -4768,8 +4768,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Maurizio 1 - Moritzinger Str. 1",
-        "name:de": "Moritzinger Str. 1",
+        "name": "Via S. Maurizio 1 - Moritzinger Straße 1",
+        "name:de": "Moritzinger Straße 1",
         "name:it": "Via S. Maurizio 1",
         "route_ref": "10B"
       },
@@ -4786,8 +4786,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Maurizio 2 - Moritzinger Str. 2",
-        "name:de": "Moritzinger Str. 2",
+        "name": "Via S. Maurizio 2 - Moritzinger Straße 2",
+        "name:de": "Moritzinger Straße 2",
         "name:it": "Via S. Maurizio 2",
         "route_ref": "10A"
       },
@@ -4804,8 +4804,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Maurizio 2 - Moritzinger Str. 2",
-        "name:de": "Moritzinger Str. 2",
+        "name": "Via S. Maurizio 2 - Moritzinger Straße 2",
+        "name:de": "Moritzinger Straße 2",
         "name:it": "Via S. Maurizio 2",
         "route_ref": "10B",
         "shelter": "yes"
@@ -4880,8 +4880,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 10 - Drusus Str. 10",
-        "name:de": "Drusus Str. 10",
+        "name": "Via Druso 10 - Drusus Straße 10",
+        "name:de": "Drusus Straße 10",
         "name:it": "Via Druso 10",
         "route_ref": "8"
       },
@@ -4898,8 +4898,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 10 - Drusus Str. 10",
-        "name:de": "Drusus Str. 10",
+        "name": "Via Druso 10 - Drusus Straße 10",
+        "name:de": "Drusus Straße 10",
         "name:it": "Via Druso 10",
         "route_ref": "2;6;8",
         "shelter": "yes"
@@ -4917,8 +4917,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 7 - Drusus Str. 7",
-        "name:de": "Drusus Str. 7",
+        "name": "Via Druso 7 - Drusus Straße 7",
+        "name:de": "Drusus Straße 7",
         "name:it": "Via Druso 7",
         "route_ref": "8"
       },
@@ -4935,8 +4935,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 7 - Drusus Str. 7",
-        "name:de": "Drusus Str. 7",
+        "name": "Via Druso 7 - Drusus Straße 7",
+        "name:de": "Drusus Straße 7",
         "name:it": "Via Druso 7",
         "route_ref": "2;6;8"
       },
@@ -4953,8 +4953,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 6 - Drusus Str. 6",
-        "name:de": "Drusus Str. 6",
+        "name": "Via Druso 6 - Drusus Straße 6",
+        "name:de": "Drusus Straße 6",
         "name:it": "Via Druso 6",
         "route_ref": "BZ-ME;6;8;9;16;NALLES"
       },
@@ -4971,8 +4971,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 6 - Drusus Str. 6",
-        "name:de": "Drusus Str. 6",
+        "name": "Via Druso 6 - Drusus Straße 6",
+        "name:de": "Drusus Straße 6",
         "name:it": "Via Druso 6",
         "route_ref": "BZ-ME;2;6;8;9;16;NALLES",
         "shelter": "yes"
@@ -4990,8 +4990,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 5 - Drusus Str. 5",
-        "name:de": "Drusus Str. 5",
+        "name": "Via Druso 5 - Drusus Straße 5",
+        "name:de": "Drusus Straße 5",
         "name:it": "Via Druso 5",
         "route_ref": "6;8;9;16"
       },
@@ -5008,8 +5008,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 5 - Drusus Str. 5",
-        "name:de": "Drusus Str. 5",
+        "name": "Via Druso 5 - Drusus Straße 5",
+        "name:de": "Drusus Straße 5",
         "name:it": "Via Druso 5",
         "route_ref": "2;6;8;9;16"
       },
@@ -5026,8 +5026,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 3 - Drusus Str. 3",
-        "name:de": "Drusus Str. 3",
+        "name": "Via Druso 3 - Drusus Straße 3",
+        "name:de": "Drusus Straße 3",
         "name:it": "Via Druso 3",
         "route_ref": "BZ-ME;6;8;9;16;NALLES"
       },
@@ -5044,8 +5044,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 3 - Drusus Str. 3",
-        "name:de": "Drusus Str. 3",
+        "name": "Via Druso 3 - Drusus Straße 3",
+        "name:de": "Drusus Straße 3",
         "name:it": "Via Druso 3",
         "route_ref": "BZ-ME;2;6;8;9;16;NALLES"
       },
@@ -5081,8 +5081,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Weinegg 3 - Weinegg Str. 3",
-        "name:de": "Weinegg Str. 3",
+        "name": "Via C. Weinegg 3 - Weinegg Straße 3",
+        "name:de": "Weinegg Straße 3",
         "name:it": "Via C. Weinegg 3",
         "route_ref": "7B;7A;14",
         "shelter": "yes"
@@ -5100,8 +5100,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Weinegg 2 - Weinegg Str. 2",
-        "name:de": "Weinegg Str. 2",
+        "name": "Via C. Weinegg 2 - Weinegg Straße 2",
+        "name:de": "Weinegg Straße 2",
         "name:it": "Via C. Weinegg 2",
         "route_ref": "7B;7A;14"
       },
@@ -5118,8 +5118,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Weinegg 4 - Weinegg Str. 4",
-        "name:de": "Weinegg Str. 4",
+        "name": "Via C. Weinegg 4 - Weinegg Straße 4",
+        "name:de": "Weinegg Straße 4",
         "name:it": "Via C. Weinegg 4",
         "route_ref": "7B;7A;14"
       },
@@ -5136,8 +5136,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Weinegg 1 - Weinegg Str. 1",
-        "name:de": "Weinegg Str. 1",
+        "name": "Via C. Weinegg 1 - Weinegg Straße 1",
+        "name:de": "Weinegg Straße 1",
         "name:it": "Via C. Weinegg 1",
         "route_ref": "7B;7A;14"
       },
@@ -5154,8 +5154,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Vigilio 2 - St. Vigil Str. 2",
-        "name:de": "St. Vigil Str. 2",
+        "name": "Via S. Vigilio 2 - St. Vigil Straße 2",
+        "name:de": "St. Vigil Straße 2",
         "name:it": "Via S. Vigilio 2",
         "route_ref": "7B;7A;14"
       },
@@ -5172,8 +5172,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Vigilio 1 - St. Vigil Str. 1",
-        "name:de": "St. Vigil Str. 1",
+        "name": "Via S. Vigilio 1 - St. Vigil Straße 1",
+        "name:de": "St. Vigil Straße 1",
         "name:it": "Via S. Vigilio 1",
         "route_ref": "7B;7A;14"
       },
@@ -5227,8 +5227,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 1 - C. Augusta Str. 1",
-        "name:de": "C. Augusta Str. 1",
+        "name": "Via C. Augusta 1 - C. Augusta Straße 1",
+        "name:de": "C. Augusta Straße 1",
         "name:it": "Via C. Augusta 1",
         "route_ref": "7B;10B",
         "shelter": "yes"
@@ -5246,8 +5246,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 1 - C. Augusta Str. 1",
-        "name:de": "C. Augusta Str. 1",
+        "name": "Via C. Augusta 1 - C. Augusta Straße 1",
+        "name:de": "C. Augusta Straße 1",
         "name:it": "Via C. Augusta 1",
         "route_ref": "4;7A;10A",
         "shelter": "yes"
@@ -5265,8 +5265,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 2 - C. Augusta Str. 2",
-        "name:de": "C. Augusta Str. 2",
+        "name": "Via C. Augusta 2 - C. Augusta Straße 2",
+        "name:de": "C. Augusta Straße 2",
         "name:it": "Via C. Augusta 2",
         "route_ref": "7B;10B",
         "shelter": "yes"
@@ -5284,8 +5284,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 2 - C. Augusta Str. 2",
-        "name:de": "C. Augusta Str. 2",
+        "name": "Via C. Augusta 2 - C. Augusta Straße 2",
+        "name:de": "C. Augusta Straße 2",
         "name:it": "Via C. Augusta 2",
         "route_ref": "4;7A;10A"
       },
@@ -5302,8 +5302,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Trento 2 - Trienter Str. 2",
-        "name:de": "Trienter Str. 2",
+        "name": "Via Trento 2 - Trienter Straße 2",
+        "name:de": "Trienter Straße 2",
         "name:it": "Via Trento 2",
         "route_ref": "4;7A;10A"
       },
@@ -5320,8 +5320,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Trento 2 - Trienter Str. 2",
-        "name:de": "Trienter Str. 2",
+        "name": "Via Trento 2 - Trienter Straße 2",
+        "name:de": "Trienter Straße 2",
         "name:it": "Via Trento 2",
         "route_ref": "7B;10B;14",
         "shelter": "yes"
@@ -5339,8 +5339,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Trento 1 - Trienter Str. 1",
-        "name:de": "Trienter Str. 1",
+        "name": "Via Trento 1 - Trienter Straße 1",
+        "name:de": "Trienter Straße 1",
         "name:it": "Via Trento 1",
         "route_ref": "7B;10B;14",
         "shelter": "yes"
@@ -5358,8 +5358,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Trento 1 - Trienter Str. 1",
-        "name:de": "Trienter Str. 1",
+        "name": "Via Trento 1 - Trienter Straße 1",
+        "name:de": "Trienter Straße 1",
         "name:it": "Via Trento 1",
         "route_ref": "4;7A;10A",
         "shelter": "yes"
@@ -5377,8 +5377,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Perathoner - Perathoner Str.",
-        "name:de": "Perathoner Str.",
+        "name": "Via Perathoner - Perathoner Straße",
+        "name:de": "Perathoner Straße",
         "name:it": "Via Perathoner",
         "route_ref": "7A;11;12;13",
         "shelter": "yes"
@@ -5396,8 +5396,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Perathoner - Perathoner Str.",
-        "name:de": "Perathoner Str.",
+        "name": "Via Perathoner - Perathoner Straße",
+        "name:de": "Perathoner Straße",
         "name:it": "Via Perathoner",
         "route_ref": "4;6;7B;9;16",
         "shelter": "yes"
@@ -5415,8 +5415,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via De Lai - De Lai Str.",
-        "name:de": "De Lai Str.",
+        "name": "Via De Lai - De Lai Straße",
+        "name:de": "De Lai Straße",
         "name:it": "Via De Lai",
         "route_ref": "8;12"
       },
@@ -5451,8 +5451,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Diaz 2 - Diaz Str. 2",
-        "name:de": "Diaz Str. 2",
+        "name": "Via Diaz 2 - Diaz Straße 2",
+        "name:de": "Diaz Straße 2",
         "name:it": "Via Diaz 2",
         "route_ref": "1;14",
         "shelter": "yes"
@@ -5488,8 +5488,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Fago 3 - Fagen Str. 3",
-        "name:de": "Fagen Str. 3",
+        "name": "Via Fago 3 - Fagen Straße 3",
+        "name:de": "Fagen Straße 3",
         "name:it": "Via Fago 3",
         "route_ref": "1;14;153",
         "shelter": "yes"
@@ -5508,8 +5508,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Fago 2 - Fagen Str. 2",
-        "name:de": "Fagen Str. 2",
+        "name": "Via Fago 2 - Fagen Straße 2",
+        "name:de": "Fagen Straße 2",
         "name:it": "Via Fago 2",
         "route_ref": "1;14;153"
       },
@@ -5526,8 +5526,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Fago 1 - Fagen Str. 1",
-        "name:de": "Fagen Str. 1",
+        "name": "Via Fago 1 - Fagen Straße 1",
+        "name:de": "Fagen Straße 1",
         "name:it": "Via Fago 1",
         "route_ref": "1;14;153",
         "shelter": "yes"
@@ -5545,8 +5545,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cadorna 1 - Cadorna Str. 1",
-        "name:de": "Cadorna Str. 1",
+        "name": "Via Cadorna 1 - Cadorna Straße 1",
+        "name:de": "Cadorna Straße 1",
         "name:it": "Via Cadorna 1",
         "route_ref": "1;14;153"
       },
@@ -5563,8 +5563,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cadorna 2 - Cadorna Str. 2",
-        "name:de": "Cadorna Str. 2",
+        "name": "Via Cadorna 2 - Cadorna Straße 2",
+        "name:de": "Cadorna Straße 2",
         "name:it": "Via Cadorna 2",
         "route_ref": "12"
       },
@@ -5581,8 +5581,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cadorna 2 - Cadorna Str. 2",
-        "name:de": "Cadorna Str. 2",
+        "name": "Via Cadorna 2 - Cadorna Straße 2",
+        "name:de": "Cadorna Straße 2",
         "name:it": "Via Cadorna 2",
         "route_ref": "1;14;153"
       },
@@ -5599,8 +5599,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cadorna 3 - Cadorna Str. 3",
-        "name:de": "Cadorna Str. 3",
+        "name": "Via Cadorna 3 - Cadorna Straße 3",
+        "name:de": "Cadorna Straße 3",
         "name:it": "Via Cadorna 3",
         "route_ref": "12",
         "shelter": "yes"
@@ -5618,8 +5618,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cadorna 3 - Cadorna Str. 3",
-        "name:de": "Cadorna Str. 3",
+        "name": "Via Cadorna 3 - Cadorna Straße 3",
+        "name:de": "Cadorna Straße 3",
         "name:it": "Via Cadorna 3",
         "route_ref": "1;14;153",
         "shelter": "yes"
@@ -5637,8 +5637,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Diaz 1 - Diaz Str. 1",
-        "name:de": "Diaz Str. 1",
+        "name": "Via Diaz 1 - Diaz Straße 1",
+        "name:de": "Diaz Straße 1",
         "name:it": "Via Diaz 1",
         "route_ref": "1;12;14"
       },
@@ -5655,8 +5655,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Diaz 1 - Diaz Str. 1",
-        "name:de": "Diaz Str. 1",
+        "name": "Via Diaz 1 - Diaz Straße 1",
+        "name:de": "Diaz Straße 1",
         "name:it": "Via Diaz 1",
         "route_ref": "1;14;153",
         "shelter": "yes"
@@ -5768,8 +5768,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Brennero - Brenner Str.",
-        "name:de": "Brenner Str.",
+        "name": "Via Brennero - Brenner Straße",
+        "name:de": "Brenner Straße",
         "name:it": "Via Brennero",
         "route_ref": "1",
         "shelter": "yes"
@@ -5787,8 +5787,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Brennero - Brenner Str.",
-        "name:de": "Brenner Str.",
+        "name": "Via Brennero - Brenner Straße",
+        "name:de": "Brenner Straße",
         "name:it": "Via Brennero",
         "route_ref": "1"
       },
@@ -5805,8 +5805,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 1 - Rentschner Str. 1",
-        "name:de": "Rentschner Str. 1",
+        "name": "Via Rencio 1 - Rentschner Straße 1",
+        "name:de": "Rentschner Straße 1",
         "name:it": "Via Rencio 1",
         "route_ref": "1"
       },
@@ -5823,8 +5823,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 1 - Rentschner Str. 1",
-        "name:de": "Rentschner Str. 1",
+        "name": "Via Rencio 1 - Rentschner Straße 1",
+        "name:de": "Rentschner Straße 1",
         "name:it": "Via Rencio 1",
         "route_ref": "1"
       },
@@ -5841,8 +5841,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 2 - Rentschner Str. 2",
-        "name:de": "Rentschner Str. 2",
+        "name": "Via Rencio 2 - Rentschner Straße 2",
+        "name:de": "Rentschner Straße 2",
         "name:it": "Via Rencio 2",
         "route_ref": "1"
       },
@@ -5859,8 +5859,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 2 - Rentschner Str. 2",
-        "name:de": "Rentschner Str. 2",
+        "name": "Via Rencio 2 - Rentschner Straße 2",
+        "name:de": "Rentschner Straße 2",
         "name:it": "Via Rencio 2",
         "route_ref": "1"
       },
@@ -5877,8 +5877,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 3 - Rentschner Str. 3",
-        "name:de": "Rentschner Str. 3",
+        "name": "Via Rencio 3 - Rentschner Straße 3",
+        "name:de": "Rentschner Straße 3",
         "name:it": "Via Rencio 3",
         "route_ref": "1"
       },
@@ -5895,8 +5895,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 3 - Rentschner Str. 3",
-        "name:de": "Rentschner Str. 3",
+        "name": "Via Rencio 3 - Rentschner Straße 3",
+        "name:de": "Rentschner Straße 3",
         "name:it": "Via Rencio 3",
         "route_ref": "1"
       },
@@ -5913,8 +5913,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 4 - Rentschner Str. 4",
-        "name:de": "Rentschner Str. 4",
+        "name": "Via Rencio 4 - Rentschner Straße 4",
+        "name:de": "Rentschner Straße 4",
         "name:it": "Via Rencio 4",
         "route_ref": "1"
       },
@@ -5931,8 +5931,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rencio 4 - Rentschner Str. 4",
-        "name:de": "Rentschner Str. 4",
+        "name": "Via Rencio 4 - Rentschner Straße 4",
+        "name:de": "Rentschner Straße 4",
         "name:it": "Via Rencio 4",
         "route_ref": "1"
       },
@@ -5986,8 +5986,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Pietralba Ipes - Weissensteinerstr. Ipes",
-        "name:de": "Weissensteinerstr. Ipes",
+        "name": "Via Pietralba Ipes - Weissensteinerstraße Ipes",
+        "name:de": "Weissensteinerstraße Ipes",
         "name:it": "Via Pietralba Ipes",
         "route_ref": "VAD_LAIV"
       },
@@ -6005,8 +6005,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Hofer 2 - Hofer Str. 2",
-        "name:de": "Hofer Str. 2",
+        "name": "Via Hofer 2 - Hofer Straße 2",
+        "name:de": "Hofer Straße 2",
         "name:it": "Via Hofer 2",
         "route_ref": "VAD_LAIV"
       },
@@ -6024,8 +6024,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Hofer 1 - Hofer Str. 1",
-        "name:de": "Hofer Str. 1",
+        "name": "Via Hofer 1 - Hofer Straße 1",
+        "name:de": "Hofer Straße 1",
         "name:it": "Via Hofer 1",
         "route_ref": "VAD_LAIV"
       },
@@ -6043,8 +6043,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galizia 2 - Galizien Str. 2",
-        "name:de": "Galizien Str. 2",
+        "name": "Via Galizia 2 - Galizien Straße 2",
+        "name:de": "Galizien Straße 2",
         "name:it": "Via Galizia 2",
         "route_ref": "VAD_LAIV"
       },
@@ -6062,8 +6062,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galizia 1 - Galizien Str. 1",
-        "name:de": "Galizien Str. 1",
+        "name": "Via Galizia 1 - Galizien Straße 1",
+        "name:de": "Galizien Straße 1",
         "name:it": "Via Galizia 1",
         "route_ref": "VAD_LAIV"
       },
@@ -6080,8 +6080,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sauro 2 - Sauro Str. 2",
-        "name:de": "Sauro Str. 2",
+        "name": "Via Sauro 2 - Sauro Straße 2",
+        "name:de": "Sauro Straße 2",
         "name:it": "Via Sauro 2",
         "route_ref": "VAD_LAIV"
       },
@@ -6098,8 +6098,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sauro 2 - Sauro Str. 2",
-        "name:de": "Sauro Str. 2",
+        "name": "Via Sauro 2 - Sauro Straße 2",
+        "name:de": "Sauro Straße 2",
         "name:it": "Via Sauro 2",
         "route_ref": "VAD_LAIV"
       },
@@ -6116,8 +6116,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sauro 1 - Sauro Str. 1",
-        "name:de": "Sauro Str. 1",
+        "name": "Via Sauro 1 - Sauro Straße 1",
+        "name:de": "Sauro Straße 1",
         "name:it": "Via Sauro 1",
         "route_ref": "VAD_LAIV"
       },
@@ -6134,8 +6134,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sauro 1 - Sauro Str. 1",
-        "name:de": "Sauro Str. 1",
+        "name": "Via Sauro 1 - Sauro Straße 1",
+        "name:de": "Sauro Straße 1",
         "name:it": "Via Sauro 1",
         "route_ref": "VAD_LAIV"
       },
@@ -6152,8 +6152,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Marconi 2 - Marconi Str. 2",
-        "name:de": "Marconi Str. 2",
+        "name": "Via Marconi 2 - Marconi Straße 2",
+        "name:de": "Marconi Straße 2",
         "name:it": "Via Marconi 2",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
@@ -6170,8 +6170,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Marconi 1 - Marconi Str. 1",
-        "name:de": "Marconi Str. 1",
+        "name": "Via Marconi 1 - Marconi Straße 1",
+        "name:de": "Marconi Straße 1",
         "name:it": "Via Marconi 1",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
@@ -6224,9 +6224,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laives Staz. - Leifers Bhf.",
-        "name:de": "Leifers Bhf.",
-        "name:it": "Laives Staz.",
+        "name": "Laives Stazione - Leifers Bahnhof",
+        "name:de": "Leifers Bahnhof",
+        "name:it": "Laives Stazione",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
       "geometry": {
@@ -6391,8 +6391,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 6 - St. Jakob Str. 6",
-        "name:de": "St. Jakob Str. 6",
+        "name": "Via S. Giacomo 6 - St. Jakob Straße 6",
+        "name:de": "St. Jakob Straße 6",
         "name:it": "Via S. Giacomo 6",
         "route_ref": "2;4"
       },
@@ -6409,8 +6409,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 6 - St. Jakob Str. 6",
-        "name:de": "St. Jakob Str. 6",
+        "name": "Via S. Giacomo 6 - St. Jakob Straße 6",
+        "name:de": "St. Jakob Straße 6",
         "name:it": "Via S. Giacomo 6",
         "route_ref": "2;4"
       },
@@ -6427,8 +6427,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 4 - St. Jakob Str. 4",
-        "name:de": "St. Jakob Str. 4",
+        "name": "Via S. Giacomo 4 - St. Jakob Straße 4",
+        "name:de": "St. Jakob Straße 4",
         "name:it": "Via S. Giacomo 4",
         "route_ref": "2;4"
       },
@@ -6445,8 +6445,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 4 - St. Jakob Str. 4",
-        "name:de": "St. Jakob Str. 4",
+        "name": "Via S. Giacomo 4 - St. Jakob Straße 4",
+        "name:de": "St. Jakob Straße 4",
         "name:it": "Via S. Giacomo 4",
         "route_ref": "2;4"
       },
@@ -6463,8 +6463,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Maso della Pieve 1 - Pfarrhof Str. 1",
-        "name:de": "Pfarrhof Str. 1",
+        "name": "Via Maso della Pieve 1 - Pfarrhof Straße 1",
+        "name:de": "Pfarrhof Straße 1",
         "name:it": "Via Maso della Pieve 1",
         "route_ref": "2;10A",
         "shelter": "yes"
@@ -6482,8 +6482,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Maso della Pieve 1 - Pfarrhof Str. 1",
-        "name:de": "Pfarrhof Str. 1",
+        "name": "Via Maso della Pieve 1 - Pfarrhof Straße 1",
+        "name:de": "Pfarrhof Straße 1",
         "name:it": "Via Maso della Pieve 1",
         "route_ref": "2;10B",
         "shelter": "yes"
@@ -6539,8 +6539,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 5 - C. Augusta Str. 5",
-        "name:de": "C. Augusta Str. 5",
+        "name": "Via C. Augusta 5 - C. Augusta Straße 5",
+        "name:de": "C. Augusta Straße 5",
         "name:it": "Via C. Augusta 5",
         "route_ref": "2;10A",
         "shelter": "yes"
@@ -6558,8 +6558,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 5 - C. Augusta Str. 5",
-        "name:de": "C. Augusta Str. 5",
+        "name": "Via C. Augusta 5 - C. Augusta Straße 5",
+        "name:de": "C. Augusta Straße 5",
         "name:it": "Via C. Augusta 5",
         "route_ref": "2;10B",
         "shelter": "yes"
@@ -6577,8 +6577,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 4 - C. Augusta Str. 4",
-        "name:de": "C. Augusta Str. 4",
+        "name": "Via C. Augusta 4 - C. Augusta Straße 4",
+        "name:de": "C. Augusta Straße 4",
         "name:it": "Via C. Augusta 4",
         "route_ref": "2;10A",
         "shelter": "yes"
@@ -6596,8 +6596,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 4 - C. Augusta Str. 4",
-        "name:de": "C. Augusta Str. 4",
+        "name": "Via C. Augusta 4 - C. Augusta Straße 4",
+        "name:de": "C. Augusta Straße 4",
         "name:it": "Via C. Augusta 4",
         "route_ref": "2;10B",
         "shelter": "yes"
@@ -6615,8 +6615,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 3 - C. Augusta Str. 3",
-        "name:de": "C. Augusta Str. 3",
+        "name": "Via C. Augusta 3 - C. Augusta Straße 3",
+        "name:de": "C. Augusta Straße 3",
         "name:it": "Via C. Augusta 3",
         "route_ref": "2;10A"
       },
@@ -6633,8 +6633,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via C. Augusta 3 - C. Augusta Str. 3",
-        "name:de": "C. Augusta Str. 3",
+        "name": "Via C. Augusta 3 - C. Augusta Straße 3",
+        "name:de": "C. Augusta Straße 3",
         "name:it": "Via C. Augusta 3",
         "route_ref": "2;10B",
         "shelter": "yes"
@@ -6652,8 +6652,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 4 - Romstr. 4",
-        "name:de": "Romstr. 4",
+        "name": "Via Roma 4 - Romstraße 4",
+        "name:de": "Romstraße 4",
         "name:it": "Via Roma 4",
         "route_ref": "2;7B"
       },
@@ -6670,8 +6670,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 4 - Romstr. 4",
-        "name:de": "Romstr. 4",
+        "name": "Via Roma 4 - Romstraße 4",
+        "name:de": "Romstraße 4",
         "name:it": "Via Roma 4",
         "route_ref": "2;4;7A"
       },
@@ -6688,8 +6688,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 2 - Romstr. 2",
-        "name:de": "Romstr. 2",
+        "name": "Via Roma 2 - Romstraße 2",
+        "name:de": "Romstraße 2",
         "name:it": "Via Roma 2",
         "route_ref": "2;3;4;7B;153",
         "shelter": "yes"
@@ -6707,8 +6707,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 2 - Romstr. 2",
-        "name:de": "Romstr. 2",
+        "name": "Via Roma 2 - Romstraße 2",
+        "name:de": "Romstraße 2",
         "name:it": "Via Roma 2",
         "route_ref": "2;4;7A",
         "shelter": "yes"
@@ -6726,8 +6726,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 1 - Romstr. 1",
-        "name:de": "Romstr. 1",
+        "name": "Via Roma 1 - Romstraße 1",
+        "name:de": "Romstraße 1",
         "name:it": "Via Roma 1",
         "route_ref": "2;3;4;7B;153"
       },
@@ -6744,8 +6744,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roma 1 - Romstr. 1",
-        "name:de": "Romstr. 1",
+        "name": "Via Roma 1 - Romstraße 1",
+        "name:de": "Romstraße 1",
         "name:it": "Via Roma 1",
         "route_ref": "2;3;4;7A;153",
         "shelter": "yes"
@@ -6800,8 +6800,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Corso Liberta` 1 - Freiheitsstr. 1",
-        "name:de": "Freiheitsstr. 1",
+        "name": "Corso Liberta` 1 - Freiheitsstraße 1",
+        "name:de": "Freiheitsstraße 1",
         "name:it": "Corso Liberta` 1",
         "route_ref": "BZ-ME;2;3;5;8;10B;153;NALLES"
       },
@@ -6818,8 +6818,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Corso Liberta` 1 - Freiheitsstr. 1",
-        "name:de": "Freiheitsstr. 1",
+        "name": "Corso Liberta` 1 - Freiheitsstraße 1",
+        "name:de": "Freiheitsstraße 1",
         "name:it": "Corso Liberta` 1",
         "route_ref": "BZ-ME;2;3;5;8;10A;NALLES"
       },
@@ -6874,8 +6874,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Cassa di Risparmio - Sparkassen Str.",
-        "name:de": "Sparkassen Str.",
+        "name": "Via Cassa di Risparmio - Sparkassen Straße",
+        "name:de": "Sparkassen Straße",
         "name:it": "Via Cassa di Risparmio",
         "route_ref": "1;2;3;4;5;7A;8;10A;14;153"
       },
@@ -6983,8 +6983,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Rosmini - Rosmini Str.",
-        "name:de": "Rosmini Str.",
+        "name": "Via Rosmini - Rosmini Straße",
+        "name:de": "Rosmini Straße",
         "name:it": "Via Rosmini",
         "route_ref": "1;2;3;4;5;7B;8;10B;12;14;153"
       },
@@ -7037,8 +7037,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Battisti - Battisti Str.",
-        "name:de": "Battisti Str.",
+        "name": "Via Battisti - Battisti Straße",
+        "name:de": "Battisti Straße",
         "name:it": "Via Battisti",
         "route_ref": "2;3;4;7A;8",
         "shelter": "yes"
@@ -7056,8 +7056,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Battisti - Battisti Str.",
-        "name:de": "Battisti Str.",
+        "name": "Via Battisti - Battisti Straße",
+        "name:de": "Battisti Straße",
         "name:it": "Via Battisti",
         "route_ref": "2;3;4;7B;8;153",
         "shelter": "yes"
@@ -7113,8 +7113,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roen 1 - Roen Str. 1",
-        "name:de": "Roen Str. 1",
+        "name": "Via Roen 1 - Roen Straße 1",
+        "name:de": "Roen Straße 1",
         "name:it": "Via Roen 1",
         "route_ref": "5",
         "shelter": "yes"
@@ -7132,8 +7132,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roen 1 - Roen Str. 1",
-        "name:de": "Roen Str. 1",
+        "name": "Via Roen 1 - Roen Straße 1",
+        "name:de": "Roen Straße 1",
         "name:it": "Via Roen 1",
         "route_ref": "5",
         "shelter": "yes"
@@ -7151,8 +7151,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roen 2 - Roen Str. 2",
-        "name:de": "Roen Str. 2",
+        "name": "Via Roen 2 - Roen Straße 2",
+        "name:de": "Roen Straße 2",
         "name:it": "Via Roen 2",
         "route_ref": "5",
         "shelter": "yes"
@@ -7170,8 +7170,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Roen 2 - Roen Str. 2",
-        "name:de": "Roen Str. 2",
+        "name": "Via Roen 2 - Roen Straße 2",
+        "name:de": "Roen Straße 2",
         "name:it": "Via Roen 2",
         "route_ref": "5",
         "shelter": "yes"
@@ -7189,8 +7189,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Palermo 1 - Palermo Str. 1",
-        "name:de": "Palermo Str. 1",
+        "name": "Via Palermo 1 - Palermo Straße 1",
+        "name:de": "Palermo Straße 1",
         "name:it": "Via Palermo 1",
         "route_ref": "5",
         "shelter": "yes"
@@ -7208,8 +7208,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Palermo 1 - Palermo Str. 1",
-        "name:de": "Palermo Str. 1",
+        "name": "Via Palermo 1 - Palermo Straße 1",
+        "name:de": "Palermo Straße 1",
         "name:it": "Via Palermo 1",
         "route_ref": "5"
       },
@@ -7359,8 +7359,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Gutenberg - Gutenberg Str.",
-        "name:de": "Gutenberg Str.",
+        "name": "Via Gutenberg - Gutenberg Straße",
+        "name:de": "Gutenberg Straße",
         "name:it": "Via Gutenberg",
         "route_ref": "5;153",
         "shelter": "yes"
@@ -7378,8 +7378,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Gutenberg - Gutenberg Str.",
-        "name:de": "Gutenberg Str.",
+        "name": "Via Gutenberg - Gutenberg Straße",
+        "name:de": "Gutenberg Straße",
         "name:it": "Via Gutenberg",
         "route_ref": "5",
         "shelter": "yes"
@@ -7397,8 +7397,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 4 - Mailand Str. 4",
-        "name:de": "Mailand Str. 4",
+        "name": "Via Milano 4 - Mailand Straße 4",
+        "name:de": "Mailand Straße 4",
         "name:it": "Via Milano 4",
         "route_ref": "5;16",
         "shelter": "yes"
@@ -7488,8 +7488,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Siemens 3 - Siemens Str. 3",
-        "name:de": "Siemens Str. 3",
+        "name": "Via Siemens 3 - Siemens Straße 3",
+        "name:de": "Siemens Straße 3",
         "name:it": "Via Siemens 3",
         "route_ref": "6"
       },
@@ -7506,8 +7506,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 3A - Mailandstr. 3A",
-        "name:de": "Mailandstr. 3A",
+        "name": "Via Milano 3A - Mailandstraße 3A",
+        "name:de": "Mailandstraße 3A",
         "name:it": "Via Milano 3A",
         "route_ref": "16"
       },
@@ -7524,8 +7524,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 3A - Mailandstr. 3A",
-        "name:de": "Mailandstr. 3A",
+        "name": "Via Milano 3A - Mailandstraße 3A",
+        "name:de": "Mailandstraße 3A",
         "name:it": "Via Milano 3A",
         "route_ref": "16"
       },
@@ -7542,9 +7542,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. Ausf. MeBo - Via Weingartner usc. MeBo",
-        "name:de": "Weingartnerstr. Ausf. MeBo",
-        "name:it": "Via Weingartner usc. MeBo",
+        "name": "Weingartnerstraße Ausfahrt MeBo - Via Weingartner uscita MeBo",
+        "name:de": "Weingartnerstraße Ausfahrt MeBo",
+        "name:it": "Via Weingartner uscita MeBo",
         "route_ref": "11;12"
       },
       "geometry": {
@@ -7560,9 +7560,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. Ausf. MeBo - Via Weingartner usc. MeBo",
-        "name:de": "Weingartnerstr. Ausf. MeBo",
-        "name:it": "Via Weingartner usc. MeBo",
+        "name": "Weingartnerstraße Ausfahrt MeBo - Via Weingartner uscita MeBo",
+        "name:de": "Weingartnerstraße Ausfahrt MeBo",
+        "name:it": "Via Weingartner uscita MeBo",
         "route_ref": "12"
       },
       "geometry": {
@@ -7578,8 +7578,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sonnenstr. - Via del Sole",
-        "name:de": "Sonnenstr.",
+        "name": "Sonnenstraße - Via del Sole",
+        "name:de": "Sonnenstraße",
         "name:it": "Via del Sole",
         "route_ref": "NALLES"
       },
@@ -7686,8 +7686,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vilpian Campingpl. - Vilpiano Campeggio",
-        "name:de": "Vilpian Campingpl.",
+        "name": "Vilpian Campingplatz - Vilpiano Campeggio",
+        "name:de": "Vilpian Campingplatz",
         "name:it": "Vilpiano Campeggio",
         "route_ref": "BZ-ME"
       },
@@ -7704,8 +7704,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vilpian Campingpl. - Vilpiano Campeggio",
-        "name:de": "Vilpian Campingpl.",
+        "name": "Vilpian Campingplatz - Vilpiano Campeggio",
+        "name:de": "Vilpian Campingplatz",
         "name:it": "Vilpiano Campeggio",
         "route_ref": "BZ-ME"
       },
@@ -7740,8 +7740,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kuenserstr. (Sonngarten) - Via Caines (Sonngarten)",
-        "name:de": "Kuenserstr. (Sonngarten)",
+        "name": "Kuenserstraße (Sonngarten) - Via Caines (Sonngarten)",
+        "name:de": "Kuenserstraße (Sonngarten)",
         "name:it": "Via Caines (Sonngarten)",
         "route_ref": "VERNURIO"
       },
@@ -7758,8 +7758,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Gfeis/Oebersthoefe - Bivio Gaveis/Maso Alto",
-        "name:de": "Abzw. Gfeis/Oebersthoefe",
+        "name": "Abzweigung Gfeis/Oebersthoefe - Bivio Gaveis/Maso Alto",
+        "name:de": "Abzweigung Gfeis/Oebersthoefe",
         "name:it": "Bivio Gaveis/Maso Alto",
         "route_ref": "VERNURIO"
       },
@@ -7776,8 +7776,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Gfeis/Oebersthoefe - Bivio Gaveis/Maso Alto",
-        "name:de": "Abzw. Gfeis/Oebersthoefe",
+        "name": "Abzweigung Gfeis/Oebersthoefe - Bivio Gaveis/Maso Alto",
+        "name:de": "Abzweigung Gfeis/Oebersthoefe",
         "name:it": "Bivio Gaveis/Maso Alto",
         "route_ref": "VERNURIO"
       },
@@ -7812,8 +7812,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 4 - Volta Str. 4",
-        "name:de": "Volta Str. 4",
+        "name": "Via Volta 4 - Volta Straße 4",
+        "name:de": "Volta Straße 4",
         "name:it": "Via Volta 4",
         "route_ref": "6;10B"
       },
@@ -7830,8 +7830,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 4 - Volta Str. 4",
-        "name:de": "Volta Str. 4",
+        "name": "Via Volta 4 - Volta Straße 4",
+        "name:de": "Volta Straße 4",
         "name:it": "Via Volta 4",
         "route_ref": "10A"
       },
@@ -8010,8 +8010,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Andrianerstr. (Huben) - Via Andriano (Huben)",
-        "name:de": "Andrianerstr. (Huben)",
+        "name": "Andrianerstraße (Huben) - Via Andriano (Huben)",
+        "name:de": "Andrianerstraße (Huben)",
         "name:it": "Via Andriano (Huben)",
         "route_ref": "NALLES"
       },
@@ -8028,8 +8028,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Andrianerstr. (Huben) - Via Andriano (Huben)",
-        "name:de": "Andrianerstr. (Huben)",
+        "name": "Andrianerstraße (Huben) - Via Andriano (Huben)",
+        "name:de": "Andrianerstraße (Huben)",
         "name:it": "Via Andriano (Huben)",
         "route_ref": "NALLES"
       },
@@ -8046,8 +8046,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Andrianerstr. (Kaltbrunn) - Via Andriano (Kaltbrunn)",
-        "name:de": "Andrianerstr. (Kaltbrunn)",
+        "name": "Andrianerstraße (Kaltbrunn) - Via Andriano (Kaltbrunn)",
+        "name:de": "Andrianerstraße (Kaltbrunn)",
         "name:it": "Via Andriano (Kaltbrunn)",
         "route_ref": "NALLES"
       },
@@ -8064,8 +8064,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Andrianerstr. (Kaltbrunn) - Via Andriano (Kaltbrunn)",
-        "name:de": "Andrianerstr. (Kaltbrunn)",
+        "name": "Andrianerstraße (Kaltbrunn) - Via Andriano (Kaltbrunn)",
+        "name:de": "Andrianerstraße (Kaltbrunn)",
         "name:it": "Via Andriano (Kaltbrunn)",
         "route_ref": "NALLES"
       },
@@ -8191,8 +8191,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 4 - Kennedy Str. 4",
-        "name:de": "Kennedy Str. 4",
+        "name": "Via Kennedy 4 - Kennedy Straße 4",
+        "name:de": "Kennedy Straße 4",
         "name:it": "Via Kennedy 4",
         "route_ref": "2;4;VAD_LAIV",
         "shelter": "yes"
@@ -8210,8 +8210,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 4 - Kennedy Str. 4",
-        "name:de": "Kennedy Str. 4",
+        "name": "Via Kennedy 4 - Kennedy Straße 4",
+        "name:de": "Kennedy Straße 4",
         "name:it": "Via Kennedy 4",
         "route_ref": "2;VAD_LAIV",
         "shelter": "yes"
@@ -8229,8 +8229,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 3 - Kennedy Str. 3",
-        "name:de": "Kennedy Str. 3",
+        "name": "Via Kennedy 3 - Kennedy Straße 3",
+        "name:de": "Kennedy Straße 3",
         "name:it": "Via Kennedy 3",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -8248,8 +8248,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 3 - Kennedy Str. 3",
-        "name:de": "Kennedy Str. 3",
+        "name": "Via Kennedy 3 - Kennedy Straße 3",
+        "name:de": "Kennedy Straße 3",
         "name:it": "Via Kennedy 3",
         "route_ref": "2"
       },
@@ -8266,8 +8266,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 2 - Kennedy Str. 2",
-        "name:de": "Kennedy Str. 2",
+        "name": "Via Kennedy 2 - Kennedy Straße 2",
+        "name:de": "Kennedy Straße 2",
         "name:it": "Via Kennedy 2",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -8285,8 +8285,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 2 - Kennedy Str. 2",
-        "name:de": "Kennedy Str. 2",
+        "name": "Via Kennedy 2 - Kennedy Straße 2",
+        "name:de": "Kennedy Straße 2",
         "name:it": "Via Kennedy 2",
         "route_ref": "2"
       },
@@ -8303,8 +8303,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 1 - Kennedy Str. 1",
-        "name:de": "Kennedy Str. 1",
+        "name": "Via Kennedy 1 - Kennedy Straße 1",
+        "name:de": "Kennedy Straße 1",
         "name:it": "Via Kennedy 1",
         "route_ref": "2;INT_LAIV;VAD_LAIV"
       },
@@ -8321,8 +8321,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Kennedy 1 - Kennedy Str. 1",
-        "name:de": "Kennedy Str. 1",
+        "name": "Via Kennedy 1 - Kennedy Straße 1",
+        "name:de": "Kennedy Straße 1",
         "name:it": "Via Kennedy 1",
         "route_ref": "2;4;INT_LAIV;VAD_LAIV",
         "shelter": "yes"
@@ -8378,8 +8378,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 5 - St. Jakob Str. 5",
-        "name:de": "St. Jakob Str. 5",
+        "name": "Via S. Giacomo 5 - St. Jakob Straße 5",
+        "name:de": "St. Jakob Straße 5",
         "name:it": "Via S. Giacomo 5",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -8397,8 +8397,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 5 - St. Jakob Str. 5",
-        "name:de": "St. Jakob Str. 5",
+        "name": "Via S. Giacomo 5 - St. Jakob Straße 5",
+        "name:de": "St. Jakob Straße 5",
         "name:it": "Via S. Giacomo 5",
         "route_ref": "2;4"
       },
@@ -8415,8 +8415,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 3 - St. Jakob Str. 3",
-        "name:de": "St. Jakob Str. 3",
+        "name": "Via S. Giacomo 3 - St. Jakob Straße 3",
+        "name:de": "St. Jakob Straße 3",
         "name:it": "Via S. Giacomo 3",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -8434,8 +8434,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 3 - St. Jakob Str. 3",
-        "name:de": "St. Jakob Str. 3",
+        "name": "Via S. Giacomo 3 - St. Jakob Straße 3",
+        "name:de": "St. Jakob Straße 3",
         "name:it": "Via S. Giacomo 3",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -8453,8 +8453,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 1 - St. Jakob Str. 1",
-        "name:de": "St. Jakob Str. 1",
+        "name": "Via S. Giacomo 1 - St. Jakob Straße 1",
+        "name:de": "St. Jakob Straße 1",
         "name:it": "Via S. Giacomo 1",
         "route_ref": "2;4"
       },
@@ -8471,8 +8471,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via S. Giacomo 1 - St. Jakob Str. 1",
-        "name:de": "St. Jakob Str. 1",
+        "name": "Via S. Giacomo 1 - St. Jakob Straße 1",
+        "name:de": "St. Jakob Straße 1",
         "name:it": "Via S. Giacomo 1",
         "route_ref": "2;4"
       },
@@ -8489,8 +8489,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Maso della Pieve 2 - Pfarrhof Str. 2",
-        "name:de": "Pfarrhof Str. 2",
+        "name": "Via Maso della Pieve 2 - Pfarrhof Straße 2",
+        "name:de": "Pfarrhof Straße 2",
         "name:it": "Via Maso della Pieve 2",
         "route_ref": "2;10A",
         "shelter": "yes"
@@ -8508,8 +8508,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Maso della Pieve 2 - Pfarrhof Str. 2",
-        "name:de": "Pfarrhof Str. 2",
+        "name": "Via Maso della Pieve 2 - Pfarrhof Straße 2",
+        "name:de": "Pfarrhof Straße 2",
         "name:it": "Via Maso della Pieve 2",
         "route_ref": "2;10B"
       },
@@ -8564,8 +8564,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Volta 3 - Volta Str. 3",
-        "name:de": "Volta Str. 3",
+        "name": "Via Volta 3 - Volta Straße 3",
+        "name:de": "Volta Straße 3",
         "name:it": "Via Volta 3",
         "route_ref": "2",
         "shelter": "yes"
@@ -8583,8 +8583,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Pacinotti 1 - Pacinotti Str. 1",
-        "name:de": "Pacinotti Str. 1",
+        "name": "Via Pacinotti 1 - Pacinotti Straße 1",
+        "name:de": "Pacinotti Straße 1",
         "name:it": "Via Pacinotti 1",
         "route_ref": "6"
       },
@@ -8601,8 +8601,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Bolzano Autostazione - Bozen AutBhf",
-        "name:de": "Bozen AutBhf",
+        "name": "Bolzano Autostazione - Bozen Busbahnhof",
+        "name:de": "Bozen Busbahnhof",
         "name:it": "Bolzano Autostazione",
         "route_ref": "BZ-ME;NALLES"
       },
@@ -8619,8 +8619,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Valentin Str. 1 - Via S. Valentino 1",
-        "name:de": "St. Valentin Str. 1",
+        "name": "St. Valentin Straße 1 - Via S. Valentino 1",
+        "name:de": "St. Valentin Straße 1",
         "name:it": "Via S. Valentino 1",
         "route_ref": "4;146",
         "shelter": "yes"
@@ -8711,8 +8711,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Marconi 1 - Marconi Str. 1",
-        "name:de": "Marconi Str. 1",
+        "name": "Via Marconi 1 - Marconi Straße 1",
+        "name:de": "Marconi Straße 1",
         "name:it": "Via Marconi 1",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
@@ -8729,8 +8729,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Marconi 2 - Marconi Str. 2",
-        "name:de": "Marconi Str. 2",
+        "name": "Via Marconi 2 - Marconi Straße 2",
+        "name:de": "Marconi Straße 2",
         "name:it": "Via Marconi 2",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
@@ -8747,8 +8747,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Marconi 3 - Marconi Str. 3",
-        "name:de": "Marconi Str. 3",
+        "name": "Via Marconi 3 - Marconi Straße 3",
+        "name:de": "Marconi Straße 3",
         "name:it": "Via Marconi 3",
         "route_ref": "INT_LAIV;VAD_LAIV"
       },
@@ -8765,8 +8765,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Galizia 2 - Galizien Str. 2",
-        "name:de": "Galizien Str. 2",
+        "name": "Via Galizia 2 - Galizien Straße 2",
+        "name:de": "Galizien Straße 2",
         "name:it": "Via Galizia 2",
         "route_ref": "VAD_LAIV"
       },
@@ -8783,8 +8783,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Hofer 1 - Hofer Str. 1",
-        "name:de": "Hofer Str. 1",
+        "name": "Via Hofer 1 - Hofer Straße 1",
+        "name:de": "Hofer Straße 1",
         "name:it": "Via Hofer 1",
         "route_ref": "VAD_LAIV"
       },
@@ -8801,8 +8801,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Pietralba Ipes - Weissensteinerstr. Ipes",
-        "name:de": "Weissensteinerstr. Ipes",
+        "name": "Via Pietralba Ipes - Weissensteinerstraße Ipes",
+        "name:de": "Weissensteinerstraße Ipes",
         "name:it": "Via Pietralba Ipes",
         "route_ref": "VAD_LAIV"
       },
@@ -8855,8 +8855,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Valentin Str. - Via S. Valentino",
-        "name:de": "St. Valentin Str.",
+        "name": "St. Valentin Straße - Via S. Valentino",
+        "name:de": "St. Valentin Straße",
         "name:it": "Via S. Valentino",
         "route_ref": "1"
       },
@@ -8873,8 +8873,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Hirzerstr. - Via Monte Cervinia",
-        "name:de": "Hirzerstr.",
+        "name": "Hirzerstraße - Via Monte Cervinia",
+        "name:de": "Hirzerstraße",
         "name:it": "Via Monte Cervinia",
         "route_ref": "11"
       },
@@ -8891,8 +8891,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Kuenserhof - Bivio Kuenserhof",
-        "name:de": "Abzw. Kuenserhof",
+        "name": "Abzweigung Kuenserhof - Bivio Kuenserhof",
+        "name:de": "Abzweigung Kuenserhof",
         "name:it": "Bivio Kuenserhof",
         "route_ref": "VERNURIO"
       },
@@ -8927,8 +8927,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Nals Vilpianstr. - Nalles via Vilpiano",
-        "name:de": "Nals Vilpianstr.",
+        "name": "Nals Vilpianstraße - Nalles via Vilpiano",
+        "name:de": "Nals Vilpianstraße",
         "name:it": "Nalles via Vilpiano",
         "route_ref": "248;NALLES"
       },
@@ -8945,8 +8945,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Nals Vilpianstr. - Nalles via Vilpiano",
-        "name:de": "Nals Vilpianstr.",
+        "name": "Nals Vilpianstraße - Nalles via Vilpiano",
+        "name:de": "Nals Vilpianstraße",
         "name:it": "Nalles via Vilpiano",
         "route_ref": "248;NALLES"
       },
@@ -9143,8 +9143,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Rotonda Pineta - Kreisvk. Steinmannwald",
-        "name:de": "Kreisvk. Steinmannwald",
+        "name": "Rotonda Pineta - Kreisverkehr Steinmannwald",
+        "name:de": "Kreisverkehr Steinmannwald",
         "name:it": "Rotonda Pineta",
         "route_ref": "2;4",
         "shelter": "yes"
@@ -9162,9 +9162,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Pineta Rotw. 2 - Steinmannwald Rotw. 2",
-        "name:de": "Steinmannwald Rotw. 2",
-        "name:it": "Pineta Rotw. 2",
+        "name": "Pineta Rotwand 2 - Steinmannwald Rotwand 2",
+        "name:de": "Steinmannwald Rotwand 2",
+        "name:it": "Pineta Rotwand 2",
         "route_ref": "INT_LAIV"
       },
       "geometry": {
@@ -9327,8 +9327,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sankt Anna Str. - Via Sant'Anna",
-        "name:de": "Sankt Anna Str.",
+        "name": "Sankt Anna Straße - Via Sant'Anna",
+        "name:de": "Sankt Anna Straße",
         "name:it": "Via Sant'Anna",
         "route_ref": "CITY LA"
       },
@@ -9363,9 +9363,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Hafling Handwerkerz. - Avlengo zona art.",
-        "name:de": "Hafling Handwerkerz.",
-        "name:it": "Avlengo zona art.",
+        "name": "Hafling Handwerkerzone - Avlengo zona artigianale",
+        "name:de": "Hafling Handwerkerzone",
+        "name:it": "Avlengo zona artigianale",
         "route_ref": "ME-AV;NIGHTSH"
       },
       "geometry": {
@@ -9381,9 +9381,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Hafling Handwerkerz. - Avlengo zona art.",
-        "name:de": "Hafling Handwerkerz.",
-        "name:it": "Avlengo zona art.",
+        "name": "Hafling Handwerkerzone - Avlengo zona artigianale",
+        "name:de": "Hafling Handwerkerzone",
+        "name:it": "Avlengo zona artigianale",
         "route_ref": "ME-AV;NIGHTSH"
       },
       "geometry": {
@@ -9399,8 +9399,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Mainhard Str. - Via Mainardo",
-        "name:de": "Mainhard Str.",
+        "name": "Mainhard Straße - Via Mainardo",
+        "name:de": "Mainhard Straße",
         "name:it": "Via Mainardo",
         "route_ref": "3"
       },
@@ -9417,8 +9417,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Manzoni Str. 2 - Via Manzoni 2",
-        "name:de": "Manzoni Str. 2",
+        "name": "Manzoni Straße 2 - Via Manzoni 2",
+        "name:de": "Manzoni Straße 2",
         "name:it": "Via Manzoni 2",
         "route_ref": "6;146"
       },
@@ -9545,8 +9545,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sottomonte - Unterbergstr.",
-        "name:de": "Unterbergstr.",
+        "name": "Via Sottomonte - Unterbergstraße",
+        "name:de": "Unterbergstraße",
         "name:it": "Via Sottomonte",
         "route_ref": "VAD_LAIV"
       },
@@ -9563,8 +9563,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laives via Dante - Leifers Dante Str.",
-        "name:de": "Leifers Dante Str.",
+        "name": "Laives via Dante - Leifers Dante Straße",
+        "name:de": "Leifers Dante Straße",
         "name:it": "Laives via Dante",
         "route_ref": "VAD_LAIV"
       },
@@ -9581,8 +9581,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laives via Dante - Leifers Dante Str.",
-        "name:de": "Leifers Dante Str.",
+        "name": "Laives via Dante - Leifers Dante Straße",
+        "name:de": "Leifers Dante Straße",
         "name:it": "Laives via Dante",
         "route_ref": "VAD_LAIV"
       },
@@ -9599,8 +9599,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Sottomonte - Unterbergstr.",
-        "name:de": "Unterbergstr.",
+        "name": "Via Sottomonte - Unterbergstraße",
+        "name:de": "Unterbergstraße",
         "name:it": "Via Sottomonte",
         "route_ref": "VAD_LAIV"
       },
@@ -9635,8 +9635,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Bronzolo F.S. - Branzoll Bhf",
-        "name:de": "Branzoll Bhf",
+        "name": "Bronzolo F.S. - Branzoll Bahnhof",
+        "name:de": "Branzoll Bahnhof",
         "name:it": "Bronzolo F.S.",
         "route_ref": "VAD_LAIV"
       },
@@ -9671,9 +9671,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 2 - Lana zona Ind.2",
+        "name": "Lana Industriezone 2 - Lana zona industriale2",
         "name:de": "Lana Industriezone 2",
-        "name:it": "Lana zona Ind.2",
+        "name:it": "Lana zona industriale2",
         "route_ref": "14"
       },
       "geometry": {
@@ -9689,9 +9689,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 3 - Lana zona Ind.3",
+        "name": "Lana Industriezone 3 - Lana zona industriale3",
         "name:de": "Lana Industriezone 3",
-        "name:it": "Lana zona Ind.3",
+        "name:it": "Lana zona industriale3",
         "route_ref": "14"
       },
       "geometry": {
@@ -9707,9 +9707,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 1 - Lana zona Ind.1",
+        "name": "Lana Industriezone 1 - Lana zona industriale1",
         "name:de": "Lana Industriezone 1",
-        "name:it": "Lana zona Ind.1",
+        "name:it": "Lana zona industriale1",
         "route_ref": "14"
       },
       "geometry": {
@@ -9725,8 +9725,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Milano 4 - Mailand Str. 4",
-        "name:de": "Mailand Str. 4",
+        "name": "Via Milano 4 - Mailand Straße 4",
+        "name:de": "Mailand Straße 4",
         "name:it": "Via Milano 4",
         "route_ref": "5"
       },
@@ -9779,8 +9779,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Lancia 1 - Lanciastr. 1",
-        "name:de": "Lanciastr. 1",
+        "name": "Via Lancia 1 - Lanciastraße 1",
+        "name:de": "Lanciastraße 1",
         "name:it": "Via Lancia 1",
         "route_ref": "4;6"
       },
@@ -9797,8 +9797,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Lancia 1 - Lanciastr. 1",
-        "name:de": "Lanciastr. 1",
+        "name": "Via Lancia 1 - Lanciastraße 1",
+        "name:de": "Lanciastraße 1",
         "name:it": "Via Lancia 1",
         "route_ref": "4;6",
         "shelter": "yes"
@@ -9816,8 +9816,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Lancia 2 - Lanciastr. 2",
-        "name:de": "Lanciastr. 2",
+        "name": "Via Lancia 2 - Lanciastraße 2",
+        "name:de": "Lanciastraße 2",
         "name:it": "Via Lancia 2",
         "route_ref": "4;6"
       },
@@ -9834,9 +9834,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Braille/staz. Bz Sud - Braille Str./ - Braille Str./Bhf Bz Süd",
-        "name:de": "Braille Str./Bhf Bz Süd",
-        "name:it": "Via Braille/staz. Bz Sud",
+        "name": "Via Braille/stazione Bz Sud - Braille Straße/ - Braille Straße/Bahnhof Bz Süd",
+        "name:de": "Braille Straße/Bahnhof Bz Süd",
+        "name:it": "Via Braille/stazione Bz Sud",
         "route_ref": "6"
       },
       "geometry": {
@@ -9852,8 +9852,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via G. di Vittorio - G. di Vittorio Str.",
-        "name:de": "G. di Vittorio Str.",
+        "name": "Via G. di Vittorio - G. di Vittorio Straße",
+        "name:de": "G. di Vittorio Straße",
         "name:it": "Via G. di Vittorio",
         "route_ref": "6"
       },
@@ -9888,8 +9888,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schwanburgerstr. - Via Schwanburg",
-        "name:de": "Schwanburgerstr.",
+        "name": "Schwanburgerstraße - Via Schwanburg",
+        "name:de": "Schwanburgerstraße",
         "name:it": "Via Schwanburg",
         "route_ref": "NALLES"
       },
@@ -9907,8 +9907,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schwanburgerstr. - Via Schwanburg",
-        "name:de": "Schwanburgerstr.",
+        "name": "Schwanburgerstraße - Via Schwanburg",
+        "name:de": "Schwanburgerstraße",
         "name:it": "Via Schwanburg",
         "route_ref": "NALLES"
       },
@@ -9925,8 +9925,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 11 - Drusus Str. 11",
-        "name:de": "Drusus Str. 11",
+        "name": "Via Druso 11 - Drusus Straße 11",
+        "name:de": "Drusus Straße 11",
         "name:it": "Via Druso 11",
         "route_ref": "BZ-ME;8;9;10A;NALLES",
         "shelter": "yes"
@@ -9944,8 +9944,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Druso 11 - Drusus Str. 11",
-        "name:de": "Drusus Str. 11",
+        "name": "Via Druso 11 - Drusus Straße 11",
+        "name:de": "Drusus Straße 11",
         "name:it": "Via Druso 11",
         "route_ref": "BZ-ME;8;9;10B;NALLES",
         "shelter": "yes"
@@ -9999,8 +9999,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Via Merano - Meranerstr.",
-        "name:de": "Meranerstr.",
+        "name": "Via Merano - Meranerstraße",
+        "name:de": "Meranerstraße",
         "name:it": "Via Merano",
         "route_ref": "8;10A"
       },
@@ -10053,8 +10053,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kapuzinerstr. - Via Cappuccini",
-        "name:de": "Kapuzinerstr.",
+        "name": "Kapuzinerstraße - Via Cappuccini",
+        "name:de": "Kapuzinerstraße",
         "name:it": "Via Cappuccini",
         "route_ref": "CITY LA"
       },
@@ -10071,8 +10071,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Kapuzinerstr. - Via Cappuccini",
-        "name:de": "Kapuzinerstr.",
+        "name": "Kapuzinerstraße - Via Cappuccini",
+        "name:de": "Kapuzinerstraße",
         "name:it": "Via Cappuccini",
         "route_ref": "CITY LA"
       },
@@ -10089,8 +10089,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sinich Reichsstr. - Sinigo via Nazionale",
-        "name:de": "Sinich Reichsstr.",
+        "name": "Sinich Reichsstraße - Sinigo via Nazionale",
+        "name:de": "Sinich Reichsstraße",
         "name:it": "Sinigo via Nazionale",
         "route_ref": "BZ-ME"
       },
@@ -10107,8 +10107,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sinich Reichsstr. - Sinigo via Nazionale",
-        "name:de": "Sinich Reichsstr.",
+        "name": "Sinich Reichsstraße - Sinigo via Nazionale",
+        "name:de": "Sinich Reichsstraße",
         "name:it": "Sinigo via Nazionale",
         "route_ref": "BZ-ME;NIGHTSH"
       },
@@ -10125,8 +10125,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Meranerstr. 1 - Via Merano 1",
-        "name:de": "Meranerstr. 1",
+        "name": "Meranerstraße 1 - Via Merano 1",
+        "name:de": "Meranerstraße 1",
         "name:it": "Via Merano 1",
         "route_ref": "11;14;CITY LA"
       },
@@ -10143,8 +10143,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Meranerstr. 1 - Via Merano 1",
-        "name:de": "Meranerstr. 1",
+        "name": "Meranerstraße 1 - Via Merano 1",
+        "name:de": "Meranerstraße 1",
         "name:it": "Via Merano 1",
         "route_ref": "11;14;NIGHTSH",
         "shelter": "yes"
@@ -10162,8 +10162,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Marlingerstr. 3 - Via Marlengo 3",
-        "name:de": "Marlingerstr. 3",
+        "name": "Marlingerstraße 3 - Via Marlengo 3",
+        "name:de": "Marlingerstraße 3",
         "name:it": "Via Marlengo 3",
         "route_ref": "6"
       },
@@ -10180,8 +10180,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Falzeben - Bivio Falzeben",
-        "name:de": "Abzw. Falzeben",
+        "name": "Abzweigung Falzeben - Bivio Falzeben",
+        "name:de": "Abzweigung Falzeben",
         "name:it": "Bivio Falzeben",
         "route_ref": "ME-AV;NIGHTSH",
         "shelter": "yes"
@@ -10236,8 +10236,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 2 - Via Weingartner 2",
-        "name:de": "Weingartnerstr. 2",
+        "name": "Weingartnerstraße 2 - Via Weingartner 2",
+        "name:de": "Weingartnerstraße 2",
         "name:it": "Via Weingartner 2",
         "route_ref": "11;12;13",
         "shelter": "yes"
@@ -10255,8 +10255,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 2 - Via Weingartner 2",
-        "name:de": "Weingartnerstr. 2",
+        "name": "Weingartnerstraße 2 - Via Weingartner 2",
+        "name:de": "Weingartnerstraße 2",
         "name:it": "Via Weingartner 2",
         "route_ref": "11;12;13;NIGHTSH",
         "shelter": "yes"
@@ -10274,9 +10274,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 3 - Lana zona Ind. 3",
+        "name": "Lana Industriezone 3 - Lana zona industriale 3",
         "name:de": "Lana Industriezone 3",
-        "name:it": "Lana zona Ind. 3",
+        "name:it": "Lana zona industriale 3",
         "route_ref": "14"
       },
       "geometry": {
@@ -10292,9 +10292,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 2 - Lana zona Ind. 2",
+        "name": "Lana Industriezone 2 - Lana zona industriale 2",
         "name:de": "Lana Industriezone 2",
-        "name:it": "Lana zona Ind. 2",
+        "name:it": "Lana zona industriale 2",
         "route_ref": "14"
       },
       "geometry": {
@@ -10310,9 +10310,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Lana Industriezone 1 - Lana zona Ind. 1",
+        "name": "Lana Industriezone 1 - Lana zona industriale 1",
         "name:de": "Lana Industriezone 1",
-        "name:it": "Lana zona Ind. 1",
+        "name:it": "Lana zona industriale 1",
         "route_ref": "14"
       },
       "geometry": {
@@ -10346,8 +10346,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Boznerstr. 1 - Via Bolzano 1",
-        "name:de": "Boznerstr. 1",
+        "name": "Boznerstraße 1 - Via Bolzano 1",
+        "name:de": "Boznerstraße 1",
         "name:it": "Via Bolzano 1",
         "route_ref": "11;CITY LA"
       },
@@ -10364,8 +10364,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Boznerstr. 2 - Via Bolzano 2",
-        "name:de": "Boznerstr. 2",
+        "name": "Boznerstraße 2 - Via Bolzano 2",
+        "name:de": "Boznerstraße 2",
         "name:it": "Via Bolzano 2",
         "route_ref": "BZ-ME;11;CITY LA"
       },
@@ -10382,8 +10382,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Hirzerstr. - Via Monte Cervina",
-        "name:de": "Hirzerstr.",
+        "name": "Hirzerstraße - Via Monte Cervina",
+        "name:de": "Hirzerstraße",
         "name:it": "Via Monte Cervina",
         "route_ref": "11"
       },
@@ -10400,8 +10400,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schafferstr. 1 - Via Schaffer 1",
-        "name:de": "Schafferstr. 1",
+        "name": "Schafferstraße 1 - Via Schaffer 1",
+        "name:de": "Schafferstraße 1",
         "name:it": "Via Schaffer 1",
         "route_ref": "4;146"
       },
@@ -10418,8 +10418,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laurin Str. 2 - Via Laurin 2",
-        "name:de": "Laurin Str. 2",
+        "name": "Laurin Straße 2 - Via Laurin 2",
+        "name:de": "Laurin Straße 2",
         "name:it": "Via Laurin 2",
         "route_ref": "2;3;11"
       },
@@ -10436,8 +10436,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zueggstr. 2 - Via Zuegg 2",
-        "name:de": "Zueggstr. 2",
+        "name": "Zueggstraße 2 - Via Zuegg 2",
+        "name:de": "Zueggstraße 2",
         "name:it": "Via Zuegg 2",
         "route_ref": "6;146",
         "shelter": "yes"
@@ -10455,8 +10455,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vergil Str. 1 - Via Virgilio 1",
-        "name:de": "Vergil Str. 1",
+        "name": "Vergil Straße 1 - Via Virgilio 1",
+        "name:de": "Vergil Straße 1",
         "name:it": "Via Virgilio 1",
         "route_ref": "3;146"
       },
@@ -10474,8 +10474,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 1 - Via Scena 1",
-        "name:de": "Schennastr. 1",
+        "name": "Schennastraße 1 - Via Scena 1",
+        "name:de": "Schennastraße 1",
         "name:it": "Via Scena 1",
         "route_ref": "1;146;NIGHTSH"
       },
@@ -10492,8 +10492,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 2 - Via Piave 2",
-        "name:de": "Piavestr. 2",
+        "name": "Piavestraße 2 - Via Piave 2",
+        "name:de": "Piavestraße 2",
         "name:it": "Via Piave 2",
         "route_ref": "6;146;11;12"
       },
@@ -10510,8 +10510,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 2 - Via Piave 2",
-        "name:de": "Piavestr. 2",
+        "name": "Piavestraße 2 - Via Piave 2",
+        "name:de": "Piavestraße 2",
         "name:it": "Via Piave 2",
         "route_ref": "11;12;14"
       },
@@ -10564,8 +10564,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 4 - Via Roma 4",
-        "name:de": "Romstr. 4",
+        "name": "Romstraße 4 - Via Roma 4",
+        "name:de": "Romstraße 4",
         "name:it": "Via Roma 4",
         "route_ref": "2;NIGHTSH"
       },
@@ -10600,8 +10600,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cadorna Str. 2 - Via Cadorna 2",
-        "name:de": "Cadorna Str. 2",
+        "name": "Cadorna Straße 2 - Via Cadorna 2",
+        "name:de": "Cadorna Straße 2",
         "name:it": "Via Cadorna 2",
         "route_ref": "12"
       },
@@ -10618,8 +10618,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cadorna Str. 2 - Via Cadorna 2",
-        "name:de": "Cadorna Str. 2",
+        "name": "Cadorna Straße 2 - Via Cadorna 2",
+        "name:de": "Cadorna Straße 2",
         "name:it": "Via Cadorna 2",
         "route_ref": "12"
       },
@@ -10636,8 +10636,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cadorna Str. 1 - Via Cadorna 1",
-        "name:de": "Cadorna Str. 1",
+        "name": "Cadorna Straße 1 - Via Cadorna 1",
+        "name:de": "Cadorna Straße 1",
         "name:it": "Via Cadorna 1",
         "route_ref": "12",
         "shelter": "yes"
@@ -10655,8 +10655,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cadorna Str. 1 - Via Cadorna 1",
-        "name:de": "Cadorna Str. 1",
+        "name": "Cadorna Straße 1 - Via Cadorna 1",
+        "name:de": "Cadorna Straße 1",
         "name:it": "Via Cadorna 1",
         "route_ref": "12"
       },
@@ -10804,8 +10804,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Max Valier Str. 1 - Via Max Valier 1",
-        "name:de": "Max Valier Str. 1",
+        "name": "Max Valier Straße 1 - Via Max Valier 1",
+        "name:de": "Max Valier Straße 1",
         "name:it": "Via Max Valier 1",
         "route_ref": "12"
       },
@@ -10822,8 +10822,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Max Valier Str. 1 - Via Max Valier 1",
-        "name:de": "Max Valier Str. 1",
+        "name": "Max Valier Straße 1 - Via Max Valier 1",
+        "name:de": "Max Valier Straße 1",
         "name:it": "Via Max Valier 1",
         "route_ref": "12"
       },
@@ -10840,8 +10840,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Max Valier Str. 2 - Via Max Valier 2",
-        "name:de": "Max Valier Str. 2",
+        "name": "Max Valier Straße 2 - Via Max Valier 2",
+        "name:de": "Max Valier Straße 2",
         "name:it": "Via Max Valier 2",
         "route_ref": "12"
       },
@@ -10858,8 +10858,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Max Valier Str. 2 - Via Max Valier 2",
-        "name:de": "Max Valier Str. 2",
+        "name": "Max Valier Straße 2 - Via Max Valier 2",
+        "name:de": "Max Valier Straße 2",
         "name:it": "Via Max Valier 2",
         "route_ref": "12"
       },
@@ -11006,9 +11006,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sinich HW Zone - Sinigo Zona Artig.",
-        "name:de": "Sinich HW Zone",
-        "name:it": "Sinigo Zona Artig.",
+        "name": "Sinich Handwerkerzone - Sinigo Zona Artigianale",
+        "name:de": "Sinich Handwerkerzone",
+        "name:it": "Sinigo Zona Artigianale",
         "route_ref": "2;14"
       },
       "geometry": {
@@ -11024,9 +11024,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Sinich HW Zone - Sinigo Zona Artig.",
-        "name:de": "Sinich HW Zone",
-        "name:it": "Sinigo Zona Artig.",
+        "name": "Sinich Handwerkerzone - Sinigo Zona Artigianale",
+        "name:de": "Sinich Handwerkerzone",
+        "name:it": "Sinigo Zona Artigianale",
         "route_ref": "2"
       },
       "geometry": {
@@ -11043,8 +11043,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Dante Str. 3 - Via Dante 3",
-        "name:de": "Dante Str. 3",
+        "name": "Dante Straße 3 - Via Dante 3",
+        "name:de": "Dante Straße 3",
         "name:it": "Via Dante 3",
         "route_ref": "4;146"
       },
@@ -11062,8 +11062,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Dante Str. 2 - Via Dante 2",
-        "name:de": "Dante Str. 2",
+        "name": "Dante Straße 2 - Via Dante 2",
+        "name:de": "Dante Straße 2",
         "name:it": "Via Dante 2",
         "route_ref": "4;146"
       },
@@ -11081,8 +11081,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Dante Str. 1 - Via Dante 1",
-        "name:de": "Dante Str. 1",
+        "name": "Dante Straße 1 - Via Dante 1",
+        "name:de": "Dante Straße 1",
         "name:it": "Via Dante 1",
         "route_ref": "4;146"
       },
@@ -11099,8 +11099,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schafferstr. 2 - Via Schaffer 2",
-        "name:de": "Schafferstr. 2",
+        "name": "Schafferstraße 2 - Via Schaffer 2",
+        "name:de": "Schafferstraße 2",
         "name:it": "Via Schaffer 2",
         "route_ref": "4;146"
       },
@@ -11173,8 +11173,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Mainhard Str. - Via Mainardo",
-        "name:de": "Mainhard Str.",
+        "name": "Mainhard Straße - Via Mainardo",
+        "name:de": "Mainhard Straße",
         "name:it": "Via Mainardo",
         "route_ref": "2;3"
       },
@@ -11191,8 +11191,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laurin Str. 1 - Via Laurin 1",
-        "name:de": "Laurin Str. 1",
+        "name": "Laurin Straße 1 - Via Laurin 1",
+        "name:de": "Laurin Straße 1",
         "name:it": "Via Laurin 1",
         "route_ref": "2;3"
       },
@@ -11209,8 +11209,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laurin Str. 1 - Via Laurin 1",
-        "name:de": "Laurin Str. 1",
+        "name": "Laurin Straße 1 - Via Laurin 1",
+        "name:de": "Laurin Straße 1",
         "name:it": "Via Laurin 1",
         "route_ref": "3;6;146;12;14"
       },
@@ -11227,8 +11227,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 3 - Via Scena 3",
-        "name:de": "Schennastr. 3",
+        "name": "Schennastraße 3 - Via Scena 3",
+        "name:de": "Schennastraße 3",
         "name:it": "Via Scena 3",
         "route_ref": "1;NIGHTSH"
       },
@@ -11300,8 +11300,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 1 - Via Aslago 1",
-        "name:de": "Haslachstr. 1",
+        "name": "Haslachstraße 1 - Via Aslago 1",
+        "name:de": "Haslachstraße 1",
         "name:it": "Via Aslago 1",
         "route_ref": "CROCE T"
       },
@@ -11319,8 +11319,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 1 - Via Aslago 1",
-        "name:de": "Haslachstr. 1",
+        "name": "Haslachstraße 1 - Via Aslago 1",
+        "name:de": "Haslachstraße 1",
         "name:it": "Via Aslago 1",
         "route_ref": "CROCE T"
       },
@@ -11337,8 +11337,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 2 - Via Aslago 2",
-        "name:de": "Haslachstr. 2",
+        "name": "Haslachstraße 2 - Via Aslago 2",
+        "name:de": "Haslachstraße 2",
         "name:it": "Via Aslago 2",
         "route_ref": "CROCE T"
       },
@@ -11375,8 +11375,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 3 - Via Aslago 3",
-        "name:de": "Haslachstr. 3",
+        "name": "Haslachstraße 3 - Via Aslago 3",
+        "name:de": "Haslachstraße 3",
         "name:it": "Via Aslago 3",
         "route_ref": "CROCE T"
       },
@@ -11394,8 +11394,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Haslachstr. 4 - Via Aslago 4",
-        "name:de": "Haslachstr. 4",
+        "name": "Haslachstraße 4 - Via Aslago 4",
+        "name:de": "Haslachstraße 4",
         "name:it": "Via Aslago 4",
         "route_ref": "CROCE T"
       },
@@ -11636,8 +11636,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Petrarca Str. - Via Petrarca",
-        "name:de": "Petrarca Str.",
+        "name": "Petrarca Straße - Via Petrarca",
+        "name:de": "Petrarca Straße",
         "name:it": "Via Petrarca",
         "route_ref": "2"
       },
@@ -11654,8 +11654,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 1 - Via Roma 1",
-        "name:de": "Romstr. 1",
+        "name": "Romstraße 1 - Via Roma 1",
+        "name:de": "Romstraße 1",
         "name:it": "Via Roma 1",
         "route_ref": "2",
         "shelter": "yes"
@@ -11674,8 +11674,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 2 - Via Roma 2",
-        "name:de": "Romstr. 2",
+        "name": "Romstraße 2 - Via Roma 2",
+        "name:de": "Romstraße 2",
         "name:it": "Via Roma 2",
         "route_ref": "2"
       },
@@ -11693,8 +11693,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 2 - Via Roma 2",
-        "name:de": "Romstr. 2",
+        "name": "Romstraße 2 - Via Roma 2",
+        "name:de": "Romstraße 2",
         "name:it": "Via Roma 2",
         "route_ref": "2"
       },
@@ -11711,8 +11711,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 3 - Via Roma 3",
-        "name:de": "Romstr. 3",
+        "name": "Romstraße 3 - Via Roma 3",
+        "name:de": "Romstraße 3",
         "name:it": "Via Roma 3",
         "route_ref": "BZ-ME;2;NIGHTSH",
         "shelter": "yes"
@@ -11730,8 +11730,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 3 - Via Roma 3",
-        "name:de": "Romstr. 3",
+        "name": "Romstraße 3 - Via Roma 3",
+        "name:de": "Romstraße 3",
         "name:it": "Via Roma 3",
         "route_ref": "BZ-ME;2",
         "shelter": "yes"
@@ -11749,8 +11749,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 4 - Via Roma 4",
-        "name:de": "Romstr. 4",
+        "name": "Romstraße 4 - Via Roma 4",
+        "name:de": "Romstraße 4",
         "name:it": "Via Roma 4",
         "route_ref": "2",
         "shelter": "yes"
@@ -11768,8 +11768,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 5 - Via Roma 5",
-        "name:de": "Romstr. 5",
+        "name": "Romstraße 5 - Via Roma 5",
+        "name:de": "Romstraße 5",
         "name:it": "Via Roma 5",
         "route_ref": "2;NIGHTSH"
       },
@@ -11787,8 +11787,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 5 - Via Roma 5",
-        "name:de": "Romstr. 5",
+        "name": "Romstraße 5 - Via Roma 5",
+        "name:de": "Romstraße 5",
         "name:it": "Via Roma 5",
         "route_ref": "2"
       },
@@ -11805,8 +11805,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 6 - Via Roma 6",
-        "name:de": "Romstr. 6",
+        "name": "Romstraße 6 - Via Roma 6",
+        "name:de": "Romstraße 6",
         "name:it": "Via Roma 6",
         "route_ref": "BZ-ME;2;NIGHTSH",
         "shelter": "yes"
@@ -11824,8 +11824,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 6 - Via Roma 6",
-        "name:de": "Romstr. 6",
+        "name": "Romstraße 6 - Via Roma 6",
+        "name:de": "Romstraße 6",
         "name:it": "Via Roma 6",
         "route_ref": "BZ-ME;2"
       },
@@ -11843,8 +11843,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 7 - Via Roma 7",
-        "name:de": "Romstr. 7",
+        "name": "Romstraße 7 - Via Roma 7",
+        "name:de": "Romstraße 7",
         "name:it": "Via Roma 7",
         "route_ref": "2"
       },
@@ -11861,8 +11861,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 7 - Via Roma 7",
-        "name:de": "Romstr. 7",
+        "name": "Romstraße 7 - Via Roma 7",
+        "name:de": "Romstraße 7",
         "name:it": "Via Roma 7",
         "route_ref": "2;NIGHTSH"
       },
@@ -11879,8 +11879,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 8 - Via Roma 8",
-        "name:de": "Romstr. 8",
+        "name": "Romstraße 8 - Via Roma 8",
+        "name:de": "Romstraße 8",
         "name:it": "Via Roma 8",
         "route_ref": "2;NIGHTSH"
       },
@@ -11897,8 +11897,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Romstr. 8 - Via Roma 8",
-        "name:de": "Romstr. 8",
+        "name": "Romstraße 8 - Via Roma 8",
+        "name:de": "Romstraße 8",
         "name:it": "Via Roma 8",
         "route_ref": "2"
       },
@@ -12175,8 +12175,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Katzensteinstr. 1 - Via Castel Gatto 1",
-        "name:de": "Katzensteinstr. 1",
+        "name": "Katzensteinstraße 1 - Via Castel Gatto 1",
+        "name:de": "Katzensteinstraße 1",
         "name:it": "Via Castel Gatto 1",
         "route_ref": "4"
       },
@@ -12193,8 +12193,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Katzensteinstr. 2 - Via Castel Gatto 2",
-        "name:de": "Katzensteinstr. 2",
+        "name": "Katzensteinstraße 2 - Via Castel Gatto 2",
+        "name:de": "Katzensteinstraße 2",
         "name:it": "Via Castel Gatto 2",
         "route_ref": "4",
         "shelter": "yes"
@@ -12433,8 +12433,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Parkpl. Nussser - Parcheggio Nusser",
-        "name:de": "Parkpl. Nussser",
+        "name": "Parkplatz Nussser - Parcheggio Nusser",
+        "name:de": "Parkplatz Nussser",
         "name:it": "Parcheggio Nusser",
         "route_ref": "ME-AV"
       },
@@ -12451,8 +12451,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Parkpl. Nussser - Parcheggio Nusser",
-        "name:de": "Parkpl. Nussser",
+        "name": "Parkplatz Nussser - Parcheggio Nusser",
+        "name:de": "Parkplatz Nussser",
         "name:it": "Parcheggio Nusser",
         "route_ref": "ME-AV"
       },
@@ -12525,8 +12525,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laberserstr. 1 - Via Labers 1",
-        "name:de": "Laberserstr. 1",
+        "name": "Laberserstraße 1 - Via Labers 1",
+        "name:de": "Laberserstraße 1",
         "name:it": "Via Labers 1",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -12543,8 +12543,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laberserstr. 1 - Via Labers 1",
-        "name:de": "Laberserstr. 1",
+        "name": "Laberserstraße 1 - Via Labers 1",
+        "name:de": "Laberserstraße 1",
         "name:it": "Via Labers 1",
         "route_ref": "ME-AV;NIGHTSH"
       },
@@ -12707,8 +12707,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 3 - Via Scena 3",
-        "name:de": "Schennastr. 3",
+        "name": "Schennastraße 3 - Via Scena 3",
+        "name:de": "Schennastraße 3",
         "name:it": "Via Scena 3",
         "route_ref": "1;146;ME-AV;NIGHTSH",
         "shelter": "yes"
@@ -12726,8 +12726,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 2 - Via Scena 2",
-        "name:de": "Schennastr. 2",
+        "name": "Schennastraße 2 - Via Scena 2",
+        "name:de": "Schennastraße 2",
         "name:it": "Via Scena 2",
         "route_ref": "1;146;NIGHTSH",
         "shelter": "yes"
@@ -12745,8 +12745,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 2 - Via Scena 2",
-        "name:de": "Schennastr. 2",
+        "name": "Schennastraße 2 - Via Scena 2",
+        "name:de": "Schennastraße 2",
         "name:it": "Via Scena 2",
         "route_ref": "1;NIGHTSH"
       },
@@ -12763,8 +12763,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schennastr. 1 - Via Scena 1",
-        "name:de": "Schennastr. 1",
+        "name": "Schennastraße 1 - Via Scena 1",
+        "name:de": "Schennastraße 1",
         "name:it": "Via Scena 1",
         "route_ref": "1;NIGHTSH"
       },
@@ -12781,8 +12781,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vergil Str. 2 - Via Virgilio 2",
-        "name:de": "Vergil Str. 2",
+        "name": "Vergil Straße 2 - Via Virgilio 2",
+        "name:de": "Vergil Straße 2",
         "name:it": "Via Virgilio 2",
         "route_ref": "3;146",
         "shelter": "yes"
@@ -12800,8 +12800,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vergil Str. 2 NON ESISTE PIU - Via Virgilio 2",
-        "name:de": "Vergil Str. 2 NON ESISTE PIU",
+        "name": "Vergil Straße 2 NON ESISTE PIU - Via Virgilio 2",
+        "name:de": "Vergil Straße 2 NON ESISTE PIU",
         "name:it": "Via Virgilio 2",
         "route_ref": "146"
       },
@@ -12819,8 +12819,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Vergil Str. 1 - Via Virgilio 1",
-        "name:de": "Vergil Str. 1",
+        "name": "Vergil Straße 1 - Via Virgilio 1",
+        "name:de": "Vergil Straße 1",
         "name:it": "Via Virgilio 1",
         "route_ref": "3;146"
       },
@@ -12895,8 +12895,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 4 - Via Cavour 4",
-        "name:de": "Cavour Str. 4",
+        "name": "Cavour Straße 4 - Via Cavour 4",
+        "name:de": "Cavour Straße 4",
         "name:it": "Via Cavour 4",
         "route_ref": "1;3;146;NIGHTSH"
       },
@@ -12913,8 +12913,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 4 - Via Cavour 4",
-        "name:de": "Cavour Str. 4",
+        "name": "Cavour Straße 4 - Via Cavour 4",
+        "name:de": "Cavour Straße 4",
         "name:it": "Via Cavour 4",
         "route_ref": "1;3;NIGHTSH"
       },
@@ -12931,8 +12931,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 3 - Via Cavour 3",
-        "name:de": "Cavour Str. 3",
+        "name": "Cavour Straße 3 - Via Cavour 3",
+        "name:de": "Cavour Straße 3",
         "name:it": "Via Cavour 3",
         "route_ref": "1;3;146;ME-AV;NIGHTSH"
       },
@@ -12950,8 +12950,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 3 - Via Cavour 3",
-        "name:de": "Cavour Str. 3",
+        "name": "Cavour Straße 3 - Via Cavour 3",
+        "name:de": "Cavour Straße 3",
         "name:it": "Via Cavour 3",
         "route_ref": "1;3;ME-AV;NIGHTSH"
       },
@@ -12968,8 +12968,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 2 - Via Cavour 2",
-        "name:de": "Cavour Str. 2",
+        "name": "Cavour Straße 2 - Via Cavour 2",
+        "name:de": "Cavour Straße 2",
         "name:it": "Via Cavour 2",
         "route_ref": "1;3;146;NIGHTSH"
       },
@@ -12986,8 +12986,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 2 - Via Cavour 2",
-        "name:de": "Cavour Str. 2",
+        "name": "Cavour Straße 2 - Via Cavour 2",
+        "name:de": "Cavour Straße 2",
         "name:it": "Via Cavour 2",
         "route_ref": "1;3;NIGHTSH"
       },
@@ -13004,8 +13004,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 1 - Via Cavour 1",
-        "name:de": "Cavour Str. 1",
+        "name": "Cavour Straße 1 - Via Cavour 1",
+        "name:de": "Cavour Straße 1",
         "name:it": "Via Cavour 1",
         "route_ref": "1;3;TIROLO;ME-AV;NIGHTSH",
         "shelter": "yes"
@@ -13024,8 +13024,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Cavour Str. 1 - Via Cavour 1",
-        "name:de": "Cavour Str. 1",
+        "name": "Cavour Straße 1 - Via Cavour 1",
+        "name:de": "Cavour Straße 1",
         "name:it": "Via Cavour 1",
         "route_ref": "1;3;4;146;TIROLO;ME-AV;NIGHTSH"
       },
@@ -13043,8 +13043,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 1 - Corso Liberta' 1",
-        "name:de": "Freiheitsstr. 1",
+        "name": "Freiheitsstraße 1 - Corso Liberta' 1",
+        "name:de": "Freiheitsstraße 1",
         "name:it": "Corso Liberta' 1",
         "route_ref": "1;2;3;4;146"
       },
@@ -13062,8 +13062,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 1 - Corso Liberta' 1",
-        "name:de": "Freiheitsstr. 1",
+        "name": "Freiheitsstraße 1 - Corso Liberta' 1",
+        "name:de": "Freiheitsstraße 1",
         "name:it": "Corso Liberta' 1",
         "route_ref": "1;3;4;146;NIGHTSH"
       },
@@ -13081,8 +13081,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 2 - Corso Liberta` 2",
-        "name:de": "Freiheitsstr. 2",
+        "name": "Freiheitsstraße 2 - Corso Liberta` 2",
+        "name:de": "Freiheitsstraße 2",
         "name:it": "Corso Liberta` 2",
         "route_ref": "1;2;3;4;146"
       },
@@ -13100,8 +13100,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 2 - Corso Liberta` 2",
-        "name:de": "Freiheitsstr. 2",
+        "name": "Freiheitsstraße 2 - Corso Liberta` 2",
+        "name:de": "Freiheitsstraße 2",
         "name:it": "Corso Liberta` 2",
         "route_ref": "1;3;4;146;NIGHTSH"
       },
@@ -13118,8 +13118,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Laurin Str. 2 - Via Laurin 2",
-        "name:de": "Laurin Str. 2",
+        "name": "Laurin Straße 2 - Via Laurin 2",
+        "name:de": "Laurin Straße 2",
         "name:it": "Via Laurin 2",
         "route_ref": "BZ-ME;3;146;11;12;14",
         "shelter": "yes"
@@ -13138,8 +13138,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "A. Hofer Str. 2 - Via A. Hofer 2",
-        "name:de": "A. Hofer Str. 2",
+        "name": "A. Hofer Straße 2 - Via A. Hofer 2",
+        "name:de": "A. Hofer Straße 2",
         "name:it": "Via A. Hofer 2",
         "route_ref": "BZ-ME;2;4;146;11;12;13;TIROLO;ME-AV"
       },
@@ -13156,8 +13156,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Hofer Str. 2 - Via Hofer 2",
-        "name:de": "Hofer Str. 2",
+        "name": "Hofer Straße 2 - Via Hofer 2",
+        "name:de": "Hofer Straße 2",
         "name:it": "Via Hofer 2",
         "route_ref": "4;11;12;TIROLO;ME-AV;NIGHTSH",
         "shelter": "yes"
@@ -13176,8 +13176,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Bahnhof Hofer Str. - Stazione via Hofer",
-        "name:de": "Bahnhof Hofer Str.",
+        "name": "Bahnhof Hofer Straße - Stazione via Hofer",
+        "name:de": "Bahnhof Hofer Straße",
         "name:it": "Stazione via Hofer",
         "route_ref": "1;4;6;146;11;12;14"
       },
@@ -13194,8 +13194,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Dante Str. 5 - Via Dante 5",
-        "name:de": "Dante Str. 5",
+        "name": "Dante Straße 5 - Via Dante 5",
+        "name:de": "Dante Straße 5",
         "name:it": "Via Dante 5",
         "route_ref": "4"
       },
@@ -13213,8 +13213,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Dante Str. 4 - Via Dante 4",
-        "name:de": "Dante Str. 4",
+        "name": "Dante Straße 4 - Via Dante 4",
+        "name:de": "Dante Straße 4",
         "name:it": "Via Dante 4",
         "route_ref": "4;146"
       },
@@ -13324,8 +13324,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Grabmayr Str. - Via Grabmayr",
-        "name:de": "Grabmayr Str.",
+        "name": "Grabmayr Straße - Via Grabmayr",
+        "name:de": "Grabmayr Straße",
         "name:it": "Via Grabmayr",
         "route_ref": "4;146"
       },
@@ -13343,8 +13343,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Innerhofer Str. - Via Innerhofer",
-        "name:de": "Innerhofer Str.",
+        "name": "Innerhofer Straße - Via Innerhofer",
+        "name:de": "Innerhofer Straße",
         "name:it": "Via Innerhofer",
         "route_ref": "4;146"
       },
@@ -13362,8 +13362,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Manzoni Str. 1 - Via Manzoni 1",
-        "name:de": "Manzoni Str. 1",
+        "name": "Manzoni Straße 1 - Via Manzoni 1",
+        "name:de": "Manzoni Straße 1",
         "name:it": "Via Manzoni 1",
         "route_ref": "6;146"
       },
@@ -13380,8 +13380,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Marlingerstr. 2 - Via Marlengo 2",
-        "name:de": "Marlingerstr. 2",
+        "name": "Marlingerstraße 2 - Via Marlengo 2",
+        "name:de": "Marlingerstraße 2",
         "name:it": "Via Marlengo 2",
         "route_ref": "6;146",
         "shelter": "yes"
@@ -13399,8 +13399,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Marlingerstr. 1 - Via Marlengo 1",
-        "name:de": "Marlingerstr. 1",
+        "name": "Marlingerstraße 1 - Via Marlengo 1",
+        "name:de": "Marlingerstraße 1",
         "name:it": "Via Marlengo 1",
         "route_ref": "6;146",
         "shelter": "yes"
@@ -13419,8 +13419,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zuegg Str. 1 - Via Zuegg 1",
-        "name:de": "Zuegg Str. 1",
+        "name": "Zuegg Straße 1 - Via Zuegg 1",
+        "name:de": "Zuegg Straße 1",
         "name:it": "Via Zuegg 1",
         "route_ref": "6;146"
       },
@@ -13437,8 +13437,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Wolkenstein Str. - Via Wolkenstein",
-        "name:de": "Wolkenstein Str.",
+        "name": "Wolkenstein Straße - Via Wolkenstein",
+        "name:de": "Wolkenstein Straße",
         "name:it": "Via Wolkenstein",
         "route_ref": "6;146"
       },
@@ -13455,8 +13455,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Enrico Toti Str. 2 - Via Enrico Toti 2",
-        "name:de": "Enrico Toti Str. 2",
+        "name": "Enrico Toti Straße 2 - Via Enrico Toti 2",
+        "name:de": "Enrico Toti Straße 2",
         "name:it": "Via Enrico Toti 2",
         "route_ref": "6;146",
         "shelter": "yes"
@@ -13474,8 +13474,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Enrico Toti Str. 1 - Via Enrico Toti 1",
-        "name:de": "Enrico Toti Str. 1",
+        "name": "Enrico Toti Straße 1 - Via Enrico Toti 1",
+        "name:de": "Enrico Toti Straße 1",
         "name:it": "Via Enrico Toti 1",
         "route_ref": "6;146"
       },
@@ -13493,8 +13493,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 1 - Via Karl Wolf 1",
-        "name:de": "Karl Wolf Str. 1",
+        "name": "Karl Wolf Straße 1 - Via Karl Wolf 1",
+        "name:de": "Karl Wolf Straße 1",
         "name:it": "Via Karl Wolf 1",
         "route_ref": "2;3"
       },
@@ -13512,8 +13512,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 1 - Via Karl Wolf 1",
-        "name:de": "Karl Wolf Str. 1",
+        "name": "Karl Wolf Straße 1 - Via Karl Wolf 1",
+        "name:de": "Karl Wolf Straße 1",
         "name:it": "Via Karl Wolf 1",
         "route_ref": "3;6;12"
       },
@@ -13550,8 +13550,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Franziskus Str. - Via San Francesco",
-        "name:de": "St. Franziskus Str.",
+        "name": "St. Franziskus Straße - Via San Francesco",
+        "name:de": "St. Franziskus Straße",
         "name:it": "Via San Francesco",
         "route_ref": "4;6;11"
       },
@@ -13568,8 +13568,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 3 - Corso Liberta' 3",
-        "name:de": "Freiheitsstr. 3",
+        "name": "Freiheitsstraße 3 - Corso Liberta' 3",
+        "name:de": "Freiheitsstraße 3",
         "name:it": "Corso Liberta' 3",
         "route_ref": "1;2;4;6;NIGHTSH",
         "shelter": "yes"
@@ -13587,8 +13587,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 3 - Corso Liberta' 3",
-        "name:de": "Freiheitsstr. 3",
+        "name": "Freiheitsstraße 3 - Corso Liberta' 3",
+        "name:de": "Freiheitsstraße 3",
         "name:it": "Corso Liberta' 3",
         "route_ref": "1;2;4;6;146;NIGHTSH"
       },
@@ -13605,8 +13605,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 4 - Corso Liberta' 4",
-        "name:de": "Freiheitsstr. 4",
+        "name": "Freiheitsstraße 4 - Corso Liberta' 4",
+        "name:de": "Freiheitsstraße 4",
         "name:it": "Corso Liberta' 4",
         "route_ref": "1;2;4;6;11;12;13;14;NIGHTSH",
         "shelter": "yes"
@@ -13624,8 +13624,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Freiheitsstr. 4 - Corso Liberta' 4",
-        "name:de": "Freiheitsstr. 4",
+        "name": "Freiheitsstraße 4 - Corso Liberta' 4",
+        "name:de": "Freiheitsstraße 4",
         "name:it": "Corso Liberta' 4",
         "route_ref": "1;2;4;6;146;13;NIGHTSH",
         "shelter": "yes"
@@ -13644,8 +13644,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "4. Novemberstr. - Via IV Novembre",
-        "name:de": "4. Novemberstr.",
+        "name": "4. Novemberstraße - Via IV Novembre",
+        "name:de": "4. Novemberstraße",
         "name:it": "Via IV Novembre",
         "route_ref": "1;146"
       },
@@ -13662,8 +13662,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "4. Novemberstr. - Via IV Novembre",
-        "name:de": "4. Novemberstr.",
+        "name": "4. Novemberstraße - Via IV Novembre",
+        "name:de": "4. Novemberstraße",
         "name:it": "Via IV Novembre",
         "route_ref": "1;146"
       },
@@ -13680,8 +13680,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Josef Str. 1 - Via San Giuseppe 1",
-        "name:de": "St. Josef Str. 1",
+        "name": "St. Josef Straße 1 - Via San Giuseppe 1",
+        "name:de": "St. Josef Straße 1",
         "name:it": "Via San Giuseppe 1",
         "route_ref": "1;146"
       },
@@ -13699,8 +13699,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Josef Str. 1 - Via San Giuseppe 1",
-        "name:de": "St. Josef Str. 1",
+        "name": "St. Josef Straße 1 - Via San Giuseppe 1",
+        "name:de": "St. Josef Straße 1",
         "name:it": "Via San Giuseppe 1",
         "route_ref": "1;146"
       },
@@ -13756,8 +13756,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Viehmarktstr. 1 - Via Foro Boario 1",
-        "name:de": "Viehmarktstr. 1",
+        "name": "Viehmarktstraße 1 - Via Foro Boario 1",
+        "name:de": "Viehmarktstraße 1",
         "name:it": "Via Foro Boario 1",
         "route_ref": "1;146"
       },
@@ -13774,8 +13774,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Viehmarktstr. 1 - Via Foro Boario 1",
-        "name:de": "Viehmarktstr. 1",
+        "name": "Viehmarktstraße 1 - Via Foro Boario 1",
+        "name:de": "Viehmarktstraße 1",
         "name:it": "Via Foro Boario 1",
         "route_ref": "1;146",
         "shelter": "yes"
@@ -13794,8 +13794,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Viehmarktstr. 2 - Via Foro Boario 2",
-        "name:de": "Viehmarktstr. 2",
+        "name": "Viehmarktstraße 2 - Via Foro Boario 2",
+        "name:de": "Viehmarktstraße 2",
         "name:it": "Via Foro Boario 2",
         "route_ref": "1;146"
       },
@@ -13812,8 +13812,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Viehmarktstr. 2 - Via Foro Boario 2",
-        "name:de": "Viehmarktstr. 2",
+        "name": "Viehmarktstraße 2 - Via Foro Boario 2",
+        "name:de": "Viehmarktstraße 2",
         "name:it": "Via Foro Boario 2",
         "route_ref": "1;146"
       },
@@ -14131,8 +14131,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Oberplars - Bivio Plars di sopra",
-        "name:de": "Abzw. Oberplars",
+        "name": "Abzweigung Oberplars - Bivio Plars di sopra",
+        "name:de": "Abzweigung Oberplars",
         "name:it": "Bivio Plars di sopra",
         "route_ref": "13"
       },
@@ -14150,8 +14150,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Abzw. Oberplars - Bivio Plars di sopra",
-        "name:de": "Abzw. Oberplars",
+        "name": "Abzweigung Oberplars - Bivio Plars di sopra",
+        "name:de": "Abzweigung Oberplars",
         "name:it": "Bivio Plars di sopra",
         "route_ref": "13"
       },
@@ -14279,8 +14279,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 3 - Via Weingartner 3",
-        "name:de": "Weingartnerstr. 3",
+        "name": "Weingartnerstraße 3 - Via Weingartner 3",
+        "name:de": "Weingartnerstraße 3",
         "name:it": "Via Weingartner 3",
         "route_ref": "11;12;13;NIGHTSH",
         "shelter": "yes"
@@ -14298,8 +14298,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 3 - Via Weingartner 3",
-        "name:de": "Weingartnerstr. 3",
+        "name": "Weingartnerstraße 3 - Via Weingartner 3",
+        "name:de": "Weingartnerstraße 3",
         "name:it": "Via Weingartner 3",
         "route_ref": "11;12;13",
         "shelter": "yes"
@@ -14317,8 +14317,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 2 - Via Karl Wolf 2",
-        "name:de": "Karl Wolf Str. 2",
+        "name": "Karl Wolf Straße 2 - Via Karl Wolf 2",
+        "name:de": "Karl Wolf Straße 2",
         "name:it": "Via Karl Wolf 2",
         "route_ref": "2;3;4;11"
       },
@@ -14336,8 +14336,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 2 - Via Karl Wolf 2",
-        "name:de": "Karl Wolf Str. 2",
+        "name": "Karl Wolf Straße 2 - Via Karl Wolf 2",
+        "name:de": "Karl Wolf Straße 2",
         "name:it": "Via Karl Wolf 2",
         "route_ref": "2;3;12"
       },
@@ -14355,8 +14355,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 3 - Via Karl Wolf 3",
-        "name:de": "Karl Wolf Str. 3",
+        "name": "Karl Wolf Straße 3 - Via Karl Wolf 3",
+        "name:de": "Karl Wolf Straße 3",
         "name:it": "Via Karl Wolf 3",
         "route_ref": "2;3;4;11"
       },
@@ -14373,8 +14373,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 3 - Via Karl Wolf 3",
-        "name:de": "Karl Wolf Str. 3",
+        "name": "Karl Wolf Straße 3 - Via Karl Wolf 3",
+        "name:de": "Karl Wolf Straße 3",
         "name:it": "Via Karl Wolf 3",
         "route_ref": "BZ-ME;2;3;11;12",
         "shelter": "yes"
@@ -14393,8 +14393,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 5 - Via Karl Wolf 5",
-        "name:de": "Karl Wolf Str. 5",
+        "name": "Karl Wolf Straße 5 - Via Karl Wolf 5",
+        "name:de": "Karl Wolf Straße 5",
         "name:it": "Via Karl Wolf 5",
         "route_ref": "2;3;11"
       },
@@ -14411,8 +14411,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 5 - Via Karl Wolf 5",
-        "name:de": "Karl Wolf Str. 5",
+        "name": "Karl Wolf Straße 5 - Via Karl Wolf 5",
+        "name:de": "Karl Wolf Straße 5",
         "name:it": "Via Karl Wolf 5",
         "route_ref": "BZ-ME;2;3;146;11;12;14",
         "shelter": "yes"
@@ -14431,8 +14431,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 6 - Via Karl Wolf 6",
-        "name:de": "Karl Wolf Str. 6",
+        "name": "Karl Wolf Straße 6 - Via Karl Wolf 6",
+        "name:de": "Karl Wolf Straße 6",
         "name:it": "Via Karl Wolf 6",
         "route_ref": "2;3;11"
       },
@@ -14449,8 +14449,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Karl Wolf Str. 6 - Via Karl Wolf 6",
-        "name:de": "Karl Wolf Str. 6",
+        "name": "Karl Wolf Straße 6 - Via Karl Wolf 6",
+        "name:de": "Karl Wolf Straße 6",
         "name:it": "Via Karl Wolf 6",
         "route_ref": "3;146;11;12;14",
         "shelter": "yes"
@@ -14487,8 +14487,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 3 - Via Goethe 3",
-        "name:de": "Goethe Str. 3",
+        "name": "Goethe Straße 3 - Via Goethe 3",
+        "name:de": "Goethe Straße 3",
         "name:it": "Via Goethe 3",
         "route_ref": "6;12;13;NIGHTSH"
       },
@@ -14505,8 +14505,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 3 - Via Goethe 3",
-        "name:de": "Goethe Str. 3",
+        "name": "Goethe Straße 3 - Via Goethe 3",
+        "name:de": "Goethe Straße 3",
         "name:it": "Via Goethe 3",
         "route_ref": "BZ-ME;12;13",
         "shelter": "yes"
@@ -14524,8 +14524,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 1 - Via Goethe 1",
-        "name:de": "Goethe Str. 1",
+        "name": "Goethe Straße 1 - Via Goethe 1",
+        "name:de": "Goethe Straße 1",
         "name:it": "Via Goethe 1",
         "route_ref": "11;12;13;NIGHTSH",
         "shelter": "yes"
@@ -14543,8 +14543,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 1 - Via Goethe 1",
-        "name:de": "Goethe Str. 1",
+        "name": "Goethe Straße 1 - Via Goethe 1",
+        "name:de": "Goethe Straße 1",
         "name:it": "Via Goethe 1",
         "route_ref": "BZ-ME;11;12;13",
         "shelter": "yes"
@@ -14600,8 +14600,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 1 - Via Piave 1",
-        "name:de": "Piavestr. 1",
+        "name": "Piavestraße 1 - Via Piave 1",
+        "name:de": "Piavestraße 1",
         "name:it": "Via Piave 1",
         "route_ref": "BZ-ME;6;11;12;14",
         "shelter": "yes"
@@ -14619,8 +14619,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 1 - Via Palade 1",
-        "name:de": "Gampenstr. 1",
+        "name": "Gampenstraße 1 - Via Palade 1",
+        "name:de": "Gampenstraße 1",
         "name:it": "Via Palade 1",
         "route_ref": "11;12;14",
         "shelter": "yes"
@@ -14639,8 +14639,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 2 - Via Palade 2",
-        "name:de": "Gampenstr. 2",
+        "name": "Gampenstraße 2 - Via Palade 2",
+        "name:de": "Gampenstraße 2",
         "name:it": "Via Palade 2",
         "route_ref": "11;12"
       },
@@ -14657,8 +14657,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 2 - Via Palade 2",
-        "name:de": "Gampenstr. 2",
+        "name": "Gampenstraße 2 - Via Palade 2",
+        "name:de": "Gampenstraße 2",
         "name:it": "Via Palade 2",
         "route_ref": "11;12;14",
         "shelter": "yes"
@@ -14786,8 +14786,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Meranerstr. 2 - Via Merano 2",
-        "name:de": "Meranerstr. 2",
+        "name": "Meranerstraße 2 - Via Merano 2",
+        "name:de": "Meranerstraße 2",
         "name:it": "Via Merano 2",
         "route_ref": "BZ-ME;11;14"
       },
@@ -14804,8 +14804,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Meranerstr. 2 - Via Merano 2",
-        "name:de": "Meranerstr. 2",
+        "name": "Meranerstraße 2 - Via Merano 2",
+        "name:de": "Meranerstraße 2",
         "name:it": "Via Merano 2",
         "route_ref": "11;14;NIGHTSH",
         "shelter": "yes"
@@ -14823,8 +14823,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 1 - Via Palade 1",
-        "name:de": "Gampenstr. 1",
+        "name": "Gampenstraße 1 - Via Palade 1",
+        "name:de": "Gampenstraße 1",
         "name:it": "Via Palade 1",
         "route_ref": "248;14;CITY LA"
       },
@@ -14841,8 +14841,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 2 - Via Palade 2",
-        "name:de": "Gampenstr. 2",
+        "name": "Gampenstraße 2 - Via Palade 2",
+        "name:de": "Gampenstraße 2",
         "name:it": "Via Palade 2",
         "route_ref": "248;14;CITY LA"
       },
@@ -15081,8 +15081,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 2 - Via Palade 2",
-        "name:de": "Gampenstr. 2",
+        "name": "Gampenstraße 2 - Via Palade 2",
+        "name:de": "Gampenstraße 2",
         "name:it": "Via Palade 2",
         "route_ref": "248;14;CITY LA"
       },
@@ -15100,8 +15100,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Gampenstr. 1 - Via Palade 1",
-        "name:de": "Gampenstr. 1",
+        "name": "Gampenstraße 1 - Via Palade 1",
+        "name:de": "Gampenstraße 1",
         "name:it": "Via Palade 1",
         "route_ref": "248;14;CITY LA"
       },
@@ -15266,8 +15266,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schnatterbeckstr. 2 - Via Schnatterbeck 2",
-        "name:de": "Schnatterbeckstr. 2",
+        "name": "Schnatterbeckstraße 2 - Via Schnatterbeck 2",
+        "name:de": "Schnatterbeckstraße 2",
         "name:it": "Via Schnatterbeck 2",
         "route_ref": "CITY LA"
       },
@@ -15284,8 +15284,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 1 - Via Dogana 1",
-        "name:de": "Zollstr. 1",
+        "name": "Zollstraße 1 - Via Dogana 1",
+        "name:de": "Zollstraße 1",
         "name:it": "Via Dogana 1",
         "route_ref": "11;CITY LA",
         "shelter": "yes"
@@ -15303,8 +15303,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 3 - Via Dogana 3",
-        "name:de": "Zollstr. 3",
+        "name": "Zollstraße 3 - Via Dogana 3",
+        "name:de": "Zollstraße 3",
         "name:it": "Via Dogana 3",
         "route_ref": "11;CITY LA",
         "shelter": "yes"
@@ -15341,8 +15341,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schnatterbeckstr. 2 - Via Schnatterbeck 2",
-        "name:de": "Schnatterbeckstr. 2",
+        "name": "Schnatterbeckstraße 2 - Via Schnatterbeck 2",
+        "name:de": "Schnatterbeckstraße 2",
         "name:it": "Via Schnatterbeck 2",
         "route_ref": "CITY LA"
       },
@@ -15359,8 +15359,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Schnatterbeckstr. 1 - Via Schnatterbeck 1",
-        "name:de": "Schnatterbeckstr. 1",
+        "name": "Schnatterbeckstraße 1 - Via Schnatterbeck 1",
+        "name:de": "Schnatterbeckstraße 1",
         "name:it": "Via Schnatterbeck 1",
         "route_ref": "CITY LA"
       },
@@ -15395,8 +15395,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Boznerstr. 1 - Via Bolzano 1",
-        "name:de": "Boznerstr. 1",
+        "name": "Boznerstraße 1 - Via Bolzano 1",
+        "name:de": "Boznerstraße 1",
         "name:it": "Via Bolzano 1",
         "route_ref": "11;CITY LA;NIGHTSH",
         "shelter": "yes"
@@ -15414,8 +15414,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Boznerstr. 2 - Via Bolzano 2",
-        "name:de": "Boznerstr. 2",
+        "name": "Boznerstraße 2 - Via Bolzano 2",
+        "name:de": "Boznerstraße 2",
         "name:it": "Via Bolzano 2",
         "route_ref": "BZ-ME;11;CITY LA;NIGHTSH",
         "shelter": "yes"
@@ -15471,9 +15471,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Burgstall Seilb. Voeran - Postal Fun. Verano",
-        "name:de": "Burgstall Seilb. Voeran",
-        "name:it": "Postal Fun. Verano",
+        "name": "Burgstall Seilbahn Voeran - Postal Funivia Verano",
+        "name:de": "Burgstall Seilbahn Voeran",
+        "name:it": "Postal Funivia Verano",
         "route_ref": "BZ-ME;CITY LA;NIGHTSH",
         "shelter": "yes"
       },
@@ -15566,9 +15566,9 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Burgstall Seilb. Voeran - Postal Fun. Verano",
-        "name:de": "Burgstall Seilb. Voeran",
-        "name:it": "Postal Fun. Verano",
+        "name": "Burgstall Seilbahn Voeran - Postal Funivia Verano",
+        "name:de": "Burgstall Seilbahn Voeran",
+        "name:it": "Postal Funivia Verano",
         "route_ref": "BZ-ME;CITY LA;NIGHTSH"
       },
       "geometry": {
@@ -15641,8 +15641,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 3 - Via Dogana 3",
-        "name:de": "Zollstr. 3",
+        "name": "Zollstraße 3 - Via Dogana 3",
+        "name:de": "Zollstraße 3",
         "name:it": "Via Dogana 3",
         "route_ref": "11;CITY LA",
         "shelter": "yes"
@@ -15660,8 +15660,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Zollstr. 1 - Via Dogana 1",
-        "name:de": "Zollstr. 1",
+        "name": "Zollstraße 1 - Via Dogana 1",
+        "name:de": "Zollstraße 1",
         "name:it": "Via Dogana 1",
         "route_ref": "11;CITY LA",
         "shelter": "yes"
@@ -15961,8 +15961,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 3 - Via Piave 3",
-        "name:de": "Piavestr. 3",
+        "name": "Piavestraße 3 - Via Piave 3",
+        "name:de": "Piavestraße 3",
         "name:it": "Via Piave 3",
         "route_ref": "11;12;14",
         "shelter": "yes"
@@ -15980,8 +15980,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 3 - Via Piave 3",
-        "name:de": "Piavestr. 3",
+        "name": "Piavestraße 3 - Via Piave 3",
+        "name:de": "Piavestraße 3",
         "name:it": "Via Piave 3",
         "route_ref": "11;12"
       },
@@ -16127,8 +16127,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Jaufenstr. - Via passo Giovo",
-        "name:de": "Jaufenstr.",
+        "name": "Jaufenstraße - Via passo Giovo",
+        "name:de": "Jaufenstraße",
         "name:it": "Via passo Giovo",
         "route_ref": "VERNURIO"
       },
@@ -16146,8 +16146,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Jaufenstr. - Via passo Giovo",
-        "name:de": "Jaufenstr.",
+        "name": "Jaufenstraße - Via passo Giovo",
+        "name:de": "Jaufenstraße",
         "name:it": "Via passo Giovo",
         "route_ref": "ZEN-FIN;VERNURIO"
       },
@@ -16164,8 +16164,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Georgen Str. - Via San Giorgio",
-        "name:de": "St. Georgen Str.",
+        "name": "St. Georgen Straße - Via San Giorgio",
+        "name:de": "St. Georgen Straße",
         "name:it": "Via San Giorgio",
         "route_ref": "TIROLO"
       },
@@ -16183,8 +16183,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "St. Georgen Str. - Via San Giorgio",
-        "name:de": "St. Georgen Str.",
+        "name": "St. Georgen Straße - Via San Giorgio",
+        "name:de": "St. Georgen Straße",
         "name:it": "Via San Giorgio",
         "route_ref": "TIROLO"
       },
@@ -16201,8 +16201,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Piavestr. 1 - Via Piave 1",
-        "name:de": "Piavestr. 1",
+        "name": "Piavestraße 1 - Via Piave 1",
+        "name:de": "Piavestraße 1",
         "name:it": "Via Piave 1",
         "route_ref": "BZ-ME;2;6;146;11;12;TIROLO;ME-AV;NIGHTSH",
         "shelter": "yes"
@@ -16220,8 +16220,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 2 - Via Goethe 2",
-        "name:de": "Goethe Str. 2",
+        "name": "Goethe Straße 2 - Via Goethe 2",
+        "name:de": "Goethe Straße 2",
         "name:it": "Via Goethe 2",
         "route_ref": "6;12;13;NIGHTSH",
         "shelter": "yes"
@@ -16258,8 +16258,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 4 - Via Goethe 4",
-        "name:de": "Goethe Str. 4",
+        "name": "Goethe Straße 4 - Via Goethe 4",
+        "name:de": "Goethe Straße 4",
         "name:it": "Via Goethe 4",
         "route_ref": "11;12;13;NIGHTSH"
       },
@@ -16276,8 +16276,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 1 - Via Weingartner 1",
-        "name:de": "Weingartnerstr. 1",
+        "name": "Weingartnerstraße 1 - Via Weingartner 1",
+        "name:de": "Weingartnerstraße 1",
         "name:it": "Via Weingartner 1",
         "route_ref": "11;12;13;NIGHTSH",
         "shelter": "yes"
@@ -16331,8 +16331,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Weingartnerstr. 1 - Via Weingartner 1",
-        "name:de": "Weingartnerstr. 1",
+        "name": "Weingartnerstraße 1 - Via Weingartner 1",
+        "name:de": "Weingartnerstraße 1",
         "name:it": "Via Weingartner 1",
         "route_ref": "11;12;13",
         "shelter": "yes"
@@ -16350,8 +16350,8 @@
       "properties": {
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 4 - Via Goethe 4",
-        "name:de": "Goethe Str. 4",
+        "name": "Goethe Straße 4 - Via Goethe 4",
+        "name:de": "Goethe Straße 4",
         "name:it": "Via Goethe 4",
         "route_ref": "12;13"
       },
@@ -16369,8 +16369,8 @@
         "bench": "yes",
         "highway": "bus_stop",
         "operator": "SASA",
-        "name": "Goethe Str. 2 - Via Goethe 2",
-        "name:de": "Goethe Str. 2",
+        "name": "Goethe Straße 2 - Via Goethe 2",
+        "name:de": "Goethe Straße 2",
         "name:it": "Via Goethe 2",
         "route_ref": "BZ-ME;12;13"
       },
