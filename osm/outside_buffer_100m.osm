@@ -168,9 +168,9 @@
   </node>
   <node id='-32717' action='modify' visible='true' lat='46.4114697' lon='11.3293881'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Laives ZI - Leifers IZ' />
-    <tag k='name:de' v='Leifers IZ' />
-    <tag k='name:it' v='Laives ZI' />
+    <tag k='name' v='Laives zona industriale - Leifers Industriezone' />
+    <tag k='name:de' v='Leifers Industriezone' />
+    <tag k='name:it' v='Laives zona industriale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2' />
     <tag k='shelter' v='yes' />
@@ -2985,9 +2985,9 @@
   <node id='-32047' action='modify' visible='true' lat='46.4106478' lon='11.3290997'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Laives ZI - Leifers IZ' />
-    <tag k='name:de' v='Leifers IZ' />
-    <tag k='name:it' v='Laives ZI' />
+    <tag k='name' v='Laives zona industriale - Leifers Industriezone' />
+    <tag k='name:de' v='Leifers Industriezone' />
+    <tag k='name:it' v='Laives zona industriale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;VAD_LAIV' />
   </node>

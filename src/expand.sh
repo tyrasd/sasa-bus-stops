@@ -30,6 +30,8 @@ sed -i 's/HW Zone/Handwerkerzone/g' $1
 sed -i 's/Handwerkerz\./Handwerkerzone/g' $1
 sed -i 's/zona art\./zona artigianale/g' $1
 sed -i 's/zona Art\./zona artigianale/g' $1
+sed -i 's/ZI/zona industriale/g' $1
+sed -i 's/IZ/Industriezone/g' $1
 sed -i 's/Rotw\./Rotwand/g' $1
 sed -i 's/Kreisv\./Kreisverkehr/g' $1
 sed -i 's/zona Ind\./zona industriale/g' $1
