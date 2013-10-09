@@ -68,8 +68,8 @@
   </node>
   <node id='-12073' action='modify' visible='true' lat='46.4921353' lon='11.3991578'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name' v='Kardaun Handwerkerzone - Cardano zona artigianale' />
+    <tag k='name:de' v='Kardaun Handwerkerzone' />
     <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -132,8 +132,8 @@
   </node>
   <node id='-12057' action='modify' visible='true' lat='46.4920639' lon='11.3990806'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name' v='Kardaun Handwerkerzone - Cardano zona artigianale' />
+    <tag k='name:de' v='Kardaun Handwerkerzone' />
     <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />

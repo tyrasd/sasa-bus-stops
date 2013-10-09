@@ -628,16 +628,16 @@
   </node>
   <node id='-12233' action='modify' visible='true' lat='46.6317339' lon='11.1773861'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artigianale' />
-    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name' v='Sinich Handwerkerzone - Sinigo Zona Artigianale' />
+    <tag k='name:de' v='Sinich Handwerkerzone' />
     <tag k='name:it' v='Sinigo Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;14' />
   </node>
   <node id='-12231' action='modify' visible='true' lat='46.631575' lon='11.1774417'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artigianale' />
-    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name' v='Sinich Handwerkerzone - Sinigo Zona Artigianale' />
+    <tag k='name:de' v='Sinich Handwerkerzone' />
     <tag k='name:it' v='Sinigo Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2' />

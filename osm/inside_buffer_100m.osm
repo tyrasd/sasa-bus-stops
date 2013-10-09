@@ -287,8 +287,8 @@
   </node>
   <node id='-13387' action='modify' visible='true' lat='46.6317339' lon='11.1773861'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artigianale' />
-    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name' v='Sinich Handwerkerzone - Sinigo Zona Artigianale' />
+    <tag k='name:de' v='Sinich Handwerkerzone' />
     <tag k='name:it' v='Sinigo Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2;14' />
@@ -1912,8 +1912,8 @@
   </node>
   <node id='-13007' action='modify' visible='true' lat='46.4921353' lon='11.3991578'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name' v='Kardaun Handwerkerzone - Cardano zona artigianale' />
+    <tag k='name:de' v='Kardaun Handwerkerzone' />
     <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -2987,8 +2987,8 @@
   </node>
   <node id='-12755' action='modify' visible='true' lat='46.4920639' lon='11.3990806'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Kardaun Handwerkerz. - Cardano zona artigianale' />
-    <tag k='name:de' v='Kardaun Handwerkerz.' />
+    <tag k='name' v='Kardaun Handwerkerzone - Cardano zona artigianale' />
+    <tag k='name:de' v='Kardaun Handwerkerzone' />
     <tag k='name:it' v='Cardano zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='13' />
@@ -3038,8 +3038,8 @@
   </node>
   <node id='-12743' action='modify' visible='true' lat='46.631575' lon='11.1774417'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Sinich HW Zone - Sinigo Zona Artigianale' />
-    <tag k='name:de' v='Sinich HW Zone' />
+    <tag k='name' v='Sinich Handwerkerzone - Sinigo Zona Artigianale' />
+    <tag k='name:de' v='Sinich Handwerkerzone' />
     <tag k='name:it' v='Sinigo Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='2' />

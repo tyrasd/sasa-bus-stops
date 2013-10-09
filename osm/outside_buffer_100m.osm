@@ -100,8 +100,8 @@
   </node>
   <node id='-32733' action='modify' visible='true' lat='46.5142661' lon='11.2691694'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Siebeneich HW Zone - Settequerce Zona Artigianale' />
-    <tag k='name:de' v='Siebeneich HW Zone' />
+    <tag k='name' v='Siebeneich Handwerkerzone - Settequerce Zona Artigianale' />
+    <tag k='name:de' v='Siebeneich Handwerkerzone' />
     <tag k='name:it' v='Settequerce Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='BZ-ME;NALLES' />
@@ -566,8 +566,8 @@
   </node>
   <node id='-32623' action='modify' visible='true' lat='46.6378061' lon='11.2314125'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Hafling Handwerkerz. - Avlengo zona artigianale' />
-    <tag k='name:de' v='Hafling Handwerkerz.' />
+    <tag k='name' v='Hafling Handwerkerzone - Avlengo zona artigianale' />
+    <tag k='name:de' v='Hafling Handwerkerzone' />
     <tag k='name:it' v='Avlengo zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='ME-AV;NIGHTSH' />
@@ -1590,8 +1590,8 @@
   </node>
   <node id='-32379' action='modify' visible='true' lat='46.6382367' lon='11.2312514'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Hafling Handwerkerz. - Avlengo zona artigianale' />
-    <tag k='name:de' v='Hafling Handwerkerz.' />
+    <tag k='name' v='Hafling Handwerkerzone - Avlengo zona artigianale' />
+    <tag k='name:de' v='Hafling Handwerkerzone' />
     <tag k='name:it' v='Avlengo zona artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='ME-AV;NIGHTSH' />
@@ -3384,8 +3384,8 @@
   </node>
   <node id='-31953' action='modify' visible='true' lat='46.5138781' lon='11.2701778'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Siebeneich HW Zone - Settequerce Zona Artigianale' />
-    <tag k='name:de' v='Siebeneich HW Zone' />
+    <tag k='name' v='Siebeneich Handwerkerzone - Settequerce Zona Artigianale' />
+    <tag k='name:de' v='Siebeneich Handwerkerzone' />
     <tag k='name:it' v='Settequerce Zona Artigianale' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='BZ-ME;NALLES' />
