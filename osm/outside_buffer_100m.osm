@@ -968,9 +968,9 @@
   </node>
   <node id='-32527' action='modify' visible='true' lat='46.6237208' lon='11.1441317'>
     <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Via Villa - Villener Weg' />
-    <tag k='name:de' v='via Villa' />
-    <tag k='name:it' v='Villener Weg' />
+    <tag k='name' v='Villener Weg - Via Villa' />
+    <tag k='name:de' v='Villener Weg' />
+    <tag k='name:it' v='Via Villa' />
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='CITY LA' />
   </node>
