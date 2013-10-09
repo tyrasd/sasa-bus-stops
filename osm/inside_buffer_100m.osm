@@ -2790,14 +2790,6 @@
     <tag k='route_ref' v='13' />
     <tag k='shelter' v='yes' />
   </node>
-  <node id='-12801' action='modify' visible='true' lat='46.6728828' lon='11.1749858'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Straße 2 NON ESISTE PIU - Via Virgilio 2' />
-    <tag k='name:de' v='Vergil Straße 2 NON ESISTE PIU' />
-    <tag k='name:it' v='Via Virgilio 2' />
-    <tag k='operator' v='SASA' />
-    <tag k='route_ref' v='146' />
-  </node>
   <node id='-12799' action='modify' visible='true' lat='46.4905081' lon='11.34217'>
     <tag k='highway' v='bus_stop' />
     <tag k='name' v='Via Roma 3 - Romstraße 3' />

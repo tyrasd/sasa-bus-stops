@@ -498,14 +498,6 @@
     <tag k='operator' v='SASA' />
     <tag k='route_ref' v='TIROLO' />
   </node>
-  <node id='-12263' action='modify' visible='true' lat='46.6728828' lon='11.1749858'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='Vergil Straße 2 NON ESISTE PIU - Via Virgilio 2' />
-    <tag k='name:de' v='Vergil Straße 2 NON ESISTE PIU' />
-    <tag k='name:it' v='Via Virgilio 2' />
-    <tag k='operator' v='SASA' />
-    <tag k='route_ref' v='146' />
-  </node>
   <node id='-12261' action='modify' visible='true' lat='46.67205' lon='11.1595514'>
     <tag k='bench' v='yes' />
     <tag k='highway' v='bus_stop' />
